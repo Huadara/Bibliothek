@@ -4,16 +4,16 @@
 library
 C#
 .cs
-C:\DBI_Projekt_Bibliothek\Bibliothek\Assessment-Tool\AssessmentControlLib\obj\Debug\
+C:\DBI_Projekt_Bibliothek\Bibliothek\Assessment-Tool\AssessmentControlLib\obj\Release\
 AssessmentControlLib
 none
 false
-DEBUG;TRACE
+TRACE
 
 11426281480
 
 4-123931765
-14-945318952
+14-1366634247
 TaskControl.xaml;
 
 True

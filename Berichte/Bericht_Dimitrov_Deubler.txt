@@ -1,0 +1,6 @@
+Aleks Dimitrov - 13.05.2019	
+
+1. Nachhilfe beim Heiligen (git)
+2. Gemeinsam mit Jakob Deubler / Aleks Dimitrov JSON-String skizziert.
+3. Gemeinsam mit Jakob Deubler / Aleks Dimitrov Testdaten erstellt. (mockaroo)
+4. Kurzer Bericht geschrieben. 

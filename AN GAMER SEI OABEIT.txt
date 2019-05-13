@@ -1,0 +1,3 @@
+-Frontend erstellt
+-Vue.js aufgesetzt
+-Grundlegendes Design erledigt

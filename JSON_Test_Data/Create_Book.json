@@ -1,100 +1,100 @@
-{"name":"Garrot","author":"Gluyus","isbn":"918989358-1","publisher":"Cabrara","supplierId":16,"price":51}
-{"name":"Teri","author":"Dyka","isbn":"423313340-6","publisher":"Kohtler","supplierId":15,"price":17}
-{"name":"Hally","author":"Ford","isbn":"690004204-X","publisher":"Sherville","supplierId":14,"price":84}
-{"name":"Clarke","author":"Dougharty","isbn":"469362310-5","publisher":"Foskew","supplierId":7,"price":33}
-{"name":"Alard","author":"Valsler","isbn":"274304912-X","publisher":"Labb","supplierId":13,"price":32}
-{"name":"Pattin","author":"Fominov","isbn":"491016053-1","publisher":"Lawless","supplierId":24,"price":52}
-{"name":"Cheslie","author":"Barbosa","isbn":"901721428-7","publisher":"Bloy","supplierId":49,"price":5}
-{"name":"Jennifer","author":"Uden","isbn":"168336798-7","publisher":"Immings","supplierId":42,"price":92}
-{"name":"Adan","author":"Ganning","isbn":"813315173-2","publisher":"McGowing","supplierId":9,"price":14}
-{"name":"Aileen","author":"Febre","isbn":"442898471-5","publisher":"Ganderton","supplierId":82,"price":38}
-{"name":"Mikkel","author":"Scardifield","isbn":"895470447-6","publisher":"Rounsivall","supplierId":5,"price":61}
-{"name":"Hester","author":"Stirtle","isbn":"464912397-6","publisher":"Dawnay","supplierId":27,"price":77}
-{"name":"Gay","author":"Lunge","isbn":"536230811-4","publisher":"Durham","supplierId":51,"price":64}
-{"name":"Christan","author":"Pretsel","isbn":"516358086-8","publisher":"Dannehl","supplierId":59,"price":62}
-{"name":"Edie","author":"Hagston","isbn":"096536680-4","publisher":"Purviss","supplierId":50,"price":66}
-{"name":"Carl","author":"Runcieman","isbn":"700153574-5","publisher":"Durnell","supplierId":97,"price":99}
-{"name":"Alis","author":"Kunneke","isbn":"124167714-X","publisher":"Rankmore","supplierId":33,"price":31}
-{"name":"Bernadine","author":"Goundrill","isbn":"748861078-4","publisher":"Goddert.sf","supplierId":10,"price":55}
-{"name":"Minna","author":"Duckworth","isbn":"719384208-0","publisher":"Tudball","supplierId":78,"price":52}
-{"name":"Liana","author":"Bibbie","isbn":"681845938-2","publisher":"Consterdine","supplierId":80,"price":79}
-{"name":"Justis","author":"Titmarsh","isbn":"534196330-X","publisher":"Josling","supplierId":15,"price":83}
-{"name":"Emmy","author":"McDonough","isbn":"420479298-7","publisher":"Dowsing","supplierId":36,"price":88}
-{"name":"Dodie","author":"Pummell","isbn":"777283284-2","publisher":"Edmeades","supplierId":59,"price":81}
-{"name":"Therine","author":"MacCostye","isbn":"826211208-3","publisher":"Flecknell","supplierId":81,"price":19}
-{"name":"Port","author":"Goldsworthy","isbn":"781987539-9","publisher":"Kittiman","supplierId":32,"price":16}
-{"name":"Elsy","author":"Jiranek","isbn":"613353364-1","publisher":"Lacy","supplierId":76,"price":95}
-{"name":"Chrissy","author":"Utley","isbn":"345801972-3","publisher":"Winman","supplierId":98,"price":50}
-{"name":"Crin","author":"Cauldwell","isbn":"340643931-4","publisher":"Stillwell","supplierId":6,"price":10}
-{"name":"Pen","author":"Maddams","isbn":"230987116-8","publisher":"Trinder","supplierId":93,"price":21}
-{"name":"Dori","author":"Kamena","isbn":"797123256-X","publisher":"McGlashan","supplierId":73,"price":68}
-{"name":"Amaleta","author":"Reinbech","isbn":"879253564-X","publisher":"Rowdell","supplierId":7,"price":46}
-{"name":"Marsh","author":"Dumsday","isbn":"764171447-1","publisher":"Hassey","supplierId":82,"price":24}
-{"name":"Caesar","author":"Bubbings","isbn":"629017066-X","publisher":"Worstall","supplierId":50,"price":84}
-{"name":"Biddy","author":"Folca","isbn":"489612900-8","publisher":"Greenard","supplierId":84,"price":22}
-{"name":"Harland","author":"Fores","isbn":"481412415-5","publisher":"Putten","supplierId":11,"price":54}
-{"name":"Lizzie","author":"Laxon","isbn":"908032829-4","publisher":"MacClay","supplierId":38,"price":65}
-{"name":"Caron","author":"Rockliffe","isbn":"462110738-0","publisher":"Filtness","supplierId":61,"price":16}
-{"name":"Philipa","author":"Mariaud","isbn":"450297213-4","publisher":"Godar","supplierId":54,"price":89}
-{"name":"Essie","author":"Johannesson","isbn":"914026755-5","publisher":"Smullen","supplierId":66,"price":86}
-{"name":"Abdul","author":"Littledyke","isbn":"794263173-7","publisher":"Houchin","supplierId":60,"price":76}
-{"name":"Selena","author":"Branney","isbn":"770862045-7","publisher":"Orvis","supplierId":41,"price":39}
-{"name":"Hadley","author":"Nimmo","isbn":"581409751-5","publisher":"Champkin","supplierId":4,"price":45}
-{"name":"Carmel","author":"Jerrems","isbn":"152523478-1","publisher":"Mathwen","supplierId":92,"price":99}
-{"name":"Trefor","author":"Greensted","isbn":"018653916-9","publisher":"Ranken","supplierId":80,"price":36}
-{"name":"Sunshine","author":"Kleisel","isbn":"891934965-7","publisher":"McWard","supplierId":86,"price":85}
-{"name":"Fina","author":"Walisiak","isbn":"979047080-0","publisher":"Gligorijevic","supplierId":68,"price":7}
-{"name":"Zabrina","author":"Wilkennson","isbn":"506192755-9","publisher":"Flement","supplierId":43,"price":80}
-{"name":"Tallia","author":"Aburrow","isbn":"966385414-6","publisher":"Robertelli","supplierId":48,"price":36}
-{"name":"Annabelle","author":"Dunckley","isbn":"397879013-0","publisher":"Torns","supplierId":77,"price":90}
-{"name":"Cassie","author":"Fossick","isbn":"345967948-4","publisher":"Haggish","supplierId":31,"price":1}
-{"name":"Padriac","author":"Russe","isbn":"844689674-5","publisher":"Jakubski","supplierId":61,"price":51}
-{"name":"Geraldine","author":"Randal","isbn":"021738281-9","publisher":"Bortoloni","supplierId":18,"price":21}
-{"name":"Mort","author":"Daoust","isbn":"563807181-4","publisher":"Kreuzer","supplierId":22,"price":36}
-{"name":"Marijo","author":"Minillo","isbn":"778234946-X","publisher":"Biddle","supplierId":52,"price":18}
-{"name":"Genovera","author":"Fynn","isbn":"990038621-3","publisher":"Millin","supplierId":75,"price":37}
-{"name":"Luciano","author":"Wynne","isbn":"272006147-6","publisher":"Dillamore","supplierId":77,"price":32}
-{"name":"Brunhilda","author":"Gilstoun","isbn":"400957441-0","publisher":"Chalcot","supplierId":10,"price":100}
-{"name":"Giovanna","author":"Chisnall","isbn":"733512718-1","publisher":"Beachem","supplierId":33,"price":18}
-{"name":"Wade","author":"Camilli","isbn":"301720281-X","publisher":"Tunnacliffe","supplierId":77,"price":97}
-{"name":"Valma","author":"Islip","isbn":"198168827-7","publisher":"Carling","supplierId":97,"price":93}
-{"name":"Jerrold","author":"Cabotto","isbn":"880406272-X","publisher":"Edbrooke","supplierId":89,"price":37}
-{"name":"Meriel","author":"Canniffe","isbn":"423937777-3","publisher":"Krolman","supplierId":44,"price":4}
-{"name":"Agnesse","author":"Lathe","isbn":"441263969-X","publisher":"Saket","supplierId":63,"price":31}
-{"name":"Nikolos","author":"Naptine","isbn":"138164412-0","publisher":"Estrella","supplierId":46,"price":92}
-{"name":"Conant","author":"Klimowski","isbn":"573161223-4","publisher":"Haywood","supplierId":42,"price":1}
-{"name":"Lydon","author":"Haley","isbn":"193059890-4","publisher":"Linnock","supplierId":74,"price":6}
-{"name":"Ali","author":"Stradling","isbn":"863861939-1","publisher":"Wallicker","supplierId":7,"price":67}
-{"name":"Dari","author":"Woolis","isbn":"626109310-5","publisher":"Olenov","supplierId":69,"price":55}
-{"name":"Gonzalo","author":"Whopples","isbn":"585437738-1","publisher":"Hobgen","supplierId":46,"price":43}
-{"name":"Noami","author":"Wanstall","isbn":"397886823-7","publisher":"Klaiser","supplierId":23,"price":56}
-{"name":"Lilly","author":"Kristiansen","isbn":"816923506-5","publisher":"Dri","supplierId":80,"price":90}
-{"name":"Ninon","author":"MacConneely","isbn":"597484631-1","publisher":"Merington","supplierId":60,"price":70}
-{"name":"Jarrod","author":"Paver","isbn":"710160457-9","publisher":"Pierpoint","supplierId":89,"price":92}
-{"name":"Moritz","author":"Gladdolph","isbn":"362092460-0","publisher":"Patroni","supplierId":89,"price":99}
-{"name":"Meris","author":"Iglesias","isbn":"017299315-6","publisher":"Oldam","supplierId":85,"price":6}
-{"name":"Carson","author":"Morecomb","isbn":"115775256-X","publisher":"Escoffrey","supplierId":67,"price":19}
-{"name":"Emmalyn","author":"Serotsky","isbn":"045021600-4","publisher":"Sclanders","supplierId":58,"price":61}
-{"name":"Gilda","author":"Talloe","isbn":"265117996-5","publisher":"Silverthorn","supplierId":32,"price":87}
-{"name":"Birgitta","author":"Hourigan","isbn":"739578063-9","publisher":"Durban","supplierId":37,"price":2}
-{"name":"Marnia","author":"Priditt","isbn":"605779602-0","publisher":"Shildrick","supplierId":72,"price":29}
-{"name":"Teddy","author":"Ondrus","isbn":"515455685-2","publisher":"Halpen","supplierId":36,"price":35}
-{"name":"Eulalie","author":"Devil","isbn":"058158985-8","publisher":"Scotfurth","supplierId":27,"price":51}
-{"name":"Katlin","author":"Monckton","isbn":"334800936-7","publisher":"Sandiland","supplierId":6,"price":74}
-{"name":"Pavla","author":"Yeo","isbn":"370903826-X","publisher":"Forseith","supplierId":20,"price":41}
-{"name":"Justen","author":"Giacomucci","isbn":"691930760-X","publisher":"Lewknor","supplierId":7,"price":12}
-{"name":"Berta","author":"Paydon","isbn":"269175798-6","publisher":"Lain","supplierId":47,"price":68}
-{"name":"Rice","author":"Strank","isbn":"551983014-2","publisher":"McColley","supplierId":36,"price":51}
-{"name":"Christophe","author":"Presdee","isbn":"895944508-8","publisher":"Gorey","supplierId":12,"price":70}
-{"name":"Carrissa","author":"Maulden","isbn":"514152491-4","publisher":"Wickling","supplierId":3,"price":43}
-{"name":"Melvin","author":"Kleinhausen","isbn":"967603562-9","publisher":"Crossley","supplierId":53,"price":22}
-{"name":"Remy","author":"Annice","isbn":"542705451-0","publisher":"Spencer","supplierId":20,"price":35}
-{"name":"Glennie","author":"Buse","isbn":"902959362-8","publisher":"Osban","supplierId":72,"price":77}
-{"name":"Brok","author":"Jozefowicz","isbn":"087912569-1","publisher":"Boodell","supplierId":67,"price":7}
-{"name":"Rodolphe","author":"Le feuvre","isbn":"497918079-5","publisher":"Corey","supplierId":70,"price":39}
-{"name":"Shanon","author":"Secrett","isbn":"622298471-1","publisher":"Gauvain","supplierId":63,"price":72}
-{"name":"Lothaire","author":"Btham","isbn":"303233803-4","publisher":"Wetherill","supplierId":58,"price":83}
-{"name":"Fonzie","author":"Roaf","isbn":"525050086-2","publisher":"Lebrun","supplierId":7,"price":50}
-{"name":"Lurline","author":"Gerrets","isbn":"265830828-0","publisher":"Palek","supplierId":50,"price":18}
-{"name":"Arney","author":"Pibsworth","isbn":"727991554-X","publisher":"Pert","supplierId":73,"price":17}
-{"name":"Donelle","author":"Pacquet","isbn":"330495007-9","publisher":"Donativo","supplierId":14,"price":13}
+{"name":"Curdled","author":"MacDonald","isbn":"805360760-8","publisher":"Garthside","supplierId":54,"price":71}
+{"name":"Killer McCoy","author":"Checkley","isbn":"169772969-X","publisher":"Vaillant","supplierId":73,"price":62}
+{"name":"Nothing to Lose (a.k.a. Ten Benny)","author":"Goldster","isbn":"466277813-1","publisher":"Mushet","supplierId":34,"price":22}
+{"name":"Early Spring (Soshun)","author":"Ottam","isbn":"860349730-3","publisher":"Janoschek","supplierId":50,"price":13}
+{"name":"Stage Fright","author":"De Andisie","isbn":"742820488-7","publisher":"Seeler","supplierId":70,"price":85}
+{"name":"X-Men","author":"Peealess","isbn":"626472653-2","publisher":"Clewer","supplierId":52,"price":99}
+{"name":"Mr. Wrong","author":"Jaouen","isbn":"419033272-0","publisher":"Petzolt","supplierId":28,"price":98}
+{"name":"Unintentional Kidnapping of Mrs. Elfriede Ott, The (Die Unabsichtliche Entführung der Frau Elfriede Ott)","author":"Wybron","isbn":"575707125-7","publisher":"Heads","supplierId":69,"price":28}
+{"name":"Captain's Paradise, The","author":"Handyside","isbn":"137624210-9","publisher":"Alexandersson","supplierId":33,"price":3}
+{"name":"Godzilla (Gojira)","author":"Dat","isbn":"504729162-6","publisher":"Bosanko","supplierId":32,"price":65}
+{"name":"Chantilly Lace","author":"Rief","isbn":"567258359-8","publisher":"Greenman","supplierId":98,"price":29}
+{"name":"Brigham City","author":"Veare","isbn":"800875331-5","publisher":"Nance","supplierId":89,"price":75}
+{"name":"Strange Brew","author":"Royse","isbn":"662660751-0","publisher":"MacBey","supplierId":32,"price":90}
+{"name":"Sibling Rivalry","author":"Speight","isbn":"167112306-9","publisher":"Marmyon","supplierId":4,"price":91}
+{"name":"Valerie and Her Week of Wonders (Valerie a týden divu)","author":"Beddie","isbn":"223796548-X","publisher":"Stoller","supplierId":23,"price":24}
+{"name":"Oceans (Océans)","author":"Klinck","isbn":"783675202-X","publisher":"Rosini","supplierId":85,"price":64}
+{"name":"Black Sleep, The","author":"Briggs","isbn":"257433592-9","publisher":"Simonini","supplierId":55,"price":20}
+{"name":"Penitentiary","author":"Vidloc","isbn":"003600754-4","publisher":"Janota","supplierId":12,"price":29}
+{"name":"Eaux d'artifice","author":"Sterman","isbn":"563535806-3","publisher":"Runge","supplierId":17,"price":3}
+{"name":"Popcorn","author":"Sproule","isbn":"366246820-4","publisher":"Barensky","supplierId":14,"price":33}
+{"name":"Les invincibles","author":"Petasch","isbn":"297897338-2","publisher":"Georgescu","supplierId":39,"price":22}
+{"name":"Man from London, The (A Londoni férfi)","author":"Shemming","isbn":"997843332-5","publisher":"Caughan","supplierId":35,"price":95}
+{"name":"Gone Girl","author":"Jefferies","isbn":"966074301-7","publisher":"Shieldon","supplierId":72,"price":62}
+{"name":"Water Lilies (Naissance des pieuvres)","author":"Fidelli","isbn":"981251575-5","publisher":"Lyman","supplierId":36,"price":46}
+{"name":"Lucky Night","author":"Battershall","isbn":"077443917-3","publisher":"Kettley","supplierId":17,"price":13}
+{"name":"Naked Civil Servant, The","author":"Tabrett","isbn":"467908227-5","publisher":"Bartke","supplierId":72,"price":56}
+{"name":"Anne of Green Gables","author":"Du Plantier","isbn":"531202766-9","publisher":"Vasyunkin","supplierId":39,"price":89}
+{"name":"Straight Talk","author":"Bewshaw","isbn":"925220727-9","publisher":"Kyles","supplierId":41,"price":1}
+{"name":"Toomorrow","author":"Burmingham","isbn":"510347332-1","publisher":"Ingleson","supplierId":28,"price":54}
+{"name":"Guide for the Married Man, A","author":"Jeune","isbn":"304562695-5","publisher":"Brentnall","supplierId":47,"price":61}
+{"name":"Leo the Last","author":"Kapelhof","isbn":"828840347-6","publisher":"MacCall","supplierId":99,"price":33}
+{"name":"Lost in Thailand (Ren zai jiong tu zhi tai jiong)","author":"Derham","isbn":"325941015-5","publisher":"Kinleyside","supplierId":89,"price":88}
+{"name":"North and South, Book I","author":"Ebbitt","isbn":"535937855-7","publisher":"Treharne","supplierId":84,"price":35}
+{"name":"Clubbed","author":"Baudain","isbn":"301930836-4","publisher":"Smaile","supplierId":88,"price":89}
+{"name":"Trois","author":"Chellenham","isbn":"091164569-1","publisher":"Maggiore","supplierId":40,"price":91}
+{"name":"F for Fake (Vérités et mensonges)","author":"Putman","isbn":"859317582-1","publisher":"Alekseicik","supplierId":37,"price":52}
+{"name":"Family Affair ","author":"Degnen","isbn":"794621815-X","publisher":"Urlin","supplierId":17,"price":68}
+{"name":"Oh, Susanna!","author":"Burchfield","isbn":"906557952-4","publisher":"Earnshaw","supplierId":14,"price":45}
+{"name":"Manufactured Landscapes","author":"Dinsale","isbn":"237665072-0","publisher":"Braidford","supplierId":78,"price":80}
+{"name":"Hush... Hush, Sweet Charlotte","author":"Chomley","isbn":"336277866-6","publisher":"Ibbison","supplierId":100,"price":46}
+{"name":"Easter Parade","author":"Giaomozzo","isbn":"417360608-7","publisher":"Handrock","supplierId":34,"price":30}
+{"name":"Born to Race","author":"Ivell","isbn":"702367489-6","publisher":"Yarrell","supplierId":78,"price":65}
+{"name":"Frozen Planet","author":"Pietruszewicz","isbn":"735388995-0","publisher":"McArley","supplierId":25,"price":97}
+{"name":"Light the Fuse... Sartana Is Coming","author":"Robertshaw","isbn":"415841903-4","publisher":"Aldam","supplierId":90,"price":94}
+{"name":"Hit Lady","author":"Pridie","isbn":"961513561-5","publisher":"Franklin","supplierId":26,"price":99}
+{"name":"Crime Lords of Tokyo","author":"Skilton","isbn":"852311097-6","publisher":"Sherred","supplierId":45,"price":85}
+{"name":"Obsession","author":"Vaissiere","isbn":"001063974-8","publisher":"Beckenham","supplierId":60,"price":45}
+{"name":"Kings of Mykonos, The","author":"Eccersley","isbn":"441331261-9","publisher":"Armor","supplierId":3,"price":13}
+{"name":"They Won't Believe Me","author":"Evison","isbn":"209789683-9","publisher":"Corless","supplierId":88,"price":69}
+{"name":"Only Old Men Are Going to Battle (V boy idut odni stariki)","author":"Marklin","isbn":"667149888-1","publisher":"Udie","supplierId":59,"price":52}
+{"name":"Shaun of the Dead","author":"Yendle","isbn":"234784338-9","publisher":"Pedgrift","supplierId":27,"price":36}
+{"name":"G.I. Joe: The Revenge of Cobra","author":"Gripton","isbn":"540961114-4","publisher":"Kemmer","supplierId":89,"price":96}
+{"name":"Infamous","author":"Euler","isbn":"869030318-9","publisher":"Haddow","supplierId":51,"price":5}
+{"name":"Quest for Camelot","author":"Lidster","isbn":"166805182-6","publisher":"Abbot","supplierId":97,"price":100}
+{"name":"Kundun","author":"Dobie","isbn":"587670166-1","publisher":"Barriball","supplierId":4,"price":85}
+{"name":"Mobsters","author":"Dyte","isbn":"237962085-7","publisher":"Calladine","supplierId":1,"price":95}
+{"name":"Without a Clue","author":"Ladewig","isbn":"823599356-2","publisher":"Fulger","supplierId":76,"price":71}
+{"name":"Tom Petty and the Heartbreakers: Runnin' Down a Dream","author":"Wolpert","isbn":"103387239-3","publisher":"Kienzle","supplierId":16,"price":74}
+{"name":"Notorious","author":"Chidwick","isbn":"640141719-6","publisher":"Szreter","supplierId":28,"price":48}
+{"name":"Boys Don't Cry (Chlopaki nie placza)","author":"Freezer","isbn":"238632710-8","publisher":"Akram","supplierId":45,"price":44}
+{"name":"The Hatchet Man","author":"Aird","isbn":"679375243-X","publisher":"Chew","supplierId":77,"price":29}
+{"name":"Slipper and the Rose, The","author":"Haggas","isbn":"896696639-X","publisher":"Rowat","supplierId":76,"price":1}
+{"name":"Alatriste","author":"Bullocke","isbn":"520602799-5","publisher":"Ligertwood","supplierId":27,"price":67}
+{"name":"Sherlock Holmes: Dressed to Kill","author":"Gurko","isbn":"860324852-4","publisher":"Buckthorp","supplierId":30,"price":83}
+{"name":"Killer: A Journal of Murder","author":"Frostick","isbn":"969796959-0","publisher":"Polak","supplierId":35,"price":35}
+{"name":"Curse of the Jade Scorpion, The","author":"Iban","isbn":"345762087-3","publisher":"Itzkovwich","supplierId":63,"price":99}
+{"name":"Lot Like Love, A","author":"Matthisson","isbn":"709474176-6","publisher":"Bradnum","supplierId":5,"price":70}
+{"name":"Return of the Musketeers, The","author":"Thunder","isbn":"382755643-0","publisher":"Ciccottio","supplierId":54,"price":37}
+{"name":"Holiday Wishes","author":"Oppery","isbn":"266375237-1","publisher":"Robathon","supplierId":31,"price":12}
+{"name":"Iron Rose, The (Rose de fer, La)","author":"Syers","isbn":"972218981-6","publisher":"Shutler","supplierId":78,"price":73}
+{"name":"Great Muppet Caper, The","author":"Parkyn","isbn":"764224174-7","publisher":"Ellerbeck","supplierId":16,"price":85}
+{"name":"Page Miss Glory","author":"Toomey","isbn":"479721155-5","publisher":"Totaro","supplierId":53,"price":100}
+{"name":"Halloweentown","author":"Del Monte","isbn":"977315565-X","publisher":"Brannan","supplierId":61,"price":50}
+{"name":"Return to Never Land","author":"Ciotto","isbn":"640421588-8","publisher":"Rangall","supplierId":88,"price":55}
+{"name":"Grand Budapest Hotel, The","author":"Kilsby","isbn":"531176868-1","publisher":"Fones","supplierId":20,"price":69}
+{"name":"Shade","author":"Mawditt","isbn":"176090940-8","publisher":"Deakins","supplierId":38,"price":27}
+{"name":"Summer in February","author":"Bollans","isbn":"397440341-8","publisher":"Duffit","supplierId":1,"price":87}
+{"name":"For My Father (Sof Shavua B'Tel Aviv)","author":"Jotcham","isbn":"985542305-4","publisher":"Scarlon","supplierId":92,"price":91}
+{"name":"RoboCop 3","author":"Heazel","isbn":"619353890-9","publisher":"Assaf","supplierId":3,"price":29}
+{"name":"Come Back, Little Sheba","author":"Grieveson","isbn":"564195601-5","publisher":"Pockett","supplierId":80,"price":39}
+{"name":"The Gamers","author":"Varsey","isbn":"162116856-5","publisher":"Leupoldt","supplierId":55,"price":64}
+{"name":"Edge of Seventeen","author":"Milnes","isbn":"034886020-X","publisher":"Vearncombe","supplierId":22,"price":45}
+{"name":"I Love You, Beth Cooper","author":"Lakes","isbn":"007489280-0","publisher":"Whitta","supplierId":30,"price":56}
+{"name":"Shadows and Fog","author":"Jiggens","isbn":"656076860-0","publisher":"Kingdon","supplierId":7,"price":56}
+{"name":"Bring It On","author":"Giacopello","isbn":"246262932-7","publisher":"Martensen","supplierId":5,"price":75}
+{"name":"Chronicle of an Escape (Crónica de una fuga)","author":"Brumwell","isbn":"040382101-0","publisher":"Lassell","supplierId":18,"price":28}
+{"name":"Papadopoulos & Sons","author":"MacKereth","isbn":"551218786-4","publisher":"Jahan","supplierId":32,"price":71}
+{"name":"Step Brothers","author":"McQuorkell","isbn":"705227767-0","publisher":"Pappin","supplierId":4,"price":1}
+{"name":"Great Waltz, The","author":"Fitkin","isbn":"975548744-1","publisher":"Grime","supplierId":43,"price":11}
+{"name":"Naked Kiss, The","author":"Walczynski","isbn":"599614089-6","publisher":"Roycroft","supplierId":8,"price":52}
+{"name":"Love & Human Remains","author":"Cornil","isbn":"958865503-X","publisher":"Jessett","supplierId":9,"price":83}
+{"name":"Gabriela","author":"Livesey","isbn":"731253671-9","publisher":"Lozano","supplierId":31,"price":90}
+{"name":"Watchers","author":"Ainge","isbn":"528523193-0","publisher":"Clows","supplierId":24,"price":70}
+{"name":"Christine","author":"Mowatt","isbn":"319285479-0","publisher":"MacFarlan","supplierId":2,"price":51}
+{"name":"Bird People","author":"Hartwell","isbn":"233895734-2","publisher":"Gallandre","supplierId":20,"price":72}
+{"name":"Blade Runner","author":"Little","isbn":"719552768-9","publisher":"Baldacco","supplierId":13,"price":12}
+{"name":"Torrid Zone","author":"Harwin","isbn":"175831151-7","publisher":"Macro","supplierId":51,"price":83}
+{"name":"Kill Me Later","author":"Jaqueminet","isbn":"640800606-X","publisher":"Thurnham","supplierId":31,"price":86}
+{"name":"Red Like the Sky (Rosso come il cielo)","author":"Trevains","isbn":"131907074-4","publisher":"Hawkwood","supplierId":56,"price":68}
+{"name":"Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto)","author":"Garrett","isbn":"425776814-2","publisher":"Balcers","supplierId":75,"price":95}

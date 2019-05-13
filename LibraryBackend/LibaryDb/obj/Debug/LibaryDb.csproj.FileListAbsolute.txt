@@ -1,0 +1,14 @@
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\bin\Debug\LibaryDb.dll.config
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\bin\Debug\LibaryDb.dll
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\bin\Debug\LibaryDb.pdb
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\bin\Debug\EntityFramework.dll
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\bin\Debug\EntityFramework.xml
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.csproj.CoreCompileInputs.cache
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.csproj.CopyComplete
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.dll
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.pdb
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.csprojAssemblyReference.cache
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.Migrations.InitialConfiguration.resources
+C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.csproj.GenerateResource.cache

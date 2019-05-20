@@ -12,6 +12,6 @@ namespace LibaryDb
         public string Firstname { get; set; }
         public string Lastname { get; set; }
         public string Address { get; set; }
-        public int CreditNumber { get; set; }
+        public string CreditNumber { get; set; }
     }
 }

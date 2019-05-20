@@ -12,6 +12,7 @@ C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.pdb
 C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.csprojAssemblyReference.cache
 C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.Migrations.InitialConfiguration.resources
 C:\Schule\4b\DBI\Bibliothek\LibaryDatabase\LibaryDb\obj\Debug\LibaryDb.csproj.GenerateResource.cache
+<<<<<<< HEAD
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\LibaryDb.dll.config
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\LibaryDb.dll
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\LibaryDb.pdb
@@ -26,3 +27,23 @@ C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.csproj.CopyComplete
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.dll
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.pdb
+=======
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\LibaryDb.dll.config
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\LibaryDb.dll
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\LibaryDb.pdb
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\EntityFramework.dll
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\EntityFramework.xml
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.csprojAssemblyReference.cache
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.Migrations.InitialConfiguration.resources
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.csproj.GenerateResource.cache
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.csproj.CoreCompileInputs.cache
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.csproj.CopyComplete
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.dll
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.pdb
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.Migrations.ChangeCreditNumberType.resources
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.Migrations.ChangeBookPriceType.resources
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.Migrations.changeBookTypes.resources
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibaryDb\obj\Debug\LibaryDb.Migrations.ChangePriceType.resources
+>>>>>>> eb18b8a9d787a7922a870c7065cd415c44fd596c

@@ -50,11 +50,28 @@
   <ItemGroup>
     <Compile Include="Book.cs" />
     <Compile Include="Customer.cs" />
+    <Compile Include="DatabaseFiller.cs" />
     <Compile Include="Lending.cs" />
     <Compile Include="LibaryContext.cs" />
     <Compile Include="Migrations\201905131014482_InitialConfiguration.cs" />
     <Compile Include="Migrations\201905131014482_InitialConfiguration.Designer.cs">
       <DependentUpon>201905131014482_InitialConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905200902428_ChangeCreditNumberType.cs" />
+    <Compile Include="Migrations\201905200902428_ChangeCreditNumberType.Designer.cs">
+      <DependentUpon>201905200902428_ChangeCreditNumberType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905200909476_ChangeBookPriceType.cs" />
+    <Compile Include="Migrations\201905200909476_ChangeBookPriceType.Designer.cs">
+      <DependentUpon>201905200909476_ChangeBookPriceType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905200920003_changeBookTypes.cs" />
+    <Compile Include="Migrations\201905200920003_changeBookTypes.Designer.cs">
+      <DependentUpon>201905200920003_changeBookTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905200936505_ChangePriceType.cs" />
+    <Compile Include="Migrations\201905200936505_ChangePriceType.Designer.cs">
+      <DependentUpon>201905200936505_ChangePriceType.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -66,12 +83,28 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Customers.csv" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201905131014482_InitialConfiguration.resx">
       <DependentUpon>201905131014482_InitialConfiguration.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905200902428_ChangeCreditNumberType.resx">
+      <DependentUpon>201905200902428_ChangeCreditNumberType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905200909476_ChangeBookPriceType.resx">
+      <DependentUpon>201905200909476_ChangeBookPriceType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905200920003_changeBookTypes.resx">
+      <DependentUpon>201905200920003_changeBookTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905200936505_ChangePriceType.resx">
+      <DependentUpon>201905200936505_ChangePriceType.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Books.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -26,9 +26,26 @@ C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\net
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorTargetAssemblyInfo.cache
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
+<<<<<<< HEAD
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibaryDb.dll
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\EntityFramework.dll
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibaryDb.pdb
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibaryDb.dll.config
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\EntityFramework.xml
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
+=======
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.deps.json
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.json
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.dev.json
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.dll
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.pdb
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csprojAssemblyReference.cache
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CoreCompileInputs.cache
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cache
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cs
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfoInputs.cache
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfo.cs
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorTargetAssemblyInfo.cache
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
+C:\Schule\4b\DBI\LibaryProject\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
+>>>>>>> eb18b8a9d787a7922a870c7065cd415c44fd596c

@@ -1,0 +1,12 @@
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CoreCompileInputs.cache
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\EFCorePluralizer.cs
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfoInputs.cache
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csprojAssemblyReference.cache

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using LibraryBackend.DTOs;
 using LibraryBackend.Models;
+using LibraryDb;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -14,18 +15,22 @@ namespace LibraryBackend.Controllers
     [ApiController]
     public class BooksController : ControllerBase
     {
+        LibraryContext db = new LibraryContext();
+
         // GET: library/books
         [HttpGet]
-        public string Get()
+        public ActionResult<List<BookDTO>> Get()
         {
-            return System.IO.File.ReadAllText(@".\Test Data\get_books.json");
+            List<Book> dbBooks = db.Books.ToList();
+            return dbBooks.Select(x => DTOConverter.convertBookToDTO(x)).ToList();
+            //return System.IO.File.ReadAllText(@".\Test Data\get_books.json");
         }
 
         // GET: library/books/5
         [HttpGet("{id}", Name = "Get")]
         public ActionResult<BookDTO> Get(int id)
         {
-            return new BookDTO() { title = "ABC" };
+            return DTOConverter.convertBookToDTO(db.Books.Where(x => x.BookId == id).First());
         }
 
         // POST: library/books

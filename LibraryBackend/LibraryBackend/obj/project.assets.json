@@ -12552,39 +12552,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Thomas\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\A. Salletmaier\\.nuget\\packages\\": {},
->>>>>>> 2a6474e9d1b3136b22b7dd2f9a9553802f475a31
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
       "projectName": "LibraryBackend",
       "projectPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
       "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
       "outputPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
-      "projectName": "LibraryBackend",
-      "projectPath": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
-      "packagesPath": "C:\\Users\\A. Salletmaier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\obj\\",
->>>>>>> 2a6474e9d1b3136b22b7dd2f9a9553802f475a31
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\A. Salletmaier\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 2a6474e9d1b3136b22b7dd2f9a9553802f475a31
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12597,13 +12581,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-<<<<<<< HEAD
             "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj": {
               "projectPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj"
-=======
-            "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibaryDb\\LibaryDb.csproj": {
-              "projectPath": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibaryDb\\LibaryDb.csproj"
->>>>>>> 2a6474e9d1b3136b22b7dd2f9a9553802f475a31
             }
           }
         }
@@ -12645,13 +12624,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\obj\\LibraryBackend.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

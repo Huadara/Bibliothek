@@ -1,0 +1,1001 @@
+id;Title;Author;ISBN;Publisher;Price
+1;Other Side of the Bed, The (Otro lado de la cama, El);Ricoriki Pavis;333391529-4;Kanoodle;68.6
+2;Strange Invaders;Baillie Childrens;055767607-X;Kwimbee;27.1
+3;Toy Story;Patrice Heeley;057893514-7;Linkbridge;24.0
+4;Hannah Montana: The Movie;Rochell Brassington;054856281-4;Muxo;7.9
+5;Profit, The;Garey Freeth;096130084-1;Gabspot;33.2
+6;Traveler, The;Claiborne Ismead;935597440-X;Skyndu;98.6
+7;Bright Victory;Astrix Goodchild;822832000-0;Flipbug;43.9
+8;Silvestre;Cathyleen Bottrell;930930261-5;Demivee;78.6
+9;Psycho Beach Party;Sammy Nixon;249731647-3;Livepath;76.0
+10;Thin Ice;Darn Beumant;496275653-2;Twiyo;40.1
+11;Black Beauty;Gayleen Di Biagi;593703928-9;Yambee;51.3
+12;Myth, The (San wa);Morlee Sumsion;509348456-3;Edgeify;56.6
+13;Poolsite;Giorgia Fidian;014500753-7;Brainbox;99.4
+14;Wonderful Days (a.k.a. Sky Blue);Therine Skerratt;407707351-0;Skynoodle;58.6
+15;Claustrofobia;Kirstin Povah;425365134-8;Twimm;30.1
+16;Freaky Friday;Gunter Coward;954392741-3;Skipfire;84.3
+17;World Without Thieves, A (Tian xia wu zei);Bob McGreay;263583060-6;Demizz;38.2
+18;Double, The;Bayard Lempertz;820446888-1;Dablist;9.7
+19;Sink or Swim;Gabey Gidney;121878353-2;Kwilith;23.7
+20;Floating;Mariette Inskipp;765487125-2;Abata;8.2
+21;Journey to the Sun (Günese yolculuk);Keane Overell;268918170-3;Dynabox;91.3
+22;America 3000;Rogerio Howman;710463300-6;Meetz;47.9
+23;A Run for Your Money;Guntar Maciejak;439931454-0;Buzzdog;21.3
+24;Dhobi Ghat;Stavro Mufford;940357619-7;Kwilith;86.5
+25;Last Truck: Closing of a GM Plant, The;Zsazsa Stansfield;498297066-1;Thoughtstorm;10.8
+26;Silent House, The (La casa muda);Saundra Rosenhaupt;921022922-3;Buzzbean;43.9
+27;All the Vermeers in New York;Ginni Giacobelli;555341975-1;Bluejam;69.0
+28;Fire Within, The (Feu follet, Le);Samaria Greathead;112614976-4;Skyble;84.3
+29;The Last Gladiators;Myranda Liversage;842477393-4;Fivechat;65.2
+30;Following;Lexy Scraggs;677770353-5;Vipe;75.0
+31;Une étudiante d'aujourd'hui;Jennette Hatt;006034678-7;Meembee;50.4
+32;New York Minute;Skylar Lukacs;873144562-4;Centidel;27.7
+33;Whatever Happened to Aunt Alice?;Adriane Jansey;267954423-4;Vimbo;31.3
+34;O;Alethea Burnip;612100703-6;Skyvu;79.0
+35;Small Town in Texas, A;Tessie McErlaine;102793422-6;Browsedrive;15.3
+36;Glass Agency, The (Ajans-E Shisheh-I);Madison Ping;084675766-4;Skimia;33.9
+37;Sophie's Choice;Augusto Jozwicki;293084319-5;Trudoo;11.3
+38;Pan;Ora Chowne;822371057-9;Gigashots;3.3
+39;No Blood Relation (Stepchild, The) (Nasanunaka);Boyce Clay;875223162-3;Realpoint;22.5
+40;Where Eagles Dare;Isidor Mould;143022679-X;Jabberstorm;89.8
+41;Sacrament, The;Gilda Crump;339069005-0;Innojam;38.8
+42;Just One of the Girls;Decca Ahrendsen;228182822-0;Tagtune;15.5
+43;Wild Man Blues;Karleen Wynter;635319919-8;Centizu;73.9
+44;Snow Cake;Elton Whitecross;087522009-6;Lajo;24.9
+45;Jönssonligan & den svarta diamanten;Job Cicullo;506736712-1;Shuffledrive;25.4
+46;Longford;Renato Whellans;344181889-X;Realcube;96.9
+47;Aurora;Charla Stoodley;993279263-2;Quinu;80.3
+48;Forbidden Kingdom, The;Sharron Crossley;303784147-8;Trilith;91.4
+49;Hollywood Sex Wars;Brendan Aspinal;072280144-0;Wordify;39.3
+50;Groove Tube, The;Lisha Doel;371375579-5;Gabtype;41.8
+51;Companeros (Vamos a matar, compañeros);Sherlock Stowell;723098135-2;Voomm;67.3
+52;London Conspiracy;Violetta Togwell;778046006-1;Livepath;6.8
+53;Jim Jefferies: I Swear to God;Christie Shrimpling;768879528-1;Zooxo;25.0
+54;Hôtel des Invalides;Lenka Blackford;137600005-9;Thoughtsphere;37.2
+55;Castle on the Hudson;Leesa Rosenkrantz;266414369-7;Shuffletag;43.9
+56;Smile Like Yours, A;Fleur McFetridge;325304849-7;Gabtype;26.2
+57;Wise Guys;Belia Samsworth;398028596-0;Mudo;50.5
+58;Grim Reaper;Witty McGorley;577753455-4;Twimm;82.1
+59;Helicopter String Quartet;Jobi Domelaw;553723264-2;Meevee;60.2
+60;Spider-Man 3;Haslett Bassill;126866630-0;Skivee;33.6
+61;Delusions of Grandeur (La folie des grandeurs);Marc Coche;275508835-4;Vitz;11.1
+62;Labyrinth;Morten Bartolommeo;259837568-8;Jayo;77.0
+63;Woman of Antwerp;Helaine Baseggio;490525676-3;Photolist;25.2
+64;An Amazing Couple;Erv Tuckey;435868151-4;Kamba;33.0
+65;Popular Music (Populärmusik från Vittula);Devi Kalderon;362089557-0;Jazzy;39.0
+66;Somersault;Dallas Cantrell;473151305-7;Vidoo;71.7
+67;European Vacation (aka National Lampoon's European Vacation);Brynn Gwyer;694389194-4;Voonyx;86.4
+68;Cat Run 2;Starlin de Keyser;556505742-6;Blogpad;66.7
+69;Digging to China;Freeman Keneforde;119664338-5;Buzzshare;42.4
+70;Bowfinger;Pammi O'Heagertie;650008573-6;Bubblemix;89.8
+71;Jump Tomorrow;Fleur Bealton;174549698-X;Livepath;69.2
+72;Exploding Girl, The;Prudi Stubbings;538450975-9;Mymm;62.5
+73;In Order of Disappearance (Kraftidioten);Celestia Shortan;523605324-2;Realbridge;70.6
+74;Show Me;Darryl Berns;459998396-9;Wikibox;73.7
+75;Son of Babylon (Syn Babilonu);Oralle Meijer;996694597-0;Kimia;74.9
+76;Marius;Dareen Owenson;633908692-6;Youbridge;46.5
+77;Ballad of the Sad Cafe, The;Sherri Birdsey;682404616-7;Kazu;60.0
+78;Final Darkness, The (Buio Omega);Tresa Ivshin;144559097-2;Cogidoo;83.1
+79;Sunflower (Xiang ri kui);Torin Benninck;913287013-2;Kaymbo;64.6
+80;Mummy's Ghost, The;Trevar Wombwell;196561006-4;Eabox;58.3
+81;Sherlock Holmes: Terror by Night;Ingaberg Gunby;142177578-6;Buzzdog;22.3
+82;Perfect Plan, A (Plan parfait, Un);Ole Kilfedder;128467554-8;Flashset;52.4
+83;Other People's Money;Emalee Playdon;396899192-3;Voonyx;71.8
+84;A.I. Artificial Intelligence;Amitie McGarrity;744863332-5;Devcast;4.4
+85;Angus, Thongs and Perfect Snogging;Coretta Dunkerly;678498214-2;Youbridge;49.5
+86;Madison;La verne Kulicke;190661445-8;Riffpath;41.7
+87;Story of the Late Chrysanthemums, The (Zangiku monogatari);Sari De Mitris;149137965-0;Youopia;33.2
+88;Joni's Promise;Alfredo Wear;981538360-4;Jaxnation;33.1
+89;White Fang;Andrej Littlepage;414426109-3;Skyvu;96.4
+90;Band Baaja Baaraat;Edna Asken;953310660-3;Jamia;78.8
+91;Stray Dogs;Larisa Jobling;047026722-4;Omba;49.5
+92;The Phantom of the Opera;Ferdinande McClymont;193942375-9;Quimm;22.2
+93;Cinema Komunisto;Isaak Nerne;838470266-7;Quimba;12.0
+94;Gay Deceivers, The;Nadiya Stockle;897906733-X;Browsebug;12.6
+95;12 Dogs of Christmas, The;Morry Cawston;052031707-6;Mycat;42.5
+96;Shopworn Angel, The;Sydelle Sertin;203820238-9;Quire;8.3
+97;Four Christmases;Mariele de Leon;704979254-3;Yodel;92.6
+98;Fun with Dick and Jane;Rosalie Mowatt;187942205-0;Centimia;94.1
+99;Miracle Worker, The;Welch Vearncombe;341160678-9;Skimia;63.8
+100;Howard the Duck;Philippine Jindacek;297764964-6;Aimbo;25.3
+101;Secret Ceremony;Jonas Edyson;818577151-0;Realpoint;36.8
+102;Into the Sun;Mariellen Franzotto;505009343-0;DabZ;45.9
+103;Miracle Worker, The;Ronda Hallums;164876175-5;Minyx;45.1
+104;Postman, The;Melita Fullerd;002029496-4;Meeveo;56.1
+105;Getting Back to Abnormal;Smitty Romaint;581147343-5;Twitterwire;64.9
+106;Five and Ten;Kinnie Scala;737712952-2;Realcube;22.9
+107;Lilo & Stitch;Chiquita Grinham;576492542-8;Zooveo;42.4
+108;Legal Deceit;Loree Pignon;988401258-X;Realmix;87.8
+109;Sting II, The;Bambie Cotgrove;930223913-6;Myworks;99.3
+110;Adventurer, The;Claudell Rothwell;862211619-0;Roombo;56.2
+111;Fireproof;Wilhelm Boutell;905991321-3;BlogXS;27.6
+112;Alcina;Blondelle Munson;407204947-6;Centimia;58.9
+113;Bunraku;Enos Wyd;932369023-6;Voomm;87.2
+114;Radiohead: Meeting People Is Easy;Jeanie Sare;152735037-1;Teklist;16.6
+115;Messenger, The;Mic Camier;772160407-9;Layo;68.5
+116;Tarzan's Magic Fountain;Tomaso Alliston;544678344-1;Topiclounge;9.1
+117;The Magical Legend of the Leprechauns;Olia Hevner;175606318-4;Divape;53.8
+118;Mighty Aphrodite;Jillie Deem;506396802-3;Skajo;8.6
+119;I Want to Be a Soldier;Theodosia Pulman;391386621-3;Gevee;35.4
+120;Asylum;Elwood Thormwell;018030907-2;Camido;99.4
+121;Sleepover;Sileas Eaglestone;796339566-8;Realbridge;74.7
+122;Collector, The;Nanci Zarb;730236924-0;Feedfish;77.4
+123;I Am Bruce Lee;Sloane Goady;061473240-9;InnoZ;87.3
+124;It's in the Water;Maybelle Lamke;350590082-6;Vitz;30.4
+125;Walking with Monsters;Man Bumby;289416061-5;Skajo;99.9
+126;Pollyanna;Othilie Augar;766145767-9;Brainbox;86.8
+127;Wrong Turn 4;Marcie Byrth;906901033-X;Jaxnation;9.5
+128;Man in Grey, The;Dolli Tarbet;489694048-2;Rhyzio;68.6
+129;Matthew's Days;Lorens Lilywhite;511481759-0;Kwinu;11.6
+130;21 Hours at Munich;Theresina Badam;546749990-4;Topiclounge;62.6
+131;Sex & the Other Man;Ethelred Blenkinship;464180194-0;LiveZ;45.4
+132;Batch '81;Wilfrid Prentice;113820123-5;Centizu;29.7
+133;Flight of Dragons, The;Chadd Bertram;098075296-5;Skyble;66.7
+134;Elephant in the Living Room, The;Roldan Iskov;283633924-1;Oyonder;96.3
+135;Torremolinos 73;Sydel Glencorse;129666653-0;Oyoloo;75.0
+136;Lightnin';Thalia Bonafacino;943507907-5;Quinu;37.2
+137;Nina Frisk;Gustave Orrin;342371716-5;Meembee;83.8
+138;Elf;Birgit Garner;376169027-4;Zooveo;26.0
+139;Kamchatka;Link Mickleburgh;422599427-9;Kwilith;4.8
+140;Don't Drink the Water;Dorian Duckworth;606130746-2;Gigazoom;58.8
+141;Bolivia;Kermit Lipscombe;894009162-0;Trilia;98.7
+142;Sleeping Dogs Lie (a.k.a. Stay);Francesco Hammerson;525034521-2;Skiba;53.3
+143;Bad Family (Paha Perhe);Breena O'Day;689186008-3;Snaptags;53.7
+144;Hellraiser: Inferno;Royal Arne;874866594-0;Meembee;8.5
+145;How to Make Love to a Woman;Elisabetta Elmhirst;527133289-6;Buzzdog;86.1
+146;Experimenter;Pren Murdy;291757222-1;Quamba;62.5
+147;Rx;Carolynn Yabsley;589455102-1;Yodel;18.7
+148;Draft Day;Staford Matuszkiewicz;659499360-7;Wikido;81.9
+149;Houseguest;Winnah Chinnock;995566723-0;Trupe;19.7
+150;Adulthood;Rutherford Gehringer;254801950-0;Jabberstorm;5.7
+151;Human Factor, The;Alameda Ilchenko;230880658-3;Edgeblab;94.5
+152;Sum of All Fears, The;Lucina Feavearyear;663881914-3;Thoughtbeat;36.3
+153;Big City, The (Mahanagar);Daron Warhurst;185184680-8;Thoughtmix;86.4
+154;Fear of Flying;Di Grinaugh;010071670-9;Wordtune;4.1
+155;Guy;Kirk Sharper;872865866-3;Katz;11.0
+156;Gods of the Plague (Götter der Pest);Antonio Sarsons;662285466-1;Dabtype;85.2
+157;Anarchist Cookbook, The;Sayres Mablestone;701767403-0;Eamia;21.0
+158;Bulldog Drummond Escapes;Deedee Corrigan;708003825-1;Youopia;18.6
+159;Butterfly Girl;Ezri Stitfall;966891106-7;Browsetype;37.7
+160;Into the West;Donnajean Acosta;860264518-X;Youspan;36.7
+161;Curious Case of Benjamin Button, The;Jedd Walduck;447615200-7;Gigazoom;24.9
+162;Tin Toy;Nicolas Whillock;068745419-0;Blognation;82.1
+163;Madagascar;Demeter Prise;112499688-5;Babblestorm;8.2
+164;Elstree Calling;Emory Trench;483244739-4;Yakidoo;22.3
+165;Trust Us, This Is All Made Up;Merwyn Plumptre;635812960-0;Skyvu;78.1
+166;Imaginary Heroes;Shurlock Renzini;154595996-X;Jabbercube;46.1
+167;Redirected;Angil Mars;389903818-5;Zazio;58.8
+168;Gridiron Gang;Laverne Jandl;899480401-3;Realbridge;30.8
+169;Black Christmas;Tandi Deering;329179003-0;Dabjam;95.2
+170;Reminiscences of a Journey to Lithuania;Deck Shildrake;205792204-9;BlogXS;96.1
+171;Escape;Corrie Adiscot;746485816-6;Myworks;51.3
+172;Boulevard;Ashlie Lown;585150968-6;Quatz;57.8
+173;Searching for Bobby Fischer;Ugo Hasser;812090138-X;Kamba;69.1
+174;Cleaner;Terencio Pitway;261938040-5;Fatz;77.9
+175;Category 7: The End of the World;Germayne Ganiford;176602421-1;Yamia;60.5
+176;White God (Fehér isten);Basilius Finnan;211084840-5;Miboo;55.1
+177;Jude;Wood Killcross;913394577-2;Twimm;39.0
+178;Love In the Time of Money;Rayshell Grimm;742438407-4;Npath;83.5
+179;It All Starts Today (Ça commence aujourd'hui);Rory Bicknell;838802676-3;Tazz;41.4
+180;Curse of the Werewolf, The;Adham Bielfeldt;489377080-2;Blogtags;3.2
+181;In Darkness;Daisey Whitemarsh;753736401-X;Dabfeed;70.4
+182;Abraham Lincoln: Vampire Hunter;Hilary Lote;801807896-3;Babbleblab;33.3
+183;Saving Santa;Ardelis Sammon;916738734-9;Zoomzone;99.6
+184;Ploy;Damian Cheley;899719776-2;Muxo;50.1
+185;99 francs;Tomasine Sazio;237031289-0;Devshare;94.5
+186;Supergirl;Aldin Geard;507762139-X;Eimbee;88.6
+187;Lisa Picard is Famous (a.k.a. Famous);Helene Castle;307185987-2;Skynoodle;17.6
+188;Cinderella Man;Bell Schoenrock;726540993-0;Jabberstorm;47.8
+189;Breaker! Breaker!;Christabella Roma;599131075-0;Meejo;62.0
+190;Boat That Rocked, The (a.k.a. Pirate Radio);Carney Pfeifer;793953770-9;Oyoba;70.6
+191;From Within;Rosemarie Webby;136681955-1;Vinder;4.0
+192;Mark Shoots First;Aylmar Ankrett;189159907-0;Eidel;10.1
+193;Applause;Sherrie Haslen;124895540-4;Jabberstorm;18.9
+194;Runaway Bride;Lenka Challace;076593275-X;Yoveo;91.6
+195;Take Me Home Tonight;Janaya Tomasello;930684248-1;Tambee;73.6
+196;Kindred, The;Savina Serrell;517688122-5;Jayo;17.2
+197;Street with No Name, The;Bobbe Esch;835674775-9;Dabvine;60.6
+198;War of the Worlds;Whitman Munks;303841071-3;Jabbercube;86.5
+199;My Grandfather's People (Dedemin insanlari);Kinsley Kobierski;884952869-8;Quamba;91.8
+200;Queen of the Damned;Freddi Diggin;093629634-8;Gigabox;91.0
+201;Pigskin Parade;Shannan Beniesh;380721466-6;Skyvu;64.9
+202;Good Bye (Bé omid é didar);Malva Sharrard;805779033-4;Skinix;49.8
+203;Private Fears in Public Places (Coeurs);Reid Fuke;259170257-8;Myworks;23.0
+204;Girl Model;Laurianne Byham;647054632-3;Realblab;39.7
+205;Opening Night;Eleanor Easun;389097595-X;Bluejam;78.7
+206;To Paint or Make Love (Peindre ou faire l'amour);Tobit Zanettini;796792501-7;Bluejam;7.5
+207;Dream Man;Evelin Dewerson;167440693-2;Blogtag;82.6
+208;Kandahar (Safar e Ghandehar);Kitty Duiguid;486627555-3;Zoomdog;45.7
+209;Dr. Jekyll and Mr. Hyde;Morgan Chasemoore;740270383-5;Divape;29.4
+210;It's Pat;Fredra Vokes;355478373-0;Livetube;93.5
+211;Battery, The;Dasie Edworthy;158402112-8;Realfire;89.5
+212;Dispatch from Reuter's, A;Ibbie Fausset;617022053-8;Voonder;13.2
+213;Noose, The (Petla);Georgi Burney;258381631-4;Skippad;14.5
+214;Honeydripper;Huntley Relton;469043927-3;Zooveo;38.2
+215;This Is 40;Audrey Tellenbroker;946600033-0;Divavu;7.3
+216;Adventures of Baron Munchausen, The;Madelene Rennie;724948553-9;Thoughtstorm;59.8
+217;Amos & Andrew;Bernie Bagster;681738211-4;Shufflester;70.7
+218;Russian Dolls (Les poupées russes);Donica Hanby;553147970-0;Dynava;70.8
+219;Double Tide;Orland McSweeney;382842962-9;Flipbug;99.2
+220;Blown Away;Carola Daysh;266998951-9;Zooveo;55.0
+221;Terror Beneath the Sea, The (Kaitei daisensô);Binky Razzell;138067385-2;Tagpad;43.2
+222;Bad Lieutenant: Port of Call New Orleans;Lydia Deeman;829032734-X;Centimia;37.5
+223;Cutie and the Boxer;Iggy Gahan;653992713-4;Snaptags;10.7
+224;Halloween II;Marji Slipper;175633756-X;Gigaclub;78.4
+225;Mr. Magorium's Wonder Emporium;Sissie Eliyahu;394194447-9;Voolith;72.8
+226;Danika;Lorette Evers;412696880-6;Aimbu;30.3
+227;Spice World;Karney Stratten;764640765-8;Rhybox;65.9
+228;Buffalo Soldiers;Humphrey Yaknov;201271832-9;Yotz;41.5
+229;Ruthless People;Xenos Blemen;127113565-5;Brainverse;14.0
+230;How to Be a Man;Pip Deguara;204355070-5;Pixope;75.8
+231;Dead Man and Being Happy, The (El muerto y ser feliz);Cinda Spofford;721188781-8;Feedmix;47.8
+232;Victory Through Air Power;Esdras Mounch;425858299-9;Linktype;27.2
+233;Sun Also Rises, The;Nananne Kirkwood;640848909-5;Skyble;79.7
+234;Merry Christmas Mr. Lawrence;Fonzie Joye;450095411-2;Oyoyo;28.4
+235;Crew, The;Ulrich Petracci;071795208-8;Topicware;50.8
+236;Child of God;Vanda Goodbar;987229616-2;Yakitri;48.7
+237;NeverEnding Story III, The;Prince Klimp;969872749-3;Miboo;91.8
+238;Vampyr;Valli Giacovazzo;723069527-9;Photospace;92.5
+239;World on a Wire (Welt am Draht);Duffie Aspole;084335915-3;Skiba;19.7
+240;Man Who Sued God, The;Jacquenette Jakubovics;877784611-7;Mybuzz;54.1
+241;Doug's 1st Movie;Glyn Jahnke;691967362-2;Rhynoodle;47.6
+242;Dear Jesse;Philip Borthwick;862693094-1;Demimbu;52.3
+243;Loving Leah;Di Batchellor;936838085-6;Kazio;77.1
+244;Topkapi;Octavia Kington;766212023-6;Devpoint;89.7
+245;She's the One;Garrick MacIlhargy;605492726-4;Voolia;30.4
+246;Friday Night Lights;Flo Imlaw;671750880-9;Yamia;57.8
+247;Two Kilers (Kilerów 2-óch);Goldy Pioch;812664012-X;Cogilith;91.2
+248;Cardcaptor Sakura: The Sealed Card;Fanya Dakhov;816708283-0;Voonix;43.0
+249;Jill the Ripper (Jill Rips);Haze Kahane;152988097-1;Tazz;44.5
+250;Starsuckers;Hi Munday;510523592-4;Dynabox;18.9
+251;DEFCON: The Documentary;Ardra O'Fairy;354832319-7;Skyba;50.0
+252;I Know Who Killed Me;Joycelin Pitsall;585719731-7;Gigaclub;22.0
+253;Equinox;Juana Dmitriev;565722978-9;Mydeo;50.9
+254;24: Redemption;Cyndie Bubb;244451886-1;Npath;89.1
+255;New Age, The;Herby Nystrom;756134074-5;Thoughtstorm;93.0
+256;Haunting in Connecticut, The;Brinn Budgett;070062762-6;Kamba;72.5
+257;Roads to Koktebel (Koktebel);Benedetta McKane;854336461-2;Devcast;58.5
+258;Three Men and a Baby;Simone Sieur;216478790-0;Skibox;7.1
+259;So Young (Zhi wo men zhong jiang shi qu de qing chun);Abrahan Kellett;510357511-6;Chatterbridge;94.7
+260;Inspector Palmu's Error (Komisario Palmun erehdys);Orrin Wickendon;194533460-6;Zoomlounge;23.7
+261;Soul Surfer;Heath Minchella;648219533-4;Dablist;55.9
+262;Slumber Party '57;Niven Pydcock;561647142-9;Trilia;59.2
+263;Opposite Day;Kelsey McGinnell;425525173-8;Quire;65.3
+264;Beyond, The (E tu vivrai nel terrore - L'aldilà);Alyda Arundel;519932554-X;Rhyloo;65.1
+265;Christopher Columbus: The Discovery;Joann Ghent;399578981-1;Photobug;82.5
+266;Mutiny on the Bounty;Roselia Sieb;404237294-5;Vimbo;19.8
+267;Vai~E~Vem;Gayel Tessyman;987303865-5;Blogspan;72.0
+268;Veronika Voss (Sehnsucht der Veronika Voss, Die);Aloysia Robardet;480631801-9;Flipstorm;23.9
+269;Aries Spears: Hollywood, Look I'm Smiling;Aurelia Ducroe;925202956-7;Topicware;29.2
+270;El Cid;Dylan D'Alessandro;501568347-2;BlogXS;29.6
+271;Comebacks, The;Adolph Ollet;791549461-9;Jaxbean;16.1
+272;Before Your Eyes (Min Dit: The Children of Diyarbakir);Binny Milhench;426092280-7;Topdrive;56.1
+273;Journey to the Center of the Earth;Tamra Enoch;547911354-2;Voonyx;20.9
+274;Whirlpool;Shea Shackle;949057426-0;Kanoodle;25.8
+275;Tabu;Dion Stelfax;214798143-5;Buzzdog;16.3
+276;Sex Positive;Gannie Antonsen;558984450-9;Tagchat;60.0
+277;Nadine;Helge Corselles;174699869-5;Lazzy;23.5
+278;Beast, The;Ysabel Jakubovitch;352725420-X;Wordtune;80.6
+279;Mr. Turner;Eadith Timmins;569184638-8;Voonyx;54.4
+280;Slumber Party '57;Sissy Rigg;802111544-0;Jetpulse;62.1
+281;Up the Academy;Corinne Labden;237848450-X;Leexo;34.9
+282;Raggedy Man;Jeanine Guille;177047600-8;Trudeo;45.2
+283;Smoking/No Smoking;Filbert Benedite;398325309-1;Wordpedia;90.0
+284;Riding the Bullet;Aurore Geddis;347364553-2;Bubblebox;8.9
+285;Blob, The;Jamaal Krates;023752477-5;Tekfly;51.1
+286;Excess Baggage;Laurie Eglese;951998196-9;Meemm;14.9
+287;Dogma;Andie Blaskett;839369021-8;Photospace;27.3
+288;In the Land of Women;Bettye Windrus;847738913-6;Gigaclub;30.2
+289;Comedy of Innocence (Comédie de l'innocence);Rockwell Skingley;710704853-8;Skidoo;72.2
+290;Godzilla;Eddy Langtree;300618312-6;Zoonoodle;5.9
+291;Italian Straw Hat, The (Un chapeau de paille d'Italie);Ashley Roderick;207517062-2;Roodel;8.0
+292;I Will Fight No More Forever;Crichton Crofthwaite;138484201-2;Gabtune;85.8
+293;For the Moment;Cassandre Kearton;073307318-2;Realbridge;46.7
+294;Man with the Gun;Thatcher Marvin;967512004-5;Abata;79.7
+295;Push;Thatcher Barrat;509949721-7;Twitterwire;79.0
+296;Synchromy;Stacey Synan;379406416-X;Izio;87.2
+297;Here Without Me (Inja bedoone man);Duffy Liebmann;762360276-4;Fliptune;16.5
+298;Total Recall;Rutter Chastan;810405116-4;Innotype;88.1
+299;Seven Days in Utopia;Winston Philliskirk;347418362-1;Lajo;51.6
+300;Goodbye, Mr. Chips;Sherm Hunn;192878563-8;Devbug;36.9
+301;Wings of Eagles, The;Dasi Balnave;909713666-0;Trunyx;85.0
+302;Bloodbath at the House of Death;Persis Weatherhill;552648166-2;Youopia;12.7
+303;Condemned, The;Shayla Tuma;683141003-0;Oloo;41.7
+304;Cast Away;Therese Brigham;412999050-0;Ntag;44.6
+305;Pecker;Aubine MacKeig;194717454-1;LiveZ;16.4
+306;Poll Diaries, The (Poll);Hildagarde Spendlove;862353561-8;Ozu;98.7
+307;Ritual (Shiki-Jitsu);Arden Vescovini;308912876-4;Rooxo;88.3
+308;Grill Point (Halbe Treppe);Hedvige Lydon;967637304-4;Photofeed;48.4
+309;House of Tolerance;Rickie Rutledge;845627007-5;Kamba;13.4
+310;Seconds Apart ;Bogey Ibbeson;837905439-3;Thoughtbeat;52.3
+311;One Night at McCool's;Corene Binnes;255135724-1;Topiclounge;9.2
+312;The Big One: The Great Los Angeles Earthquake;Thomasa Maskell;364770199-8;Zoomdog;3.5
+313;Last Tycoon, The;Zak Kinglake;589345284-4;Fliptune;63.3
+314;Bitter Feast;Roda Dace;318424350-8;Jabbercube;38.2
+315;Death Hunt;Isacco Kezar;903351106-1;Thoughtstorm;16.0
+316;Eureka (Yurîka);Smith Dumbleton;817987345-5;Tagtune;73.1
+317;Resident Evil;Cully Slay;542518540-5;Dabvine;33.8
+318;Impy's Island;Pierrette Melland;717229016-X;Jazzy;50.6
+319;Tales from the Crypt Presents: Bordello of Blood;Gael Nacci;915396597-3;Wikizz;67.0
+320;WALL·E;Daryl McVity;158293623-4;Photobug;9.6
+321;Kopps;Eirena Le Brom;603593743-8;Twiyo;96.7
+322;A-Team, The;Orran Woolford;708114980-4;LiveZ;14.9
+323;My Wife, A Body to Love;Shaylyn Marcinkus;843162130-3;Lazzy;90.9
+324;22 Jump Street;Clarabelle Cresser;215937860-7;Browsebug;64.3
+325;The Spectacular Now;Geri Broggetti;214311908-9;Izio;54.0
+326;Pete Smalls Is Dead;Lacee Stimson;693895226-4;Digitube;66.5
+327;Daddy Long Legs;Ginevra Donisi;652054477-9;Vinder;24.9
+328;Iron Man 3;Sheffy Camplejohn;336291334-2;Thoughtblab;41.1
+329;Return to Never Land;Virgina Leggat;271822914-4;Lajo;96.8
+330;The Importance of Being Earnest;Hetti Brundrett;113513734-X;Blogspan;96.2
+331;Forgiveness of Blood, The (Falja e gjakut);Filia Zanassi;778182402-4;Skiptube;93.6
+332;Prison Terminal: The Last Days of Private Jack Hall;Olympe Drewet;940836802-9;Babbleopia;38.9
+333;Gravedancers, The;Sondra Picopp;986900845-3;Zoonder;10.0
+334;Once in a Lifetime;Hilliary Southan;753927526-X;Ozu;88.3
+335;Police Story (Ging chaat goo si);Evvie Cuckoo;133779807-X;Riffwire;6.8
+336;Gore Vidal: The United States of Amnesia;Sigmund Ordelt;677517687-2;Kwideo;7.3
+337;Corto Maltese: Under the Sign of Capricorn (Sous le signe du capricorne);Freddie Braddock;705240318-8;Demivee;84.8
+338;Body Snatchers;Hortense Wretham;348349302-6;Shufflester;16.1
+339;Tracers;Carolann Ilyushkin;701356202-5;Photobug;70.6
+340;Maiden Heist, The;Anneliese Kincaid;885321263-2;Meedoo;28.3
+341;Snapshot;Dimitry Fishbourne;730265884-6;Photojam;73.4
+342;My Neighbor Totoro (Tonari no Totoro);Ario Spreag;349838184-9;Tazzy;31.9
+343;Autobiography of Miss Jane Pittman, The;Stephana Scannell;587477140-9;Rhyzio;22.3
+344;Very Harold & Kumar 3D Christmas, A;Guthrey Bilofsky;054439096-2;Pixope;62.5
+345;Suzhou River (Suzhou he);Natividad Eliff;070406693-9;Edgeify;4.4
+346;Four Feathers, The;Marty Cuffin;291874457-3;Eadel;24.9
+347;Bastards of the Party;Nicolle Ryton;449262627-1;Kaymbo;14.5
+348;African Cats;Bobine Petworth;734638589-6;Geba;24.3
+349;Postman Always Rings Twice, The;Salvador Eytel;584201778-4;Eabox;91.1
+350;On the Ice;Cosetta Alexsandrov;952598871-6;Feedspan;83.1
+351;Princess and the Warrior, The (Krieger und die Kaiserin, Der);Hilary Vorley;012011463-1;Gabtype;85.5
+352;Antboy II: Revenge of the Red Fury (Antboy: Den Røde Furies Hævn);Brana Braban;127323406-5;Teklist;12.8
+353;John Doe: Vigilante;Leroi Simenot;028449640-5;Rhyzio;63.1
+354;Safe House;Eve Deakan;685411284-2;Babbleopia;86.0
+355;Powers of Ten;Hayley Cadalleder;874424311-1;Realpoint;84.8
+356;Manic;Uriel Bottrill;619217453-9;Meevee;18.4
+357;Alice;Vivia Swanborough;593158836-1;Plajo;76.0
+358;Freedom;Hale Pring;678814143-6;Zooxo;60.8
+359;Midnight (Primeiro Dia, O);Munroe Northern;868014480-0;Zoonoodle;28.5
+360;Khroustaliov, My Car! (Khrustalyov, mashinu!);Hugo Weins;552551854-6;Voonix;84.3
+361;Beethoven's 3rd;Sherwynd Neeson;088076768-5;Zoonoodle;27.1
+362;Incredible Hulk Returns, The;Leopold Darrington;518794205-0;Kazio;89.8
+363;Walk Hard: The Dewey Cox Story;Aldis Swannie;344240855-5;Trilith;29.2
+364;Cold Creek Manor;Glyn Calbreath;921019688-0;Jabbersphere;30.4
+365;Conversations with Other Women;Skylar Tittershill;775011917-5;Zoomlounge;51.2
+366;Barbie: A Fashion Fairytale;Jerrie Bentinck;229791017-7;Ntags;14.0
+367;Women on the 6th Floor, The (Les Femmes du 6ème Étage);Erv Maybury;668661645-1;Dabjam;82.1
+368;August Evening;Glennie Challes;086395088-4;Katz;28.9
+369;Love and Death on Long Island;Drew Swaddle;026076859-6;Avamba;6.6
+370;Film Noir: Bringing Darkness to Light;Lillis Dysert;888442882-3;Dabshots;37.4
+371;Boy on a Dolphin;Faye Barlow;704721734-7;Blogpad;51.4
+372;Roger & Me;Kathleen Cucinotta;958228189-8;Quaxo;75.1
+373;Twist;Ibby McQuin;657993824-2;Abatz;19.5
+374;Paradise: Hope (Paradies: Hoffnung);Sallee Fulleylove;987343043-1;Divanoodle;91.2
+375;Punishment Park;Farrah Chessor;168544390-7;Edgepulse;11.8
+376;Ghost in the Shell (Kôkaku kidôtai);Corrie Licciardo;798549114-7;Voolith;33.8
+377;In Your Hands;Daffie Gellert;841266533-3;Dazzlesphere;86.7
+378;8 ½ Women (a.k.a. 8 1/2 Women) (a.k.a. Eight and a Half Women);Inglis Quinby;186384793-6;Skalith;23.4
+379;Screamtime;Daffi Baldelli;770961797-2;Bluejam;5.5
+380;Pleasure of Being Robbed, The;Demetris Leupold;273117870-1;Snaptags;85.1
+381;Gayniggers From Outer Space;Daron Mayou;889713526-9;Jayo;94.8
+382;Brothers Rico, The;Gretal Randall;935104980-9;Feedfish;6.4
+383;Nick the Sting;Di McTrustey;561051839-3;Quinu;18.8
+384;American Crude;Francyne Wortman;870990129-9;Gabspot;88.3
+385;Return of the Vampire, The;Raymund Heymann;126650617-9;Thoughtstorm;36.7
+386;Amour fou, L';Evangelina Haldene;008611257-0;Yakidoo;51.5
+387;And Then There Were None;Milt Lewry;965080601-6;Feedmix;48.6
+388;Sun Valley Serenade;Blisse Kilalea;022419910-2;Buzzdog;60.6
+389;Jekyll;Scarlett Basilotta;643066352-3;Trunyx;49.7
+390;Harishchandrachi Factory;Rosmunda Seden;347592649-0;Oozz;33.8
+391;Battle Royale (Batoru rowaiaru);Garvin Golagley;027569676-6;Eabox;10.8
+392;Aquamarine;Mattheus Drains;275066635-X;Gabtune;35.8
+393;Free The Mind;Forrester Kinglesyd;408930176-9;Rhynoodle;81.8
+394;Golden Boys, The;Clara Fussie;368465189-3;DabZ;5.1
+395;Lust for Life;Baily Tomik;123562726-8;Voonix;9.4
+396;Misfits, The;Sabrina Brighty;848575340-2;Blogpad;3.0
+397;Angel at My Table, An;Etienne Peert;463551094-8;Bubbletube;41.3
+398;Little Monsters;Gale Hylands;738094490-8;JumpXS;38.0
+399;Nick Carter, Master Detective;Kenny Lifsey;449048168-3;Buzzbean;72.3
+400;Samurai Vendetta;Aguste Downes;385351685-8;Mydeo;56.9
+401;Excuse Me for Living;Hersch Oene;618405028-1;Edgeify;24.8
+402;Anatomy of a Love Seen;Buck Pochon;117970339-1;Meetz;15.3
+403;Observe and Report;Grover Montilla;075295872-0;Skinix;82.9
+404;13 Frightened Girls! (Candy Web, The);Amelita Finding;261989206-6;Rhynyx;26.3
+405;Film ist.;Leoine Snow;287856197-X;Cogilith;30.8
+406;And Along Come Tourists (Am Ende kommen Touristen);Darbee Barnewell;869289817-1;Skinte;42.1
+407;In Which We Serve;Thaddeus Libbey;686337162-6;Gigabox;55.2
+408;Morgan!;Johnette Reihill;234222507-5;Linkbuzz;8.7
+409;Holy Wars;Randee Jeanet;090822455-9;Youspan;71.6
+410;Law and Order;Pietrek Guidone;858194353-5;Jabbertype;62.8
+411;Go Fish;Rozalin Pendall;037710611-9;Dynava;38.2
+412;Hamilton - In the Interest of the Nation;Jolene Maddigan;699605751-5;Twinte;96.4
+413;Treasure Planet;Dory Reiner;949123914-7;Dabvine;57.8
+414;On the Beach;Carolyne Muldowney;254519172-8;Wikibox;40.4
+415;Looking Forward;Israel Jedrzejewicz;938487203-2;Photospace;10.3
+416;Bertie and Elizabeth;Juliann Kimmince;388093100-3;JumpXS;6.3
+417;O Último Mergulho;Jayne Klimczak;106016118-4;Demivee;29.9
+418;Brothers McMullen, The;Joel O'Shirine;817489228-1;Talane;79.7
+419;Pete Seeger: The Power of Song;Ravid Weavers;624476282-7;Meedoo;36.1
+420;Houseboat;Dee dee Harrigan;444647481-2;Kwilith;9.5
+421;Sand Pebbles, The;Benson Sarjant;727180892-2;DabZ;58.7
+422;Suspended Animation;Theodoric Ryves;054830295-2;Talane;21.7
+423;Change of Address (Changement d'adresse);Carmine Poundford;341997605-4;Twitterbridge;78.5
+424;I Think I Love My Wife;Jade Else;666120276-9;Mybuzz;5.3
+425;Spud;Jennie Egentan;306835010-7;Wordware;87.4
+426;The Day That Lasted 21 Years;Joseph Wycliffe;121904831-3;Topiczoom;91.0
+427;Never a Dull Moment;Jannel Ohrtmann;457966542-2;JumpXS;70.1
+428;Sweet Karma;Lorry Linzee;305827451-3;Divanoodle;48.2
+429;976-EVIL II;Jocelyn Grigoliis;266641223-7;Skimia;76.8
+430;Scarlet Diva;Gabriel Giovanitti;825813719-0;Janyx;9.6
+431;Traveler, The (Mossafer);Suellen Brislawn;577427948-0;Divavu;17.4
+432;Henry Kissinger: Secrets of a Superpower (Henry Kissinger - Geheimnisse einer Supermacht);Cissiee Shuter;270101045-4;Oyoyo;11.7
+433;Country Strong;Oliviero Dunster;232338632-8;Vipe;57.7
+434;Dirty Wars;Josias Hazelhurst;705471238-2;Riffwire;55.4
+435;Purgatory;Jerrylee Villiers;462772108-0;Tazz;10.2
+436;Hercules and the Lost Kingdom;Jephthah Beston;450975075-7;Yozio;34.1
+437;Lola Versus;Lin Obin;931282457-0;Edgeclub;22.1
+438;Safe Passage;Reeva Buttle;378049515-5;Trudoo;92.3
+439;Plymouth Adventure;Thomasa Osichev;701854909-4;Vinte;59.8
+440;Seed;Othilia Menpes;866414651-9;Skyba;9.7
+441;Complicit;Cleve Minster;304490450-1;Flipopia;9.5
+442;More Dead Than Alive;Mattias Ioannou;061602741-9;Realbridge;72.9
+443;Last Days;Ainslee Spracklin;333384510-5;Meeveo;72.2
+444;Re-cycle (Gwai wik);Miran Gaunt;449689600-1;Browsebug;78.2
+445;I Love You, Man;Gillian Base;499081076-7;Chatterbridge;52.8
+446;Barfly;Cliff Bruckental;387759646-0;Yakitri;67.3
+447;Johnny Belinda;Rolando Hawkswood;301424038-9;Yozio;6.8
+448;The Outsider;Evaleen Drohane;036006729-8;Tavu;18.0
+449;Purge: Anarchy, The;Allis Shires;885444924-5;Zooveo;65.9
+450;Undocumented;Rena Letherbury;119882947-8;Ntags;90.1
+451;Joyride;Kin Cavill;350587019-6;Riffpedia;43.9
+452;Holiday, The;Waverly Kendall;462134878-7;Rooxo;60.6
+453;I Don't Know How She Does It;Arnie MacNamee;798588577-3;Dabshots;21.3
+454;Caribe;Shamus Szanto;714606909-5;Aimbu;86.6
+455;Dallas;Anny Labbati;975505556-8;Roodel;51.2
+456;Balls Out: Gary the Tennis Coach;Luella Yellowlees;027734713-0;JumpXS;5.6
+457;Mother Lode;Lezley Petzold;014544127-X;Mynte;90.9
+458;Nine Dead Gay Guys;Urbano Matzaitis;950424430-0;Fivebridge;74.8
+459;Stars in My Crown;Garrot Walesby;380504013-X;Edgepulse;66.9
+460;It Runs in the Family;Garret Garnul;019295490-3;Twitterlist;93.5
+461;Me You Them (Eu, Tu, Eles);Sonni Bleaden;881007211-1;Quinu;14.9
+462;Komodo;Kerstin Dimitriev;294879018-2;Zooveo;82.9
+463;Die Another Day;Lydie Tommen;795546168-1;Zoomlounge;87.6
+464;Grouse;Lucas Sutherley;945781008-2;Blogpad;97.1
+465;Midnight Bayou;Charmine Hilary;721131246-7;Gigazoom;50.1
+466;Puddle Cruiser;Kynthia Nodin;849343066-8;Flipbug;87.7
+467;Missionary;Alecia Graysmark;148194257-3;Voonder;26.1
+468;Beyond the Black Rainbow;Ellerey Astell;609280586-3;Dynava;33.0
+469;Sour Grapes;Candida Sherwill;499472306-0;Buzzshare;5.1
+470;Pawnbroker, The;Kathy de Leon;120085035-1;JumpXS;61.8
+471;Kart Racer;Mellisa Astlett;468617264-0;Voolith;15.8
+472;Planet Hulk;Adela Toxell;788583671-1;Eabox;19.7
+473;Strange Cargo;Juieta MacEnelly;014607128-X;Meevee;42.7
+474;Last Sunset, The;Sol Shirrell;843609886-2;Feedmix;67.1
+475;Ice Age 4: Continental Drift;Olivero Itzig;938853268-6;Vimbo;45.5
+476;Police;Alana Greeson;695093944-2;Avamba;99.3
+477;Animal Crackers;Shandy Petrasso;981683172-4;Twitterworks;6.1
+478;Misconception;Stacie Tremblot;791654687-6;Twitterlist;92.0
+479;Love Don't Cost a Thing;Justino Bamlett;373813535-9;Vinte;6.1
+480;Into the Abyss;Chloris Yurchenko;299845471-2;Wikizz;35.2
+481;Miracles;Dar Marrison;496653427-5;Skaboo;73.9
+482;D2: The Mighty Ducks;Stephenie Schriren;660924999-7;Centizu;34.1
+483;Norwegian Ninja;Engelbert Fortin;908697932-7;Youspan;87.4
+484;Gamera vs. Jiger;Paxton Cawthry;139637780-8;Avaveo;9.7
+485;Chungking Express (Chung Hing sam lam);Sheri Lafoy;347141589-0;Skyble;32.7
+486;Bird of Paradise;Arv Bollins;921016894-1;Skiba;5.7
+487;Royal Wedding;Ginny Mintram;875048462-1;Thoughtworks;40.8
+488;Little Accidents;Hortensia Swigg;363130223-1;Browsezoom;76.0
+489;Rear Window;Charmine Kleinmintz;714259795-X;Yabox;26.6
+490;Driller Killer, The;Gill Hails;419985780-X;Rhybox;16.9
+491;Solaris;Jess Elis;372548665-4;Flashpoint;91.5
+492;Take Me Home;Cindy Ziems;387912305-5;Npath;3.8
+493;Eddie;Chantal Cowoppe;309966804-4;Ooba;33.3
+494;Pirates of Penzance, The;Dalton Pargent;050111812-8;Jayo;18.6
+495;Girlhood;Britney Battson;134935387-6;Leenti;94.7
+496;Malice;Conroy Ansty;174856326-2;Flipopia;31.2
+497;Ice Harvest, The;Mariya Filochov;699070470-5;Gigazoom;79.9
+498;Life On A String (Bian chang Bian Zou);Biddy Brogden;314107831-9;Topicshots;37.5
+499;5th Musketeer, The (a.k.a. Fifth Musketeer, The);Rustie Jamison;304014101-5;Topdrive;31.6
+500;Hawking;Ellissa Staniland;691542355-9;Oyoloo;20.9
+501;Year of the Carnivore;Emmanuel Caddick;505590407-0;Layo;92.5
+502;Just Another Love Story (Kærlighed på film);Ralf Withrop;045100613-5;Realbuzz;95.6
+503;Fragile Trust: Plagiarism, Power, and Jayson Blair at the New York Times, A;Sidnee Berrycloth;632061522-2;Skinte;48.7
+504;Boss of It All, The (Direktøren for det hele);Stormie Ragsdale;385886746-2;Kare;14.0
+505;Into the Deep;Cece Isgate;436214594-X;Shufflester;69.5
+506;Dealer;Rosanne Parrett;528851154-3;Blogspan;79.4
+507;It Came from Hollywood;Dena Doberer;643505436-3;Livetube;3.9
+508;Shiri (Swiri);Gussy Buckwell;075118738-0;Ozu;93.9
+509;Damien: Omen II;Sheelah Kingswood;735698020-7;Brightdog;53.6
+510;Lady, The;Jane Cockran;089027514-9;Twimm;96.8
+511;Chained for Life;Nariko Clemenzo;209518953-1;Zoovu;82.9
+512;Wake Up, Ron Burgundy;Emmanuel Fashion;505986920-2;Tagchat;28.0
+513;One Point O;Noe de Vaen;806710485-9;Edgepulse;4.4
+514;Tequila Sunrise;Myron Pepper;786711554-4;Roodel;75.7
+515;Valentine Road;Colver Munnis;667798456-7;Oloo;30.9
+516;Goodbye Charlie;Constance Kempstone;165797321-2;Youspan;78.7
+517;Mysterious X, The (Sealed Orders) (Det hemmelighedsfulde X);Sullivan Pastor;228942756-X;Eadel;22.4
+518;Images;Riobard Raddish;213162385-2;Trudoo;45.4
+519;Raven, The;Blondelle Wernher;975564197-1;Realfire;25.9
+520;Coven;Bran Coddrington;922738694-7;Gigabox;16.4
+521;Sarah's Key (Elle s'appelait Sarah);Vic Pilpovic;832997429-4;Yata;17.2
+522;Dickie Roberts: Former Child Star;Vaughan Growden;646194456-7;Izio;8.2
+523;Stop Train 349;Ludovico Mattusevich;910731712-3;Yabox;79.1
+524;Rocks (Rad, Das);Jacquenette Ghiroldi;055755475-6;Quatz;53.1
+525;Wash, The;Wilona Rook;361955085-9;Feedspan;32.6
+526;Corridor, The (Koridorius);Jameson Dimic;320575446-8;Quatz;38.6
+527;Kismet;Josi Jozwiak;090046250-7;Myworks;85.4
+528;Falls, The;Gaelan Hylden;161674576-2;Nlounge;63.8
+529;Cthulhu;Isobel Steere;646996284-X;Lajo;29.8
+530;Happy Feet;Christina Thomason;247964925-3;Dynabox;32.9
+531;Bedtime Story;Glyn Hasely;536339538-X;Skilith;98.4
+532;Tokyo-Ga;Bernelle Graundisson;281777197-4;Browseblab;41.5
+533;Paris Is Burning;Otto Dorrity;732439168-0;Tagcat;18.2
+534;True Romance;Kendre Jersh;072858697-5;Youspan;42.5
+535;Big One, The;Cleavland Conkay;050615530-7;Fivechat;45.0
+536;Casper's Haunted Christmas;Gayla Woolen;169432511-3;Edgepulse;6.0
+537;Haiku Tunnel;Brian Gerren;466628287-4;Avavee;57.4
+538;Doughboys;Tamiko Polsin;086888680-7;Npath;86.0
+539;Love & Human Remains;Jaquenetta Biddiss;735363908-3;Photojam;58.4
+540;Lawnmower Man 2: Beyond Cyberspace;Carolynn Smeeton;625370551-2;Tavu;16.8
+541;It Had to Be You;Gilda Fritchley;950079439-X;Realmix;70.8
+542;Masseurs and a Woman, The (Anma to onna);Hector Esche;210711314-9;Zoovu;29.4
+543;Windtalkers;Juanita Estcot;352065876-3;Einti;24.5
+544;House of Exorcism, The (a.k.a. Lisa and the Devil) (Casa dell'esorcismo, La);Barbette Gawke;721389387-4;Tagfeed;88.6
+545;Armless;Eryn Delieu;919462929-3;Jetpulse;92.6
+546;Last Man, The;Luciana Pilmer;887381401-8;Teklist;62.9
+547;Lollilove;Read Caunce;163710075-2;Meevee;8.3
+548;Larger Than Life;Gerick Yansons;238109213-7;Avaveo;82.0
+549;Kid, The;Nikita Vasilmanov;873029505-X;Eazzy;92.9
+550;Gray Lady Down;Callida Tombling;854208131-5;Photolist;40.2
+551;Run Lola Run (Lola rennt);Tanitansy Feenan;999212736-8;Jabbersphere;39.2
+552;Oxford Murders, The;Rennie Beminster;253818006-6;Vinder;18.3
+553;Whispers in the Dark;Wilhelmine Shorland;468748985-0;Flipstorm;67.5
+554;M for Mother (Mim mesle madar);Sallyann Resun;285008415-8;Aimbo;82.8
+555;Second Chorus;Hadria Oakley;574846456-X;Realfire;97.3
+556;Illuminata;Rosco Beran;116319805-6;Fanoodle;24.0
+557;Lost in Space;Ibbie Crowcum;030224770-X;Oyondu;33.9
+558;Wonder Woman;Veriee Tanguy;212472494-0;Realmix;51.0
+559;War Zone, The;Rowe Tilson;404810207-9;Brainbox;77.9
+560;Laura;Tilly Chrichton;606990635-7;Quatz;25.8
+561;End of the Century: The Story of the Ramones;Normie Tromans;975793167-5;Zooxo;29.1
+562;Dunce Class on Vacation, The (Hababam sinifi tatilde);Gian Gilfoy;876149249-3;Talane;68.6
+563;Suspiria;Morry Derye-Barrett;800882981-8;Rhycero;95.7
+564;10 MPH;Hugh Apfel;076512786-5;Muxo;66.3
+565;Quatermass Xperiment, The;Florida Barker;089029251-5;Twitterbridge;32.8
+566;ID:A;Kippie Hebron;754200380-1;Feednation;7.5
+567;Resident Evil: Afterlife;Reg Tidbald;364792157-2;Wikibox;35.5
+568;Irreconcilable Differences;Karleen Rodnight;255269027-0;Zoombox;78.6
+569;Vares: The Kiss of Evil (Vares - Pahan suudelma);Wendye Heaney;308579186-8;Jabbersphere;40.0
+570;Anything But Love (a.k.a. Standard Time);Carney Cejka;254947908-4;Fivespan;93.5
+571;Jane Eyre;Ursola Adamiec;458951070-7;Edgeclub;25.8
+572;Scum;Darryl Teligin;796605949-9;Chatterpoint;99.6
+573;Mantrap;Bobbette Matyugin;640641177-3;Eidel;12.2
+574;Legionnaire;Jaclin Svanini;703961948-2;Jabbersphere;50.5
+575;Mercredi, folle journée!;Maynord Megarrell;386623517-8;Agivu;57.4
+576;Godzilla: Tokyo S.O.S. (Gojira tai Mosura tai Mekagojira: Tôkyô S.O.S.);Larry Andreu;648279681-8;Miboo;78.0
+577;Manborg;Merilee Skacel;107663613-6;Jabbertype;3.1
+578;Night Terrors;Trudie Gigg;743111426-5;Brainverse;20.3
+579;ThanksKilling 3 ;Randell Bolte;231084351-2;Wordpedia;49.7
+580;Dark Ride;Eldredge Waddington;817158491-8;Zoovu;6.6
+581;Marley & Me;Valentine O' Scallan;392506243-2;Aivee;38.6
+582;Paris;Alys Thinn;916240891-7;Oyonder;4.6
+583;George & A.J.;Byrann De Gregorio;706862799-4;Oodoo;31.7
+584;Blood Shot;Saudra Naulty;623038725-5;Meevee;66.6
+585;Perfect Storm, The;Martie Sainer;284728455-9;Voonder;4.4
+586;Eaten Alive;Moore Braidley;276250784-7;Tazz;17.8
+587;Closer You Get, The;Lionel Tamblingson;983883643-5;Kamba;24.9
+588;Red Baron, The (Der rote Baron);Petronella Feehan;829698700-7;Fanoodle;41.2
+589;Olive Kitteridge;Windham Allbones;418442033-8;Twitternation;58.4
+590;Debt, The;Sergeant Beddall;131435662-3;Bluejam;91.6
+591;Bluebeard;Kaja Ladbrooke;544591122-5;Thoughtbridge;49.0
+592;Dark Island;Allistir Clunie;653217975-2;Kwideo;45.1
+593;Lost & Found;Kristien Daouse;608170846-2;Feednation;43.7
+594;You're Gonna Miss Me;Zacharia Lindblom;604818342-9;Aibox;92.1
+595;Take the Lead;Shani Noblett;078130777-5;Kaymbo;56.5
+596;Killshot;Lorelei Titherington;206458798-5;Minyx;66.0
+597;Fingers at the Window;Willie Overnell;701750595-6;Yacero;3.8
+598;Glenn Miller Story, The;Alfreda Bestwick;292681411-9;Shufflester;66.2
+599;Bloody Child, The;Terry Hellin;522342046-2;Flipstorm;31.5
+600;Girl with Hyacinths;Colman Klasing;882162836-1;Yodo;9.4
+601;Russkies;Jelene Ricks;417772058-5;Oodoo;18.1
+602;Walkabout;Carri Callar;475616445-5;Tagfeed;98.3
+603;Tree of Life, The;Emylee Likely;834235099-1;Abatz;45.9
+604;Good Guy, The;Ania Planke;951058164-X;Photolist;47.3
+605;Target;Saunders McCay;572652551-5;Plambee;39.9
+606;Law and Order;Gino Loughhead;336322841-4;Centizu;8.3
+607;Shirin in Love;Shandeigh Fulker;552692206-5;Twiyo;20.5
+608;Woman Is the Future of Man (Yeojaneun namjaui miraeda);Faunie Parke;585724143-X;Youfeed;47.7
+609;Promised Land;Nettle Norkett;570420922-X;Topiclounge;98.0
+610;I Now Pronounce You Chuck and Larry;Frazier Dunmore;293868561-0;Meeveo;16.8
+611;Stalingrad;Lauren Beament;444393639-4;Realblab;13.1
+612;Bucket List, The;Jandy Garrattley;528591964-9;Thoughtbeat;55.5
+613;Lucky Numbers;Ferne Dietmar;693540614-5;Yakidoo;48.5
+614;In the Edges: The 'Grizzly Man' Session ;Mina Tidbald;851481902-X;Mycat;22.5
+615;What a Girl Wants;Berky Swindle;486782891-2;Meevee;29.8
+616;A Most Violent Year;Morganne Turrell;165832441-2;Rhyzio;52.8
+617;Invaders from Mars;Lucine Persehouse;847859413-2;Oyoyo;74.7
+618;Mad Ron's Prevues from Hell;Catina Wride;185499510-3;Jabbertype;97.3
+619;First Squad: The Moment of Truth;Onida Juza;713342499-1;Youopia;49.6
+620;Backflash (Backflash Blues);Dorotea Cartman;483932741-6;Quimba;99.2
+621;My Love Has Been Burning (Waga koi wa moenu);Vernice Bulteel;730454978-5;Tanoodle;19.4
+622;Civil Brand;Daphna Wayt;837915239-5;Ozu;59.0
+623;Like It Is;Edan Bowdidge;792740624-8;Jayo;41.6
+624;Walking with Monsters;Dora Heenan;431818925-2;Zoovu;39.0
+625;Sextette;Eldridge Hostan;223153060-0;Gabtune;45.3
+626;More Dead Than Alive;Dredi Ledingham;674998969-1;Oyope;61.1
+627;Mulholland Falls;Benedikta Leythley;988401509-0;Avaveo;85.9
+628;Bang Bang;Gerardo Burmaster;722971416-8;Lazz;45.0
+629;Waterworld;Deane Houtby;188167677-3;Flashset;29.6
+630;Never on Sunday (Pote tin Kyriaki);Wendell Daventry;153028034-6;Kwideo;59.6
+631;Kickboxer;Roze Lemin;573813042-1;Oodoo;68.8
+632;Carry on Behind;Heidi Gillimgham;355623386-X;Livetube;33.6
+633;Box of Moon Light;Coriss Odam;584075369-6;Avamm;83.0
+634;Enforcer, The;Dierdre Skilbeck;484147080-8;Trupe;28.7
+635;Buffalo Bill;Angelika Darnborough;196738222-0;Bubbletube;83.9
+636;Friends at the Margherita Cafe, The (Gli amici del bar Margherita);Theodoric Dunnion;373632043-4;Riffwire;58.6
+637;Winners and Sinners (Qi mou miao ji: Wu fu xing);Mitchel Panas;295142108-7;Ozu;47.7
+638;Jupiter's Wife;Tully Ramos;683547364-9;Quire;44.1
+639;Accidental Husband, The;Lay Brackley;044577224-7;Photojam;23.6
+640;Fat, Sick & Nearly Dead;Sarette Doole;071428193-X;Youspan;29.7
+641;River of Grass;Bennie Tilsley;990789925-9;Yombu;32.4
+642;Frankenstein Syndrome, The;Trevar Stoney;390791200-4;Youtags;87.2
+643;Zincirbozan;Hoebart Francescuzzi;817944669-7;Jabbersphere;22.3
+644;Simple Twist of Fate, A;Roxane Tipperton;181274542-7;Cogibox;6.4
+645;Death at a Funeral;Allyce Bibey;963454206-9;Skinix;16.7
+646;Osama;Lorelle Viggers;876306430-8;Photojam;73.4
+647;Tideland;Joell Sandcroft;771303626-1;Skiba;65.5
+648;Confessions of a Teenage Drama Queen;Elane Henric;167770932-4;Brightbean;61.4
+649;Kilometre Zero (Kilomètre zéro);Elsy Rolin;975745289-0;Vitz;57.7
+650;Flamenco (de Carlos Saura);Susanna Semerad;971119140-7;Centidel;30.7
+651;Single Man, A;Gerrie Slatter;201943254-4;Jaloo;58.1
+652;Impostors, The;Roby Verbeke;305490513-6;Flashspan;29.5
+653;First Man, The (Le Premier Homme);Babette Searles;863452132-X;Zava;57.3
+654;Elephants Dream;Rowan Hannabus;401726525-1;Layo;97.7
+655;Fat Head;Hilly Whimper;989638227-1;Brainsphere;58.9
+656;Reign Over Me;Rebekah Cadle;789377665-X;Photospace;40.9
+657;Malta G.C.;Atalanta Antonchik;710080601-1;Flipbug;77.1
+658;De-Lovely;Winonah Aves;752375284-5;Babbleblab;17.3
+659;Up in the Air;Jae Southon;474021365-6;Twitterbeat;57.2
+660;Take Me Home;Daisi Schimpke;547859309-5;Kare;97.5
+661;White Frog;Gerianne Lossman;081624099-X;Yakitri;65.2
+662;Modris;Amabelle Feragh;492465072-2;Fivespan;73.1
+663;East of Eden;Jacqui La Batie;567776808-1;Youspan;4.7
+664;Tough Guise: Violence, Media & the Crisis in Masculinity;Reginald Nussii;970123898-2;Twitterlist;75.4
+665;Legend of Bigfoot, The;Gayel Mitkov;053955729-3;Divanoodle;8.0
+666;Clan of the Cave Bear, The;Whitaker Kleszinski;641707395-5;Blogtag;52.1
+667;Feast of Love;Brady Bute;839283357-0;Innojam;49.5
+668;Kiss, The;Blondell MacColl;166499889-6;Babblestorm;61.5
+669;Amen;Lin Rother;681282786-X;Trudeo;70.1
+670;Dangerous Davies: The Last Detective;Gunilla Touzey;843258251-4;Brightbean;55.8
+671;Skellig;Isacco Tullett;431540744-5;Riffpath;77.8
+672;Stalker;Justinian Matt;934732389-6;Feedfish;99.4
+673;Puss in Boots (Nagagutsu o haita neko);Doris Brandenburg;526007891-8;Skyndu;51.7
+674;Let My Puppets Come;Whitby Nendick;712653772-7;Flashdog;67.1
+675;Tortilla Soup;Emmy Betje;211203304-2;Divavu;85.2
+676;Welcome to Sarajevo;Lindie Loder;047495335-1;Aimbu;59.4
+677;Face/Off;Olympe Anthon;715027125-1;Realcube;84.9
+678;Appeared, The (Aparecidos);Harald Geikie;221358719-1;Abata;87.2
+679;Harper Valley P.T.A.;Goran Pleat;562722956-X;Divanoodle;6.5
+680;Carrie;Kaine Defau;861808841-2;Jabbercube;55.5
+681;Family Business;Tootsie Dimont;485144335-8;Trupe;35.3
+682;They Gave Him A Gun;Henri Gerriet;785171769-8;Kazu;41.2
+683;Boiler Room;Neala Vallery;592158967-5;Lazz;75.3
+684;Cat's Eye;Blondelle Celes;445204793-9;Trilia;64.3
+685;Green Wave, The;Xenia Pohlke;564255016-0;Tagcat;84.6
+686;Skirt Day (La journée de la jupe);Weidar Coggill;137571520-8;Abatz;29.8
+687;Wild Hearts Can't Be Broken;Leigha Penrice;426243790-6;Kazu;18.2
+688;Lost World, The;Lacy Sparkes;010484848-0;Browsedrive;85.8
+689;Mrs. Dalloway;Elijah Nicholas;086146376-5;Wikivu;60.0
+690;Synthetic Pleasures;Russ Storrah;334592675-X;Youfeed;71.7
+691;Antonio Gaudí;Aldis Plessing;214001854-0;Linklinks;71.4
+692;Reservation Road;Kristy Longmore;074718539-5;Thoughtsphere;48.7
+693;Slums of Beverly Hills, The;Claudette Catt;827633735-X;Eidel;79.1
+694;Blob, The;Leonora Fayerbrother;402507047-2;Twimm;27.4
+695;Classic, The (Klassikko);Anette Confort;397345123-0;Demizz;31.2
+696;Say Anything...;Julio Whyard;988268904-3;Muxo;4.7
+697;Nekromantik 2;Brandy Bartlosz;972282286-1;Gigazoom;3.6
+698;Switch, The;Keeley Mathouse;560669132-9;Jaxnation;77.4
+699;My Friends (Amici miei);Zitella Bramelt;505548012-2;Livetube;42.2
+700;Ultimate Avengers;Nancy MacAlpyne;076220646-2;Mynte;60.5
+701;I Love You, Man;Lancelot Yorath;308587455-0;Tazzy;38.2
+702;Matchmaker, The;Ericha Cuncarr;963699151-0;Jaxspan;26.4
+703;Taking of Power by Louis XIV, The (Prise de pouvoir par Louis XIV, La);Maynord Pettigrew;802437319-X;JumpXS;13.5
+704;Texas Chainsaw Massacre: The Next Generation (a.k.a. The Return of the Texas Chainsaw Massacre);Carmencita Bearcroft;081751250-0;Skivee;36.0
+705;Express, The;Pancho Desouza;438040401-3;Kwinu;10.1
+706;Pajama Game, The;Rhys Alan;421356750-8;Twitterlist;61.7
+707;Why We Fight;Micky Iveagh;579390533-2;Edgeify;76.5
+708;Britannia Hospital;Alena Giberd;131955877-1;Flashspan;60.2
+709;Jane Eyre;Meggie Copins;789627681-X;Babblestorm;36.1
+710;Saint Ange (House of Voices);Isidora Boscher;624957797-1;Plajo;36.5
+711;Gospa;Glyn Helsdon;464077055-3;Twitterlist;27.8
+712;Surfwise;Carline MacTerrelly;042057113-2;Meevee;80.1
+713;Body Snatchers;Abramo Eriksson;090236896-6;Linkbridge;84.0
+714;Holy Rollers;Tory Ledson;268397641-0;Wikivu;56.1
+715;Shame (Skammen);Lance Miettinen;169849936-1;Gabcube;9.4
+716;German Doctor, The (Wakolda);Sherie Rouf;065635245-0;Mydeo;83.0
+717;Building the Inferno: Nobuo Nakagawa and the Making of 'Jigoku';Rosalynd Darton;593577594-8;Plambee;93.1
+718;Camille;Sabrina Crutcher;890780891-0;Topicblab;90.4
+719;Damned United, The;Francklin Tomaini;354016986-5;Jabberstorm;11.7
+720;Larceny, Inc.;Demetria Sponer;855127208-X;Oba;92.4
+721;My Baby's Daddy;Pearline Shrive;246871084-3;Flashpoint;18.6
+722;Battlestar Galactica;Shandy Daveran;208619543-5;Skimia;47.2
+723;Otis;Harmonie Dietsche;204828710-7;Talane;80.8
+724;Lancelot of the Lake (Lancelot du Lac);Normy Lethabridge;589321509-5;Skaboo;72.6
+725;Sword of Desperation (Hisshiken torisashi);Skip Offen;652625378-4;Podcat;37.0
+726;Largo Winch (Heir Apparent: Largo Winch, The);Arlena Yann;792118199-6;Twitternation;24.6
+727;Big Jake;Aguste Ambrogini;495609169-9;Jabbersphere;37.8
+728;All I Want for Christmas;Field Goggins;482793563-7;Innojam;38.2
+729;Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2);Drona Tibalt;133797590-7;Wikizz;29.7
+730;Ghoulies II;Yance Sandcraft;258759456-1;Brainbox;20.1
+731;No Reservations;Merna Lenchenko;037788666-1;Agimba;39.5
+732;Exit;Kristin Plowell;363184049-7;Abata;14.2
+733;Hunger Games, The;Tanney Aubery;120964674-9;Skilith;33.7
+734;M for Mother (Mim mesle madar);Gav Blasdale;818532095-0;Yamia;68.6
+735;Two English Girls (Les deux anglaises et le continent);Sigfrid Coddington;245424501-9;Wikibox;66.8
+736;Sade;Carroll Soro;513835927-4;Babblestorm;85.3
+737;Paan Singh Tomar;Robinet Hubball;332648405-4;Abata;93.5
+738;Echoes from the Dead (Skumtimmen);Coletta Whitloe;161101652-5;Trudeo;20.1
+739;Haunted World of Edward D. Wood Jr., The;Sheeree Rickards;553197494-9;Youtags;87.9
+740;Little Lili (La petite Lili);Fanya Mitcheson;728062306-9;Topdrive;39.3
+741;Went to Coney Island on a Mission From God... Be Back by Five;Judye Lambersen;952880348-2;Flipbug;31.5
+742;Lt. Robin Crusoe, U.S.N.;Pasquale Ryland;995112590-5;Edgepulse;13.6
+743;Ruby;Nikolos Pache;587686862-0;Kwinu;90.3
+744;Numb;Darby Corrigan;934229854-0;Teklist;65.8
+745;Quartier Mozart;Timothy Roke;881097122-1;Trilia;72.2
+746;Human Tornado, The;Zacharias Alpin;413292504-8;Babbleopia;25.2
+747;Jerusalem Countdown;Dilan McCarroll;509250591-5;Eayo;30.4
+748;Baghban;Petronella Deeny;510058067-4;Podcat;22.4
+749;Sparkle;Bealle Kalisz;815973772-6;Mybuzz;33.2
+750;Highway Racer;Cordell Akid;392306446-2;Buzzdog;95.4
+751;Smiling Fish and Goat on Fire;Dennie Harteley;439830619-6;Blogtags;35.1
+752;Revengers Tragedy;Eunice Fleischer;201753806-X;Jatri;33.3
+753;Moving Midway;Martina Hauch;837772964-4;Demimbu;26.1
+754;Page One: Inside the New York Times;Cross Abdie;994287399-6;LiveZ;57.0
+755;Dungeonmaster, The;Alana Mollitt;686885114-6;Fliptune;70.2
+756;Sorority House Massacre II;Oneida Carless;686241230-2;Skinder;54.1
+757;Barren Lives (Vidas Secas);Junie Millmore;396600983-8;Leexo;73.6
+758;New York;Reamonn Yurevich;401833889-9;Buzzster;60.9
+759;Scanner Darkly, A;Trenton Sinkinson;965502081-9;Kwinu;79.2
+760;Last Lovecraft: Relic of Cthulhu, The;Wally Condon;202803513-7;Omba;38.9
+761;Soapdish;Merissa Skurray;994317110-3;Browsedrive;21.3
+762;Man in the Middle;Domenico Viccary;281791944-0;Thoughtbridge;23.1
+763;Heaven Can Wait;Mala Jaggard;316578140-0;Rhyzio;97.7
+764;Instinct;Jordanna Elton;834694297-4;Centidel;93.3
+765;Budz House;Clareta Harradence;435673632-X;Kimia;4.6
+766;Sunshine State;Lev Perton;592287570-1;Blogpad;46.9
+767;Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau);Otha Trunby;976602413-8;Mymm;71.7
+768;Life Back Then (Antoki no inochi);Christian Liverock;775913490-8;Oyoloo;4.0
+769;Stone Cold;Aundrea Houldey;103094134-3;Yodo;88.4
+770;Hoop Realities;Arlee Paumier;025645205-9;Snaptags;73.5
+771;Strip Search;Nariko Hicks;355435158-X;Eamia;91.5
+772;Mortuary;Borden Roulston;902715225-X;Tavu;76.1
+773;Killjoy Goes to Hell;Helaine Stead;601798750-X;Yacero;43.9
+774;Oak, The (Balanta);Beverie McKinn;332778608-9;Blognation;93.4
+775;Ghostmaker, The (Box of Shadows);Nester Oliffe;787726873-4;Yakitri;7.0
+776;Excuse My Dust;Datha Zorzutti;826105791-7;Twitterwire;31.9
+777;Scarecrow, The;Annis Oakton;570831560-1;Mycat;61.6
+778;Shameless (Maskeblomstfamilien );Phillis Gracewood;309476635-8;Jabbercube;96.5
+779;Into Eternity;Angela Gosling;462354782-5;Oloo;98.5
+780;Feast;Wayne Dunkirk;215177589-5;Bluezoom;51.5
+781;Climax, The;Darrin Bolderstone;347175593-4;Edgewire;16.1
+782;Frankenstein 90;Rosie Marlin;691497693-7;Bubblebox;42.5
+783;Kung Phooey!;Tamera Wavish;027095356-6;Quimm;51.0
+784;Sessions, The (Surrogate, The);Jan Espinazo;702904521-1;Livefish;93.1
+785;The Challenge;Antone Fantone;227266751-1;Browsezoom;89.8
+786;Craigslist Joe;Teodoor Biasioli;681458626-6;Thoughtstorm;23.4
+787;Institute, The;Reuben Yakov;843257553-4;Rhyzio;25.8
+788;Riddick;Ashleigh Moxley;275389019-6;Topdrive;67.2
+789;Heart of a Dog (Sobachye serdtse);Atlanta Stotherfield;146715269-2;Zoovu;57.0
+790;Disorder;Lilian Entreis;821033899-4;Photospace;78.0
+791;Exit Wounds;Tammy Simione;226683886-5;Blogtags;65.4
+792;Watermark;Zena Pentycross;987683639-0;Kare;57.8
+793;The Five Man Army;Karine Nester;492131886-7;Yacero;94.1
+794;Mechanic, The;Brand Goford;641643622-1;Voolith;10.4
+795;Better This World;Onfroi Radband;693536947-9;Photobug;96.7
+796;Light Years (Gandahar);Romola Mulmuray;159161063-X;Shufflester;49.6
+797;S.W.A.T.: Firefight;Robbert Merlin;994537931-3;Quinu;99.4
+798;Young at Heart;Elvera Elvidge;985947149-5;Shuffletag;58.0
+799;Story of Ruth, The;Claribel Correa;635337075-X;Twinte;76.6
+800;The Gamers;Suzy Shillito;977691169-2;Meemm;98.4
+801;Seven Samurai (Shichinin no samurai);Konstantin Stoeckle;737472283-4;Npath;7.6
+802;Fame High;Haleigh Fischer;907053778-8;Devshare;41.7
+803;Tooth Fairy;Mercie Niven;342753123-6;Aivee;57.2
+804;National Lampoon's Pucked;Tomkin Norewood;481355913-1;Livefish;31.6
+805;Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles;Dido Kuhnke;220292246-6;Shuffledrive;48.6
+806;Irina Palm;Beckie Rainville;313512373-1;Skiptube;77.8
+807;Identity;Sybille Harefoot;985731197-0;Yambee;61.9
+808;D.E.B.S.;Irene Merman;749011037-8;Jabberbean;82.5
+809;Patton;Tammie Seaman;682799939-4;Meembee;50.0
+810;Paris Trout;Portia Pesterfield;400628650-3;Avamba;90.2
+811;Great Buck Howard, The;Moira Benoi;552006093-2;Trilith;19.3
+812;Iceberg, L';Benedict Brotheridge;871599319-1;Omba;28.8
+813;Bomb It;Vicky Hartwright;759077939-3;Npath;65.4
+814;Defiant Ones, The;Alex Crawshaw;062258760-9;Dablist;90.3
+815;Abraham Lincoln: Vampire Hunter;Kingsly Summergill;836143530-1;Babbleset;37.4
+816;Violet & Daisy;Artemis Marklund;649479644-3;Twitternation;10.2
+817;8MM;Norbie Barkworth;986045180-X;Mycat;95.8
+818;Purple Gang, The;Jess Bacup;498869193-4;Cogilith;21.7
+819;Neighbors;Riordan Mac Giolla Pheadair;409949492-6;Miboo;17.9
+820;Science of Sleep, The (La science des rêves);Lea Shipperbottom;712884907-6;Jayo;84.0
+821;Cold Fish (Tsumetai nettaigyo);Franz Lewty;541730477-8;Mymm;77.4
+822;Step Up;Worthington Bridgeman;644879974-5;Ooba;61.0
+823;Aspen;Bear Boylin;788835536-6;Skidoo;16.7
+824;Through and Through (Na wylot);Marianne Jurczyk;749227603-6;Linktype;59.4
+825;Singapore Sling (Singapore sling: O anthropos pou agapise ena ptoma);Ferris Petrus;900723180-4;Thoughtstorm;34.6
+826;Kathleen;Torr Challen;033973034-X;Teklist;18.3
+827;A Walk in the Old City of Warsaw;Rosabella Steely;444396084-8;Feednation;64.3
+828;Bridge to Nowhere, The;Orion Whale;082656479-8;Buzzster;80.8
+829;Blue Swallow (Cheong yeon);Chrisy Neilly;752825717-6;Blogtags;11.6
+830;Boots and Saddles;Aloisia Dey;713978459-0;Dabshots;95.0
+831;Gidget;Cornelius Egell;465120149-0;Photobean;31.4
+832;Good Morning, Miss Dove;Frederigo Pummery;506099267-5;Quire;30.6
+833;Three Caballeros, The;Kiele Van den Oord;522219422-1;Topdrive;60.7
+834;Paradise Lost: The Child Murders at Robin Hood Hills;Roshelle Dulson;978214340-5;Yakidoo;65.0
+835;Win a Date with Tad Hamilton!;Lira Klimowicz;041076694-1;Mymm;24.0
+836;Red Hook Summer;Cullen Blunsom;279281725-9;Lajo;42.0
+837;Yellow Handkerchief, The;Philip Stoffel;635886598-6;Aimbo;98.5
+838;Bandaged;Sigfrid Strut;136709953-6;Tazz;69.7
+839;I'm Not There;Toby Copelli;938345613-2;Zoonoodle;43.1
+840;Dogville;Anthe Androsik;849562327-7;Skalith;12.1
+841;Bomb the System;Magdalena Hultberg;116333256-9;Quire;31.0
+842;Pandorum;Griffith Wheble;925484487-X;Feedfire;4.1
+843;These Three;Katrine Trammel;226641093-8;Edgeify;80.4
+844;Ignition;Lewie Adnet;751360338-3;Twimm;98.7
+845;Undertow;Olympe Hehir;769409510-5;Dabvine;35.2
+846;Bad Lieutenant: Port of Call New Orleans;Allyson Gerrard;333182937-4;Tagopia;45.0
+847;Elena and Her Men (Paris Does Strange Things) (Elena et les hommes);Brady Rosling;574601419-2;Twiyo;25.7
+848;Ass Backwards;Ives Newbold;086909379-7;Feedspan;67.4
+849;Shade;Rodolph Mahony;043991189-3;Kaymbo;11.6
+850;Next Man, The;Marrissa Byford;794723998-3;Ainyx;93.4
+851;Inn of the Sixth Happiness, The;Bobina Becker;605392943-3;Eazzy;15.6
+852;Innocence;Laetitia Croucher;263075327-1;Cogilith;97.8
+853;Great Directors;Stuart Ingre;818618435-X;Blogspan;93.6
+854;Forest for the Trees, The (Der Wald vor lauter Bäumen);Alexina Ladell;647177504-0;LiveZ;34.6
+855;Senseless;Lynde Jaquest;118418792-4;Innotype;31.3
+856;It's a Boy Girl Thing;Lotte Roles;818958973-3;Feednation;43.7
+857;Phar Lap;Stanleigh Gadsby;102102802-9;Camimbo;9.3
+858;Deliverance;Florette Bayles;054546666-0;Yotz;43.3
+859;Cold Around the Heart;Karissa Colomb;329884158-7;Innotype;44.7
+860;Mr. Hobbs Takes a Vacation;Idaline Turneux;018819841-5;Eabox;77.3
+861;Je préfère qu'on reste amis;Frank De Matteis;240045376-4;Gigaclub;96.6
+862;Five-Year Engagement, The;Amerigo Prigmore;443494409-6;Quinu;89.3
+863;Hider in the House;Peyton Newens;614395237-X;Brainbox;55.1
+864;Batman: Gotham Knight;Murial Avramovitz;626651690-X;Twitternation;55.7
+865;Love Story 2050;Drucy Ellor;893932941-4;Zooxo;29.0
+866;King of Texas;Rita Agates;797109165-6;BlogXS;27.5
+867;Whatever Happened to Harold Smith?;Bridgette Gregoretti;401127004-0;Livepath;89.4
+868;Gabrielle;Magnum Zollner;247862095-2;Shuffledrive;63.4
+869;Roman Polanski: Wanted and Desired;Elna McNeice;347518718-3;Dabshots;84.0
+870;Majestic, The;Derron Houtby;100045277-8;Camimbo;53.0
+871;Beverly Hills Cop III;Nerta Gingell;636916869-6;Shufflester;61.4
+872;Kids Return (Kizzu ritân);Antoine Schuh;497595558-X;Blognation;20.7
+873;Great White Hype, The;Phebe Signorelli;448810979-9;Kwideo;78.6
+874;Neighbouring Sounds (O som ao redor);Alfi Arnaudin;131365205-9;Avaveo;51.5
+875;2013 Rock and Roll Hall of Fame Induction Ceremony, The;Mattias Rickets;838801248-7;Skyndu;11.3
+876;Last Winter, The;Kristin Bourthoumieux;263230874-7;Shuffletag;8.5
+877;Mood Indigo (L'écume des jours);Trstram Mathis;007721544-3;Kwilith;30.6
+878;Dirty Carnival, A (Biyeolhan geori);Rosabel Carryer;708484726-X;Edgetag;91.6
+879;Attack!;Alfi Pietersen;113991131-7;Feednation;4.7
+880;Two Lives (Zwei Leben);Harlie Doulden;189115761-2;Snaptags;37.4
+881;Sisters (Syostry);Quentin McCluin;961714394-1;Photojam;22.0
+882;Torrente 4: Lethal Crisis;Edythe Mein;714952693-4;Feedmix;61.1
+883;Desk Set;Hannie Flament;385616849-4;Teklist;69.5
+884;List of Adrian Messenger, The;Matilda Culpin;202518795-5;Twitterlist;45.3
+885;Wit;Evy Conner;123715093-0;Mybuzz;21.0
+886;For All Mankind;Benn Fogg;306190062-4;Innojam;90.6
+887;Mother and Son (Mat i syn);Dulcia Safe;940242987-5;InnoZ;3.1
+888;Daens;Matthew Suscens;904174249-2;Brainbox;74.2
+889;Sweeney Todd: The Demon Barber of Fleet Street;Duncan Despenser;724049834-4;Viva;28.4
+890;Chesty: A Tribute to a Legend;Chan Hellard;308816645-X;Zoombeat;8.0
+891;Zatoichi the Outlaw (Zatôichi rôyaburi) (Zatôichi 16);Rollin Berard;866952138-5;Chatterpoint;38.0
+892;I Live My Life;Fawne Tsar;989870180-3;Topicware;25.8
+893;Castle of the Living Dead (Castello Dei Morti Vivi, Il);Kerby Esselen;639943028-3;Omba;94.3
+894;Nightcap (Merci pour le chocolat);Klarrisa Brodley;634545568-7;Rhynyx;92.6
+895;Evil Dead, The;Werner O'Mahoney;053653663-5;Livefish;77.5
+896;Twilight Saga: Eclipse, The;Goraud Writer;246781244-8;LiveZ;47.3
+897;Munyurangabo;Elsbeth Servante;387492853-5;Izio;75.1
+898;Beverly Hills Cop III;Bondie Mines;967278843-6;Avamba;74.6
+899;Kein Bund für's Leben;Griffith Leglise;994725467-4;Blogpad;95.7
+900;Hidden Agenda;Shelba Lait;794913420-8;Trupe;6.2
+901;Lucky One, The;Claire Dugood;842467206-2;Jaloo;60.8
+902;What About Dick?;Murry Wilden;907546202-6;Bluezoom;12.1
+903;Zero Years, The;Tiphany Andreas;996410510-X;Fivespan;76.1
+904;Contact;Alla Paolini;945247715-6;Dabtype;71.8
+905;Summer of Blood;Carl Ammer;480193359-9;Jazzy;62.6
+906;Mr. Woodcock;Cherianne Gladden;973713709-4;Kazu;96.9
+907;I Am Sam;Hasheem Harwick;776232887-4;Bubblebox;73.0
+908;Salon Kitty;Cobby Redhills;630836375-8;Teklist;57.2
+909;Malcolm X;Nata Houdmont;779461203-9;Eadel;97.2
+910;Marked for Death;Odell Brittian;237020036-7;Realpoint;76.5
+911;Water-mirror of Granada;Byram Taleworth;770054437-9;Chatterbridge;20.2
+912;Too Many Girls;Lynna Francioli;912236592-3;Snaptags;72.1
+913;Wrong Side Up (Pribehy obycejneho silenstvi);Stesha Jaskiewicz;498950730-4;Twinder;66.6
+914;Queen - Rock Montreal;Keenan Rushmer;873538134-5;Edgeify;54.8
+915;Two Times Lotte;Lishe Adamiak;850536669-7;Yotz;12.3
+916;I Spit on Your Grave 2 ;Genevieve Paquet;581870342-8;Twitterwire;37.7
+917;Apartment 4E ;Cherye Shirlaw;858580960-4;Youtags;34.8
+918;Breaking the Maya Code;Emlynne Santo;287799707-3;Skinder;69.3
+919;Singin' in the Rain;Judi Biddell;591219899-5;Jabbertype;37.3
+920;Johnny Cash at Folsom Prison;Bertina Lisle;352101172-0;Voolia;88.2
+921;Poltergeist III;Bessie Ebbing;851487370-9;Zoomdog;82.2
+922;Room for One More;Quincey Pilmoor;119035860-3;Browsezoom;8.5
+923;Rough Magic;Morry Peebles;461718294-2;Vinder;54.5
+924;Space Amoeba (Yog: Monster from Space);Thorny Arney;297568913-6;Dabfeed;97.0
+925;Life and Times of Allen Ginsberg, The;Zach Landall;220100988-0;Oyope;67.1
+926;Excision;Dani Langtry;956460472-9;Einti;15.7
+927;Dancing in the Rain (Ples v dezju);Roxi Rixon;916627880-5;Blognation;65.3
+928;Coup de torchon (Clean Slate);Quincy Pettyfar;077345725-9;Yozio;78.6
+929;Amityville Curse, The;Reynold Mungin;279094128-9;Browsezoom;92.3
+930;Luther;Benyamin Metrick;565040114-4;Twinte;95.7
+931;Noose, The (Petla);Hedi Beenham;374414213-2;Twinder;33.9
+932;By the Bluest of Seas (U samogo sinego morya);Alverta Amey;344122293-8;Tekfly;6.5
+933;God's Sandbox (Tahara);Arluene Lathaye;954708911-0;Tanoodle;88.0
+934;Magnificent Seven, The;Monika Downey;898631914-4;Jabbersphere;86.0
+935;Stardust Memories;Gelya Wilman;277491070-6;Eadel;48.5
+936;Entity;Gretna Whittek;382830968-2;Blogtag;88.9
+937;All the King's Men;Claudian Shelper;059231603-3;Brainsphere;60.6
+938;Man of the Year, The (O Homem do Ano);Keith Alvy;747763899-2;Yozio;95.7
+939;Las Vegas Story, The;Georgiana Lowery;107247807-2;Tagopia;64.4
+940;Loose Cannons;Dan Parkman;510625816-2;Mymm;73.7
+941;Interrupters, The;Irena Wann;764672954-X;Voonyx;14.8
+942;Haunting in Connecticut 2: Ghosts of Georgia, The;Lory Urey;501929734-8;Jabbersphere;98.0
+943;Godfather: Part II, The;Yolanthe Woofinden;903196336-4;Quinu;39.4
+944;Nasty Girl, The (schreckliche Mädchen, Das);Ferne Barns;847091857-5;Divavu;39.9
+945;Sita Sings the Blues;Fionnula Sexcey;744763608-8;Fatz;73.2
+946;SherryBaby;Antin Ox;339488980-3;Ozu;51.9
+947;File on Thelma Jordan, The;Zabrina Ghilardi;943331296-1;Tavu;55.1
+948;Dexter the Dragon & Bumble the Bear (a.k.a. Dragon That Wasn't (Or Was He?), The) (Als je begrijpt wat ik bedoel);Davida Brunner;565386035-2;Tagopia;83.9
+949;RoboCop;Hillel Ambrosetti;927536475-3;Omba;33.6
+950;Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000);Philis Lownie;255938471-X;Quatz;66.9
+951;Summer Wars (Samâ wôzu);Teri Chadwin;645314388-7;Buzzbean;27.0
+952;Forrest Gump;Elroy Twinn;840348090-3;Vipe;50.3
+953;Comedy Central Roast of Bob Saget;Tallie Petrus;181538244-9;Meembee;38.3
+954;Bridges of Madison County, The;Jen Redan;167070945-0;Devify;89.2
+955;Hunted, The;Buddy Dodsworth;110632076-X;Vinder;10.5
+956;Crawling Eye, The (a.k.a. Trollenberg Terror, The);Boyd Witnall;566624176-1;Skajo;67.0
+957;Hostage;Fawn Daughtry;547919351-1;Demizz;46.5
+958;Topper Takes a Trip;Romona Feavyour;013952203-4;Rhybox;50.4
+959;Manhattan Murder Mystery;Georgina O'Fihily;967148572-3;Trupe;56.7
+960;Simpsons: The Longest Daycare, The;Devonna Patroni;033400808-5;Yakijo;39.5
+961;Legion;Lurleen MacColgan;416573443-8;Youfeed;93.4
+962;Quiet American, The;Diahann Cayley;478147424-1;Minyx;64.4
+963;We Are Marshall;Antons Sharville;878926553-X;Avamm;25.9
+964;Waltz with Bashir (Vals im Bashir);Nissy Billingham;037027480-6;Edgeify;69.4
+965;P2;Giacomo Dudlestone;862481211-9;Yakitri;9.6
+966;Volunteers;Elisabeth Jagg;691126336-0;Chatterpoint;17.9
+967;Million Dollar Duck, The (a.k.a. $1,000,000 Duck);Caritta Lambricht;794672570-1;Brainbox;32.4
+968;You and Me;Vinita Meads;845614046-5;Youspan;94.0
+969;Oh, Sun (Soleil O);Ibby Pioli;202557113-5;Realbuzz;39.7
+970;Adjuster, The;Ninnette Dugan;937299880-X;Muxo;69.7
+971;Alice;Evangelin Whitehead;406822258-4;Babbleblab;85.9
+972;Laggies;Robb Sjostrom;184396727-8;Eabox;81.0
+973;Analyze That;Ferdinand Lukash;457043724-9;Fivespan;70.8
+974;Good Girl, The;Karel Blunsen;994735957-3;Jaxbean;95.4
+975;Hypocrites;Benedict MacLaverty;607186929-3;Voomm;27.4
+976;Lair of the White Worm, The;Patrizia Boulton;528534424-7;Digitube;18.2
+977;Missing Person, The;Madalena Ricci;235143060-3;Yamia;46.1
+978;Demonic Toys;Fernanda Moan;454079175-3;Podcat;36.5
+979;Battlestar Galactica: The Plan;Valida Tavernor;172089243-1;Quatz;9.9
+980;Toys in the Attic;Vanda Leroux;013194620-X;Dynabox;37.7
+981;Poison Ivy II;Natassia Elstob;498816009-2;Brightdog;22.7
+982;Mark of the Devil (Hexen bis aufs Blut gequält);Minnnie Ayre;513931825-3;Devcast;19.0
+983;Night of the Zombies (a.k.a. Batallion of the Living Dead);Zaccaria Longman;827034833-3;Jabbersphere;85.8
+984;Day He Arrives, The (Book chon bang hyang);Reeba Wisniowski;386080995-4;Teklist;8.0
+985;Seafarers, The;Adaline Commusso;360127682-8;Thoughtbeat;85.5
+986;Keyhole;Algernon Launchbury;755852305-2;Skibox;12.8
+987;Dreamlife of Angels, The (Vie rêvée des anges, La);Kiri Spinella;301155983-X;Wordify;21.1
+988;The Beautiful Story;Jacinta Jeppe;611101561-3;Quimm;18.0
+989;When the Wind Blows;Tina Leggon;281712557-6;Chatterbridge;80.9
+990;Privilege;Cecilla Labbe;583926510-1;Latz;76.7
+991;Calculator;Aloise Noke;139333666-3;Lazz;56.9
+992;Creature Comforts;Dorette Ockleshaw;221997929-6;Centidel;90.6
+993;Pagemaster, The;Augustine Lappin;205534461-7;Gabcube;53.8
+994;The Big Shave;Saba Thresher;553589227-0;Quire;76.2
+995;Oath, The;Hodge MacSorley;151610026-3;Twinder;50.9
+996;The Thirteen Assassins;Carlyn Colmer;125039123-7;Brightdog;87.9
+997;Day of the Falcon;Guinevere Dearnaley;303247041-2;Thoughtbridge;17.5
+998;8 Heads in a Duffel Bag;Lemar Kenwright;915956228-5;Miboo;39.9
+999;Axed;Nye Breem;412822650-5;Reallinks;18.2
+1000;Devils, The;Rossie MacGiolla Pheadair;447630818-X;Gigabox;11.4

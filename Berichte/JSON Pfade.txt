@@ -1,0 +1,6 @@
+get
+https://localhost:5001/library/books
+https://localhost:5001/library/customers
+get,put,post,delete
+https://localhost:5001/library/books/4
+https://localhost:5001/library/customers/4

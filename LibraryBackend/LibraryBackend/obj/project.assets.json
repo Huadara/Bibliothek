@@ -4615,6 +4615,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "LibaryDb/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LibaryDb.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibaryDb.dll": {}
+        }
       }
     }
   },
@@ -5520,7 +5529,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "ab4+TZw3Sxqrr5TwrwVyABeQkhSxYMJXgG6yZw7T+r6Vz+hcOt+pK79o15ESG7kZvWAK9wRG7emnTIia5O6R1Q==",
+      "sha512": "fe1+dpy+eM4IX1zodsvkihO1Spuj0NecfStWzvkYoMo7/ziOsqSv4vFK36ZpBfHa4gpdCEwaU46EPzdq+ZDYhQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "hasTools": true,
@@ -12521,10 +12530,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "LibaryDb/1.0.0": {
+      "type": "project",
+      "path": "../LibaryDb/LibaryDb.csproj",
+      "msbuildProject": "../LibaryDb/LibaryDb.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "LibaryDb >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -12532,23 +12547,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thomas\\.nuget\\packages\\": {},
+    "C:\\Users\\Lukas Litzlbauer\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
+      "projectUniqueName": "C:\\Schule\\4b\\DBI\\LibaryProject\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
       "projectName": "LibraryBackend",
-      "projectPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
-      "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\obj\\",
+      "projectPath": "C:\\Schule\\4b\\DBI\\LibaryProject\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
+      "packagesPath": "C:\\Users\\Lukas Litzlbauer\\.nuget\\packages\\",
+      "outputPath": "C:\\Schule\\4b\\DBI\\LibaryProject\\Bibliothek\\LibraryBackend\\LibraryBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lukas Litzlbauer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12560,7 +12575,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibaryDb\\LibaryDb.csproj": {
+              "projectPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibaryDb\\LibaryDb.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

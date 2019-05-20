@@ -23,31 +23,32 @@ namespace LibraryBackend.Controllers
 
         // GET: library/books/5
         [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
+        public ActionResult<BookDTO> Get(int id)
         {
-            return JsonConvert.SerializeObject(new BookDTO() { title = "ABC" });
+            return new BookDTO() { title = "ABC" };
         }
 
         // POST: library/books
         [HttpPost]
-        public void Post([FromBody] string value)
+        public ActionResult<BookIdDTO> Post([FromBody] BookDTO value)
         {
             Console.WriteLine("+++++++++++++++++++++++++" + value);
-            //return JsonConvert.SerializeObject(new BookIdDTO() { book_id = 5 });
+            return new BookIdDTO() { book_id = 5 };
         }
 
         // PUT: library/books/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public ActionResult<BookIdDTO> Put(int id, [FromBody] BookDTO value)
         {
-
+            //TODO: ändern in DB
+            return new BookIdDTO() { book_id = 5 };
         }
 
-        // DELETE: library/ApiWithActions/5
+        // DELETE: library/books/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public ActionResult<BookIdDTO> Delete(int id)
         {
-
+            return new BookIdDTO() { book_id = 5 };
         }
     }
 }

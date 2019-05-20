@@ -4,7 +4,11 @@
 library
 C#
 .cs
+<<<<<<< HEAD
 C:\Schule\4b\DBI\LibaryProject\Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\
+=======
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\
+>>>>>>> 9d4dd4482aae2b7196691c57f07035e85c9284d6
 AssessmentControlLib
 none
 false
@@ -13,8 +17,12 @@ DEBUG;TRACE
 11426281480
 
 4-123931765
+<<<<<<< HEAD
 141426183648
+=======
+141449645606
+>>>>>>> 9d4dd4482aae2b7196691c57f07035e85c9284d6
 TaskControl.xaml;
 
-True
+False
 

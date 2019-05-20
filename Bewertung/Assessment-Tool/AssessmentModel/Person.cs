@@ -14,7 +14,7 @@ namespace AssessmentModel
 
         public override string ToString()
         {
-            return $"{Name}";
+            return $"{Name} - {Points}pts.";
         }
 
         public virtual List<PersonTask> PersonTasks { get; set; }

@@ -31,7 +31,7 @@ namespace AssessmentControlLib
 
         private void UserControl_Loaded(object sender, RoutedEventArgs e)
         {
-            lblName.Content = Task.Name;
+            lblName.Content = Task.ToString();
             pbPoints.Maximum = Task.TaskPoints;
             pbPoints.Value = Task.PointsToDistribute;
         }

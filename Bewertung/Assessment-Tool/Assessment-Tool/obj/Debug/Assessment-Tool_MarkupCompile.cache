@@ -4,16 +4,28 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Schule\4b\DBI\LibaryProject\Bibliothek\Bewertung\Assessment-Tool\Assessment-Tool\obj\Debug\
+=======
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\Assessment-Tool\obj\Debug\
+>>>>>>> 9d4dd4482aae2b7196691c57f07035e85c9284d6
 Assessment_Tool
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Schule\4b\DBI\LibaryProject\Bibliothek\Bewertung\Assessment-Tool\Assessment-Tool\App.xaml
 11151548125
 
 5-2017746502
 20-2096229512
+=======
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\Assessment-Tool\App.xaml
+11151548125
+
+5-2017746502
+20-1273921471
+>>>>>>> 9d4dd4482aae2b7196691c57f07035e85c9284d6
 MainWindow.xaml;
 
 False

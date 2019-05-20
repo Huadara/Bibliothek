@@ -9,14 +9,16 @@
         </b-col>
         <b-col>
 
-            <b-dropdown  id="whitespace">
-              <b-dropdown-item>gay</b-dropdown-item>
+            <b-dropdown v-bind:text="get_name(currentCustomer)" id="whitespace">
+              <b-dropdown-item v-for="customer in customers" :key="customer.firstname" @click="selectedCustomerChanged(customer)">
+                {{get_name(customer)}}
+              </b-dropdown-item>
             </b-dropdown>
         </b-col>
     </b-row>
     <b-row>
         <b-col>
-          <b-button variant="primary">Send Customer ID</b-button>
+          <b-button variant="primary" @click="sendCustomer">Send Customer ID</b-button>
         </b-col>
     </b-row>
   </b-container>
@@ -24,7 +26,24 @@
 
 <script>
     export default {
-        name: "LendingComponent"
+        name: "LendingComponent",
+        methods:{
+
+          selectedCustomerChanged(customer){
+            this.currentCustomer = customer;
+          },
+          get_name(customer){
+            if(customer === undefined) return "SEARCHING...";
+            return customer.firstname + " " + customer.lastname;
+           },
+      },
+      data(){
+        return{
+          currentCustomer: Object,
+          customers: [],
+          filter: ""
+        }
+      }
     }
 </script>
 

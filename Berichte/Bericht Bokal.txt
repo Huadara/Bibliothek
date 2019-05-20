@@ -1,0 +1,4 @@
+20. Mai 2019
+
+--> AddCustomer Komponente programmiert
+--> LendingBook Komponente programmiert

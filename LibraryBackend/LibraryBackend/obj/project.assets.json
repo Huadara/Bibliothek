@@ -4615,6 +4615,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "LibaryDb/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LibaryDb.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibaryDb.dll": {}
+        }
       }
     }
   },
@@ -12521,10 +12530,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "LibaryDb/1.0.0": {
+      "type": "project",
+      "path": "../LibaryDb/LibaryDb.csproj",
+      "msbuildProject": "../LibaryDb/LibaryDb.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "LibaryDb >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -12560,7 +12575,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibaryDb\\LibaryDb.csproj": {
+              "projectPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibaryDb\\LibaryDb.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

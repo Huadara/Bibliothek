@@ -26,3 +26,9 @@ C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\net
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorTargetAssemblyInfo.cache
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibaryDb.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\EntityFramework.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibaryDb.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibaryDb.dll.config
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\EntityFramework.xml
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete

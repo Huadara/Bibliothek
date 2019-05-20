@@ -1,0 +1,38 @@
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentControlLib.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentControlLib.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentModel.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\EntityFramework.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentModel.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentModel.dll.config
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\EntityFramework.xml
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.csprojAssemblyReference.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\TaskControl.g.cs
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib_MarkupCompile.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib_MarkupCompile.lref
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\TaskControl.baml
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.g.resources
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.Properties.Resources.resources
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.csproj.GenerateResource.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.csproj.CoreCompileInputs.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.csproj.CopyComplete
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentControlLib.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentControlLib.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentModel.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\EntityFramework.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentModel.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\AssessmentModel.dll.config
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\bin\Debug\EntityFramework.xml
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.csprojAssemblyReference.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\TaskControl.g.cs
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib_MarkupCompile.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib_MarkupCompile.lref
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\TaskControl.baml
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.g.resources
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.Properties.Resources.resources
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.csproj.GenerateResource.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.csproj.CoreCompileInputs.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.csproj.CopyComplete
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentControlLib\obj\Debug\AssessmentControlLib.pdb

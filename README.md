@@ -2,7 +2,7 @@
 I bims da Sali und i hob grod NVS-Test.
 Für die, die aktuell nichts zu tun haben, bitte Folgendes überprüfen:
   - Wenn ein Kunde ein Buch kauft, so soll das lieber ein StoredBook sein, anstelle eines Books (?)
-  - Kann man mit der StoredBookId ein StoredBook finden?
+  - Kann man mit der StoredBookId ein StoredBook finden? (Welche Infos müssen in einem JSON stehen, damit ich ein ausgeliehenes Buch wieder finde?)
   - Wozu braucht man die StoreId im Sale?
 
 Nachdem ihr das überprüft habt, ändert bitte die JSON-Strings entsprechend, da ich glaube, dass dort noch ein paar Sachen fehlen könnten. Wenn ihr euch nicht sicher seid, ob ein Wert in das JSON hineingehört, dann macht ihn einfach rein! (Lieber zu viel, als zu wenig!)

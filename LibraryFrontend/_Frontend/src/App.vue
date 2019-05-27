@@ -6,7 +6,9 @@
 </template>
 
 <script>
-export default {
+  var Vue = require('vue');
+  Vue.use(require('vue-resource'));
+  export default {
   name: 'App'
 }
 </script>

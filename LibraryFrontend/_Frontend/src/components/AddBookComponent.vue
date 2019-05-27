@@ -78,6 +78,7 @@
         {
             const json = `{ "title": "${title}", "author": "${author}", "publisher": "${publisher}", "supplier_id": ${supplier_id}, "isbn": "${isbn}", "price": ${price}}`
             this.$http.post("/library/books", json);
+            this.$htt
         }
       }
     }

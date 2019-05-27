@@ -22,6 +22,7 @@ namespace LibraryBackend.Controllers
         public ActionResult<List<BookDTO>> Get()
         {
             List<Book> dbBooks = db.Books.ToList();
+            Console.WriteLine($"returning {dbBooks.Count()} books");
             return dbBooks.Select(x => DTOConverter.convertBookToDTO(x)).ToList();
             //return System.IO.File.ReadAllText(@".\Test Data\get_books.json");
         }

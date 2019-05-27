@@ -6076,7 +6076,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore/2.1.4": {
-      "sha512": "Rt2SIF3LPQfBzQYbhOv8LwQKy7UkZh+zJcls5eLTOlbPahLXH7IWCkk3mQpzTvljG55vkhzNcOjzrVLcO0uICA==",
+      "sha512": "pxMNnSckkrbrdqxGrrMY1zgFexDLz58KO5FCCCPyGggFbUOfi6B90695ts6GnxSvoovPjw4LM3zNq1HKLfsEGw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/2.1.4",
       "files": [
@@ -6089,7 +6089,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Abstractions/2.1.4": {
-      "sha512": "3djJy9gM2PZQFz6NHPSVzAN8azBu7afehDLwGkCR8yCMVhNzkkVdT/JZMfsSzuNZ302wIFWbzEYSAEI6lBddMA==",
+      "sha512": "MHie3yU6QK8QW0LnHrICJWT19uDW0m9xDzLDOSO9pBehNtmPyuywaJFLmCkzLiZdJlKN85IH+2jRYV3+1dLnZA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.abstractions/2.1.4",
       "files": [
@@ -6102,7 +6102,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Analyzers/2.1.4": {
-      "sha512": "VEyuULTq48tbPjwLXo9j5WdObg0ViHYI4CwvdaYG23r13wIP2MJqpn4Nc9HpUQPPxGDqL2FO9HRvSY3Xufgtcw==",
+      "sha512": "I7CsQN498nz3t9AnItGUFbwFaktMWLqjvUi3HGL8lQfkeEDTO1tJSdTeLX3mR/+1UIaejQSfYAn0F6l9e5lsmA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.analyzers/2.1.4",
       "files": [
@@ -6114,7 +6114,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Design/2.1.4": {
-      "sha512": "UWn5ufxQZiFl18MSzD7/JM4kNUtbMtJQuNncZ9k4Is7J/oogx6ApbG/nsznoEcM2PfeZc6CZG9u14TJZbXRoig==",
+      "sha512": "Nd7I9jnF6kPW2ATyKo9GQQc0v2shVCgCP/OeKYrRwxnVoYpA57beQHPBy5033SfZCQNtNFHZxN8Co3as7G3GHA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.design/2.1.4",
       "files": [
@@ -6144,7 +6144,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/2.1.4": {
-      "sha512": "Ekl7Kjo5YrPahQ1FJJVSd1ZTnmbtCPdkbI8CMZfbGBQMtrYgBttHxE4bTA4+Ys69+BTRMc/AdWoCfRyioxZA+w==",
+      "sha512": "0eaUYUZ4KaIbjLoqTXdRADlwzVN/rWjWFmaCu+5xGYPvO9FLZqdHhLIa/zgocwAvTxGiUpHm5+D4YWK6dODJNw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/2.1.4",
       "files": [
@@ -6157,7 +6157,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.SqlServer/2.1.4": {
-      "sha512": "f5Zl534MVOrVhe5kAYE9eFN+4AYW6IUw7+i5NeNQ+8eJQpAjCW5HlzGBkFVerHwzkjcM/Z3tlqMTzrdpO+f0HA==",
+      "sha512": "Wnl51dw9/iuccesbkxvD4Z8IpfvhqqSWycRe3wOi7udXJGzB3uhFM2nM5CiWqmAYwZw6JdSxj1FkVhKQYrVMSA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlserver/2.1.4",
       "files": [
@@ -8740,7 +8740,7 @@
       ]
     },
     "System.Diagnostics.DiagnosticSource/4.5.1": {
-      "sha512": "zCno/m44ymWhgLFh7tELDG9587q0l/EynPM0m4KgLaWQbz/TEKvNRX2YT5ip2qXW/uayifQ2ZqbnErsKJ4lYrQ==",
+      "sha512": "/tu8MfTToEdI+I0L10NkGXqGuLDIvmkWqjnaSit3o8i5SZz8A0kz9YLxfZltFKbxmsOpYqnyoysPvPlQMZVwxg==",
       "type": "package",
       "path": "system.diagnostics.diagnosticsource/4.5.1",
       "files": [
@@ -12552,23 +12552,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\A. Salletmaier\\.nuget\\packages\\": {},
+    "C:\\Users\\Thomas\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
+      "projectUniqueName": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
       "projectName": "LibraryBackend",
-      "projectPath": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
-      "packagesPath": "C:\\Users\\A. Salletmaier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\obj\\",
+      "projectPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
+      "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
+      "outputPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\A. Salletmaier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12581,8 +12581,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj": {
-              "projectPath": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj"
+            "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj": {
+              "projectPath": "C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj"
             }
           }
         }

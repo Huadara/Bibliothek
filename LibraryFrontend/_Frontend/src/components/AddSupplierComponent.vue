@@ -20,7 +20,7 @@
         </b-row>
         <b-row>
           <b-col>
-            <b-button :variant="primary">Add Supplier</b-button>
+            <b-button :variant="primary" onclick="btnAddSupplierClicked">Add Supplier</b-button>
           </b-col>
         </b-row>
       </b-container>
@@ -28,7 +28,8 @@
 </template>
 
 <script>
-    export default {
+
+export default {
         name: "AddSupplierComponent"
     }
 </script>

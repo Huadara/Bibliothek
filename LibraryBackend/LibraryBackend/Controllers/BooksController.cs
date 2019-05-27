@@ -15,39 +15,62 @@ namespace LibraryBackend.Controllers
     [ApiController]
     public class BooksController : ControllerBase
     {
-        LibraryContext db = new LibraryContext();
 
         // GET: library/books
         [HttpGet]
         public ActionResult<List<BookDTO>> Get()
         {
-            List<Book> dbBooks = db.Books.ToList();
-            Console.WriteLine($"returning {dbBooks.Count()} books");
+            List<Book> dbBooks = Context.db.Books.ToList();
+            Console.WriteLine($"*** returning {dbBooks.Count()} books ***");
             return dbBooks.Select(x => DTOConverter.convertBookToDTO(x)).ToList();
-            //return System.IO.File.ReadAllText(@".\Test Data\get_books.json");
         }
 
         // GET: library/books/5
         [HttpGet("{id}", Name = "Get")]
         public ActionResult<BookDTO> Get(int id)
         {
-            return DTOConverter.convertBookToDTO(db.Books.Where(x => x.BookId == id).First());
+            return DTOConverter.convertBookToDTO(Context.db.Books.Where(x => x.BookId == id).First());
         }
 
         // POST: library/books
         [HttpPost]
-        public ActionResult<BookIdDTO> Post([FromBody] BookDTO value)
+        public ActionResult<BookIdDTO> Post([FromBody] BookDTO newBook)
         {
-            Console.WriteLine("+++++++++++++++++++++++++" + value);
-            return new BookIdDTO() { book_id = 5 };
+            Book b = new Book()
+            {
+                Title = newBook.title,
+                Author = newBook.author,
+                Isbn = newBook.isbn,
+                Publisher = newBook.publisher,
+                Price = (float)newBook.price
+            };
+            Context.db.Books.Add(b);
+            Context.db.SaveChanges();
+            int newId = b.BookId;
+            Console.WriteLine($"                ++++++++++++++ {newId} ++++++++++++++");
+            return new BookIdDTO() { book_id = newId };
         }
 
         // PUT: library/books/5
         [HttpPut("{id}")]
-        public ActionResult<BookIdDTO> Put(int id, [FromBody] BookDTO value)
+        public ActionResult<BookIdDTO> Put(int id, [FromBody] BookDTO newBook)
         {
-            //TODO: ändern in DB
-            return new BookIdDTO() { book_id = 5 };
+            try
+            {
+                Book b = Context.db.Books.Where(x => x.BookId == id).First();
+                b.Title = newBook.title;
+                b.Author = newBook.author;
+                b.Isbn = newBook.isbn;
+                b.Publisher = newBook.publisher;
+                b.Price = (float)newBook.price;
+                Context.db.SaveChanges();
+                return new BookIdDTO() { book_id = b.BookId };
+            }
+            catch (Exception e)
+            {
+                //id wurde nicht in der db gefunden.
+                return new BookIdDTO() { book_id = -1 };
+            }
         }
 
         // DELETE: library/books/5

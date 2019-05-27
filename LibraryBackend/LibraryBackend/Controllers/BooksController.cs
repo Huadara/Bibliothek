@@ -77,7 +77,19 @@ namespace LibraryBackend.Controllers
         [HttpDelete("{id}")]
         public ActionResult<BookIdDTO> Delete(int id)
         {
-            return new BookIdDTO() { book_id = 5 };
+            try
+            {
+                Book b = Context.db.Books.Where(x => x.BookId == id).First();
+                if (b == null) throw new Exception();
+                Context.db.Books.Remove(b);
+                Context.db.SaveChanges();
+                return new BookIdDTO() { book_id = b.BookId };
+            }
+            catch (Exception e)
+            {
+                //id wurde nicht in der db gefunden.
+                return new BookIdDTO() { book_id = -1 };
+            }
         }
     }
 }

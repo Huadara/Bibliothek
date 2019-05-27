@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using LibraryBackend.DTOs;
 using LibraryBackend.Models;
+using LibraryDb;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -14,40 +15,45 @@ namespace LibraryBackend.Controllers
     [ApiController]
     public class BooksController : ControllerBase
     {
+        LibraryContext db = new LibraryContext();
+
         // GET: library/books
         [HttpGet]
-        public string Get()
+        public ActionResult<List<BookDTO>> Get()
         {
-            return System.IO.File.ReadAllText(@".\Test Data\get_books.json");
+            List<Book> dbBooks = db.Books.ToList();
+            return dbBooks.Select(x => DTOConverter.convertBookToDTO(x)).ToList();
+            //return System.IO.File.ReadAllText(@".\Test Data\get_books.json");
         }
 
         // GET: library/books/5
         [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
+        public ActionResult<BookDTO> Get(int id)
         {
-            return JsonConvert.SerializeObject(new BookDTO() { title = "ABC" });
+            return DTOConverter.convertBookToDTO(db.Books.Where(x => x.BookId == id).First());
         }
 
         // POST: library/books
         [HttpPost]
-        public void Post([FromBody] string value)
+        public ActionResult<BookIdDTO> Post([FromBody] BookDTO value)
         {
             Console.WriteLine("+++++++++++++++++++++++++" + value);
-            //return JsonConvert.SerializeObject(new BookIdDTO() { book_id = 5 });
+            return new BookIdDTO() { book_id = 5 };
         }
 
         // PUT: library/books/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public ActionResult<BookIdDTO> Put(int id, [FromBody] BookDTO value)
         {
-
+            //TODO: ändern in DB
+            return new BookIdDTO() { book_id = 5 };
         }
 
-        // DELETE: library/ApiWithActions/5
+        // DELETE: library/books/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public ActionResult<BookIdDTO> Delete(int id)
         {
-
+            return new BookIdDTO() { book_id = 5 };
         }
     }
 }

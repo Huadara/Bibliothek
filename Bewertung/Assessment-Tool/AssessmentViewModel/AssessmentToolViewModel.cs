@@ -158,6 +158,7 @@ namespace AssessmentViewModel
                     Task = x
                 })
                 .AsObservableCollection();
+                People = db.Persons.AsObservableCollection();
             }
         }
 
@@ -173,6 +174,7 @@ namespace AssessmentViewModel
                 GivePoint();
                 AdjustView();
                 AdjustTaskInDb();
+                People = db.Persons.AsObservableCollection();
             }
         }
 

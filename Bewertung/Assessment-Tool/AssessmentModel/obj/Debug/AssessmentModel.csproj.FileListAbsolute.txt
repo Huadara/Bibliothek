@@ -10,3 +10,15 @@ C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessmen
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentModel\obj\Debug\AssessmentModel.dll
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentModel\obj\Debug\AssessmentModel.pdb
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt - Bibliothek\Bewertung\Assessment-Tool\AssessmentModel\obj\Debug\AssessmentModel.csprojAssemblyReference.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\bin\Debug\AssessmentModel.dll.config
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\bin\Debug\AssessmentModel.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\bin\Debug\AssessmentModel.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\bin\Debug\EntityFramework.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\bin\Debug\EntityFramework.xml
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\obj\Debug\AssessmentModel.csprojAssemblyReference.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\obj\Debug\AssessmentModel.csproj.CoreCompileInputs.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\obj\Debug\AssessmentModel.csproj.CopyComplete
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\obj\Debug\AssessmentModel.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentModel\obj\Debug\AssessmentModel.pdb

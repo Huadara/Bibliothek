@@ -16,8 +16,6 @@ namespace LibraryBackend.Models
 
         public string publisher;
 
-        public int supplierId;
-
         public double price;
 
     }

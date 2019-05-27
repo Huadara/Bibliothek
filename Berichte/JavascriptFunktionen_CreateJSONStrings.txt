@@ -4,10 +4,14 @@ function addCustomer(firstname, lastname, address, creditNr)
   return json;
 }
 
+<<<<<<< HEAD
 //Noch nicht auf Änderungen bei JSON-Strings angepasst
+function addBook(title, author, publisher, supplier_id, isbn, price)
+=======
 function addBook(title, author, publisher, supplier_id, isbn, price, amount)
+>>>>>>> 4a72eeb7ca9f159b043cc5ca70bd4ee129c331df
 {
-  const json = `{ "title": "${title}", "author": "${author}", "publisher": "${publisher}", "supplier_id": ${supplier_id}, "isbn": "${isbn}", "price": ${price}, "amount": ${amount}}`
+  const json = `{ "title": "${title}", "author": "${author}", "publisher": "${publisher}", "supplier_id": ${supplier_id}, "isbn": "${isbn}", "price": ${price}}`
   return json;
 }
 
@@ -15,4 +19,14 @@ function addSupplier(company_name, address)
 {
   const json = `{ "company_name": "${company_name}", "address": "${address}" }`;
   return json;
+}
+
+function storeBook(store_id, book_id, amount)
+{
+  return `{ "store_id": ${store_id}, "book_id": ${book_id}, "amount": ${amount} }`;
+}
+
+function lendBook(customer_id, book_id, store_id, amount, is_lending, is_buying)
+{
+  return `{ "customer_id": ${customer_id}, "book_id": ${book_id}, "store_id": ${store_id}, "amount": ${amount}, "is_lending": ${is_lending}, "is_buying": ${is_buying} }`;
 }

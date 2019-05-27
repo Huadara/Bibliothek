@@ -61,6 +61,7 @@
 </template>
 
 <script>
+
     export default {
         name: "AddBookComponent",
       data(){
@@ -76,9 +77,12 @@
       methods:{
         addBook(title, author, publisher, supplier_id, isbn, price)
         {
+            const axios = require('axios');
             const json = `{ "title": "${title}", "author": "${author}", "publisher": "${publisher}", "supplier_id": ${supplier_id}, "isbn": "${isbn}", "price": ${price}}`
-            this.$http.post("/library/books", json);
-            this.$htt
+            axios.post("/library/books", json,
+              {headers: {
+                'Content-type': 'application/json'
+                }});
         }
       }
     }
@@ -87,3 +91,4 @@
 <style scoped>
 
 </style>
+

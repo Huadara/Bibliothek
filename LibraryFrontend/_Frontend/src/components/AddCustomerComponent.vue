@@ -36,7 +36,7 @@
       </b-row>
       <b-row>
         <b-col>
-          <b-button :variant="primary">Send Customer ID</b-button>
+          <b-button :variant="primary">Add Customer</b-button>
         </b-col>
       </b-row>
     </b-container>

@@ -22,3 +22,6 @@ C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.xml
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CopyComplete

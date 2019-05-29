@@ -28,9 +28,9 @@
 </template>
 
 <script>
-    export default {
-        name: "BuyBookComponent"
-    }
+  export default {
+    name: "BuyBookComponent"
+  }
 </script>
 
 <style scoped>

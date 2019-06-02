@@ -1,11 +1,13 @@
 ﻿using System;
+using System.Reflection;
+using System.Configuration;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace LibraryDb
 {
     public partial class LibraryContext : DbContext
     {
+        public readonly static string DB_FOLDER_NAME = "LibraryDb";
         public LibraryContext()
         {
         }
@@ -27,8 +29,13 @@ namespace LibraryDb
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            string path = Environment.CurrentDirectory;
+            path = $"{path.Substring(0, path.LastIndexOf('\\') + 1)}{DB_FOLDER_NAME}";
+            Console.WriteLine($"            *** path = {path}");
             if (!optionsBuilder.IsConfigured)
-                optionsBuilder.UseSqlServer("data source=(LocalDB)\\mssqllocaldb;attachdbfilename=C:\\DBI_Projekt_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\LibaryDB.mdf;integrated security=True");
+            {
+                optionsBuilder.UseSqlServer($"data source=(LocalDB)\\mssqllocaldb;attachdbfilename={path}\\LibaryDB.mdf;integrated security=True");
+            }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

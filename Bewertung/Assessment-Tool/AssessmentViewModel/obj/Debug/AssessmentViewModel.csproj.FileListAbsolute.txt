@@ -36,3 +36,22 @@ C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\Assess
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentViewModel\obj\Debug\AssessmentViewModel.csproj.CopyComplete
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentViewModel\obj\Debug\AssessmentViewModel.dll
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Bewertung\Assessment-Tool\AssessmentViewModel\obj\Debug\AssessmentViewModel.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\AssessmentViewModel.dll.config
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\AssessmentViewModel.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\AssessmentViewModel.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\AssessmentControlLib.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\AssessmentModel.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\EntityFramework.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\MVVM.Tools.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\AssessmentControlLib.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\AssessmentModel.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\AssessmentModel.dll.config
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\EntityFramework.xml
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\obj\Debug\AssessmentViewModel.csprojAssemblyReference.cache
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\obj\Debug\AssessmentViewModel.csproj.CoreCompileInputs.cache
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\obj\Debug\AssessmentViewModel.csproj.CopyComplete
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\obj\Debug\AssessmentViewModel.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\Bewertung\Assessment-Tool\AssessmentViewModel\obj\Debug\AssessmentViewModel.pdb

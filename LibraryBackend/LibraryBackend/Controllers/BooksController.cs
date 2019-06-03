@@ -19,6 +19,7 @@ namespace LibraryBackend.Controllers
 
         // GET: library/books
         [HttpGet]
+        //[Route("/contact")]
         public ActionResult<List<BookDTO>> Get()
         {
             List<Book> dbBooks = Context.db.Books.ToList();
@@ -37,6 +38,7 @@ namespace LibraryBackend.Controllers
         [HttpPost]
         public ActionResult<BookIdDTO> Post([FromBody] BookDTO newBook)
         {
+            Console.WriteLine($"title: {newBook.title}, price: ${newBook.price}");
             Book b = new Book()
             {
                 Title = newBook.title,

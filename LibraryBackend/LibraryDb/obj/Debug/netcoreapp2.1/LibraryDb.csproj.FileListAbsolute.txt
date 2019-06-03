@@ -1,42 +1,12 @@
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.dll
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.pdb
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csprojAssemblyReference.cache
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CoreCompileInputs.cache
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\EFCorePluralizer.cs
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfoInputs.cache
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.dll
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.pdb
-C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csprojAssemblyReference.cache
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CoreCompileInputs.cache
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\EFCorePluralizer.cs
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfoInputs.cache
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb
-<<<<<<< HEAD
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.dll
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.xml
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CopyComplete
-=======
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.dll
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.pdb
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csprojAssemblyReference.cache
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CoreCompileInputs.cache
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\EFCorePluralizer.cs
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfoInputs.cache
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb
->>>>>>> ecf8060ec4de1dbff054cb1f6bf4e238e7435143
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csprojAssemblyReference.cache

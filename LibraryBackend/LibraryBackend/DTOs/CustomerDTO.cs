@@ -8,8 +8,11 @@ namespace LibraryBackend.DTOs
     public class CustomerDTO
     {
         public string firstname;
+
         public string lastname;
+
         public string address;
+
         public string credit_number;
     }
 }

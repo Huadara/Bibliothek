@@ -11,7 +11,8 @@ namespace LibraryBackend.DTOs
     {
         public static BookDTO convertBookToDTO(Book b)
         {
-            BookDTO bookDTO = new BookDTO() {
+            BookDTO bookDTO = new BookDTO()
+            {
                 title = b.Title,
                 author = b.Author,
                 isbn = b.Isbn,
@@ -31,6 +32,17 @@ namespace LibraryBackend.DTOs
                 credit_number = c.CreditNumber
             };
             return customerDTO;
+        }
+
+        public static SupplierDTO convertSupplierToDTO(Supplier c)
+        {
+            SupplierDTO supplierDTO = new SupplierDTO()
+            {
+                supplier_id = c.SupplierId,
+                company_name = c.CompanyName,
+                address = c.Address
+            };
+            return supplierDTO;
         }
     }
 }

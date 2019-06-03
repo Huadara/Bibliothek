@@ -9,13 +9,9 @@ namespace LibraryBackend.Models
     {
         //{"title":"Dating the Enemy","author":"Gownge","isbn":"002542194-8","publisher":"Ciotto","supplierId":93,"price":46}
         public string title;
-
         public string author;
-
         public string isbn;
-
         public string publisher;
-
         public double price;
 
     }

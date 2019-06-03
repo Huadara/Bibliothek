@@ -38,6 +38,7 @@ namespace LibraryBackend.DTOs
         {
             SupplierDTO supplierDTO = new SupplierDTO()
             {
+                supplier_id = c.SupplierId,
                 company_name = c.CompanyName,
                 address = c.Address
             };

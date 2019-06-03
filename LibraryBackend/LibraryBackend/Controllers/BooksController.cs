@@ -69,7 +69,7 @@ namespace LibraryBackend.Controllers
             }
             catch (Exception e)
             {
-                //id wurde nicht in der db gefunden.
+                Console.WriteLine($"#### there was no book with id {id}: {e.Message} ####");
                 return new BookIdDTO() { book_id = -1 };
             }
         }
@@ -88,7 +88,7 @@ namespace LibraryBackend.Controllers
             }
             catch (Exception e)
             {
-                //id wurde nicht in der db gefunden.
+                Console.WriteLine($"#### there was no book with id {id}: {e.Message} ####");
                 return new BookIdDTO() { book_id = -1 };
             }
         }

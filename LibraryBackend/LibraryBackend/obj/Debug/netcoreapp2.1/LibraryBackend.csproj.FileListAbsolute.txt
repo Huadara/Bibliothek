@@ -32,6 +32,7 @@ C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBac
 C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
 C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
 C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
+<<<<<<< HEAD
 D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.deps.json
 D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.json
 D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.dev.json
@@ -49,3 +50,22 @@ D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debu
 D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
 D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
 D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
+=======
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.deps.json
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.json
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.dev.json
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csprojAssemblyReference.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CoreCompileInputs.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cs
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfoInputs.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfo.cs
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorTargetAssemblyInfo.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
+>>>>>>> 501a753e8d0e40ec60456ca50f353e5296f59a0e

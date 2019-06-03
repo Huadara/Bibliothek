@@ -3608,23 +3608,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Lukas Bauer\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\A. Salletmaier\\.nuget\\packages\\": {},
+>>>>>>> 501a753e8d0e40ec60456ca50f353e5296f59a0e
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\School\\Dbi 4.klasse\\PROJEKT\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj",
       "projectName": "LibraryDb",
       "projectPath": "D:\\School\\Dbi 4.klasse\\PROJEKT\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj",
       "packagesPath": "C:\\Users\\Lukas Bauer\\.nuget\\packages\\",
       "outputPath": "D:\\School\\Dbi 4.klasse\\PROJEKT\\Bibliothek\\LibraryBackend\\LibraryDb\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj",
+      "projectName": "LibraryDb",
+      "projectPath": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\LibraryDb.csproj",
+      "packagesPath": "C:\\Users\\A. Salletmaier\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\A. Salletmaier\\_Data\\_sync\\DBI\\Projekt\\Git\\GitHub_Bibliothek\\Bibliothek\\LibraryBackend\\LibraryDb\\obj\\",
+>>>>>>> 501a753e8d0e40ec60456ca50f353e5296f59a0e
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Lukas Bauer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\A. Salletmaier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 501a753e8d0e40ec60456ca50f353e5296f59a0e
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

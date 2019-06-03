@@ -26,7 +26,7 @@ namespace LibraryBackend.Controllers
         }
 
         // GET: library/books/5
-        [HttpGet("{id}", Name = "Get")]
+        [HttpGet("{id}")]
         public ActionResult<BookDTO> Get(int id)
         {
             return DTOConverter.convertBookToDTO(Context.db.Books.Where(x => x.BookId == id).First());

@@ -20,5 +20,17 @@ namespace LibraryBackend.DTOs
             };
             return bookDTO;
         }
+
+        public static CustomerDTO convertCustomerToDTO(Customer c)
+        {
+            CustomerDTO customerDTO = new CustomerDTO()
+            {
+                firstname = c.Firstname,
+                lastname = c.Lastname,
+                address = c.Address,
+                credit_number = c.CreditNumber
+            };
+            return customerDTO;
+        }
     }
 }

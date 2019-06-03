@@ -5,9 +5,10 @@ using System.Threading.Tasks;
 
 namespace LibraryBackend.DTOs
 {
-    public class ErrorDTO
+    public class SupplierDTO
     {
-        public int error_code = 1;
-        public string error_message;
+        public int supplier_id;
+        public string company_name;
+        public string address;
     }
 }

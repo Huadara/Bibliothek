@@ -5,12 +5,14 @@ using System.Threading.Tasks;
 using LibraryBackend.DTOs;
 using LibraryBackend.Models;
 using LibraryDb;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
 namespace LibraryBackend.Controllers
 {
+    [EnableCors("AllowMyOrigin")]
     [Route("library/[controller]")]
     [ApiController]
     public class BooksController : ControllerBase

@@ -1,56 +1,3 @@
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.deps.json
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.json
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.dev.json
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.dll
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.pdb
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.dll
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.pdb
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csprojAssemblyReference.cache
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CoreCompileInputs.cache
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cache
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cs
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfoInputs.cache
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfo.cs
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorTargetAssemblyInfo.cache
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.deps.json
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.json
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.dev.json
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.dll
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.pdb
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.dll
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.pdb
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csprojAssemblyReference.cache
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CoreCompileInputs.cache
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cache
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cs
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfoInputs.cache
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfo.cs
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorTargetAssemblyInfo.cache
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
-C:\Users\aleks\Schule\DBI\ProjectBibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
-<<<<<<< HEAD
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.deps.json
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.json
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.dev.json
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.dll
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.pdb
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.dll
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.pdb
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csprojAssemblyReference.cache
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CoreCompileInputs.cache
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cache
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cs
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfoInputs.cache
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfo.cs
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorTargetAssemblyInfo.cache
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
-D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
-=======
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.deps.json
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.json
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.dev.json
@@ -68,4 +15,3 @@ C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
->>>>>>> 501a753e8d0e40ec60456ca50f353e5296f59a0e

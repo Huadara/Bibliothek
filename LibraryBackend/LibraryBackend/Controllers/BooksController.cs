@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Web.Http.Cors;
 using LibraryBackend.DTOs;
 using LibraryBackend.Models;
 using LibraryDb;
@@ -11,6 +12,7 @@ using Newtonsoft.Json;
 
 namespace LibraryBackend.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     [Route("library/[controller]")]
     [ApiController]
     public class BooksController : ControllerBase

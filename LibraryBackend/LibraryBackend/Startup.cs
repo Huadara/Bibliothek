@@ -25,6 +25,11 @@ namespace LibraryBackend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowMyOrigin",
+                    builder => builder.AllowAnyOrigin());
+            });
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
@@ -35,6 +40,7 @@ namespace LibraryBackend
                 app.UseHsts();
             //app.UseHttpsRedirection();
             app.UseMvc();
+            app.UseCors("AllowMyOrigin");
         }
     }
 }

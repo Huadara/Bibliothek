@@ -28,7 +28,9 @@ namespace LibraryBackend
             services.AddCors(options =>
             {
                 options.AddPolicy("AllowMyOrigin",
-                    builder => builder.AllowAnyOrigin());
+                    builder => builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
             });
         }
 

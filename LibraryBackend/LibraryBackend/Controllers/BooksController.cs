@@ -12,7 +12,6 @@ using Newtonsoft.Json;
 
 namespace LibraryBackend.Controllers
 {
-    [EnableCors("AllowMyOrigin")]
     [Route("library/[controller]")]
     [ApiController]
     public class BooksController : ControllerBase

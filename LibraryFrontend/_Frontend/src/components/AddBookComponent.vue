@@ -44,11 +44,11 @@
       </b-row>
       <b-row>
         <b-col>
-          <b-button :variant="primary" @click="testget">Add Book</b-button>
+          <b-button :variant="primary" @click="addBook">Add Book</b-button>
         </b-col>
       </b-row>
     </b-container>
-    <h1>{{posts}}</h1>
+    <h1>{{addBook}}</h1>
   </div>
 </template>
 
@@ -63,37 +63,35 @@
         author: "",
         publisher: "",
         isbn: "",
-        price: "",
-        response: "",
-        error: "",
-        posts: []
+        price: ""
       }
     },
     methods: {
-      addBook(title, author, publisher, isbn, price) {
-        const json = `{ "title": "${title}", "author": "${author}", "publisher": "${publisher}", "isbn": "${isbn}", "price": ${price}}`
-        console.log(Console);
-
-        axios.post('http://localhost:5000/library/books', json,
+      addBook() {
+        const json = { title: '${title}', author: '${author}', publisher: '${publisher}', isbn: '${isbn}', price: '${price}'};
+        axios.post('http://localhost:5000/library/books',
           {
-
-            headers: {
-              'Content-type': 'application/json'
-
+            body: {
+              title: 'a',
+              author: 'b',
+              publisher: 'c',
+              isbn: 'd',
+              price: 'e'
             }
           });
+        return json;
       }
       ,
       testget() {
-        return axios.get('http://localhost:8080/library/books/1',
+        return axios.get('http://localhost:5000/library/books/1',
           {
-            headers:{
-              'Access-Control-Allow-Origin': 'http://localhost:8080/'
-            }
+              headers:{
+                'Content-type': 'application/json'
+              }
           })
           .then(function (response) {
-            this.setState({posts: response.data});
-            console.log(this.posts);
+
+            console.log(response.data);
           })
           .catch(function (error) {
 

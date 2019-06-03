@@ -10,3 +10,15 @@ C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.dll
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.pdb
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csprojAssemblyReference.cache
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CoreCompileInputs.cache
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\EFCorePluralizer.cs
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfoInputs.cache
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
+D:\School\Dbi 4.klasse\PROJEKT\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb

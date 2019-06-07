@@ -9,7 +9,7 @@ namespace LibraryDb
         public int CustomerId { get; set; }
         public int BookId { get; set; }
         public int StoreId { get; set; }
-        public int PaidPrice { get; set; }
+        public float PaidPrice { get; set; }
 
         public Book Book { get; set; }
         public Customer Customer { get; set; }

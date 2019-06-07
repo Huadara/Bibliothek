@@ -1,14 +1,53 @@
-/*! *****************************************************************************
-Copyright (c) Microsoft Corporation. All rights reserved.
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use
-this file except in compliance with the License. You may obtain a copy of the
-License at http://www.apache.org/licenses/LICENSE-2.0
+<template>
+  <div>
+    <h1>SUPPLIER</h1>
+    <b-container>
+      <b-row>
+        <b-col>
+          <h4>Company Name:</h4>
+        </b-col>
+        <b-col>
+          <input v-model="companyName">
+        </b-col>
+      </b-row>
+      <b-row>
+        <b-col>
+          <h4>Address:</h4>
+        </b-col>
+        <b-col>
+          <input v-model="address">
+        </b-col>
+      </b-row>
+      <b-row>
+        <b-col>
+          <b-button :variant="primary" @click="addSupplier">Add Supplier</b-button>
+        </b-col>
+      </b-row>
+    </b-container>
+    <h1>{{addSupplier(companyName, address)}}</h1>
+  </div>
+</template>
 
-THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
-WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
-MERCHANTABLITY OR NON-INFRINGEMENT.
+<script>
 
-See the Apache Version 2.0 License for specific language governing permissions
-and limitations under the License.
-****
+  export default {
+    name: "AddSupplierComponent",
+    data() {
+      return {
+        companyName: "",
+        address: ""
+      }
+    },
+    methods: {
+      addSupplier(company_name, address) {
+
+        const json = `{ "company_name": "${company_name}", "address": "${address}" }`;
+        return json;
+      }
+    }
+  }
+</script>
+
+<style scoped>
+
+</style>

@@ -5,9 +5,11 @@ import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import App from './App'
+import axios from 'axios'
 import router from './router'
 
 Vue.config.productionTip = false
+Vue.prototype.$http = axios
 
 Vue.use(BootstrapVue)
 /* eslint-disable no-new */

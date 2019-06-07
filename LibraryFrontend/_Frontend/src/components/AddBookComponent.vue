@@ -28,14 +28,6 @@
       </b-row>
       <b-row>
         <b-col>
-          <h4>Supplier:</h4>
-        </b-col>
-        <b-col>
-          <b-dropdown v-model="supplier_id"></b-dropdown>
-        </b-col>
-      </b-row>
-      <b-row>
-        <b-col>
           <h4>ISBN:</h4>
         </b-col>
         <b-col>
@@ -56,11 +48,12 @@
         </b-col>
       </b-row>
     </b-container>
-    <h1>{{addBook(title,author,publisher,1,isbn,price)}}</h1>
+    <h1>{{addBook}}</h1>
   </div>
 </template>
 
 <script>
+  import axios from 'axios';
 
   export default {
     name: "AddBookComponent",
@@ -69,24 +62,42 @@
         title: "",
         author: "",
         publisher: "",
-        supplier_id: Number,
         isbn: "",
         price: ""
       }
     },
     methods: {
-      addBook(title, author, publisher, supplier_id, isbn, price) {
-        const axios = require('axios');
-        const json = `{ "title": "${title}", "author": "${author}", "publisher": "${publisher}", "supplier_id": ${supplier_id}, "isbn": "${isbn}", "price": ${price}}`
-        return json;
-        axios.post("/library/books", json,
+      addBook() {
+        const json = { title: '${title}', author: '${author}', publisher: '${publisher}', isbn: '${isbn}', price: '${price}'};
+        axios.post('http://localhost:5000/library/books',
           {
-            headers: {
-              'Content-type': 'application/json'
+            body: {
+              title: 'a',
+              author: 'b',
+              publisher: 'c',
+              isbn: 'd',
+              price: 'e'
             }
           });
+        return json;
       }
-    }
+      ,
+      testget() {
+        return axios.get('http://localhost:5000/library/books/1',
+          {
+              headers:{
+                'Content-type': 'application/json'
+              }
+          })
+          .then(function (response) {
+
+            console.log(response.data);
+          })
+          .catch(function (error) {
+
+          });
+      }
+    },
   }
 </script>
 

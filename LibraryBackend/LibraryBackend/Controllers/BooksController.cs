@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using LibraryBackend.DTOs;
 using LibraryBackend.Models;
 using LibraryDb;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -18,6 +19,7 @@ namespace LibraryBackend.Controllers
 
         // GET: library/books
         [HttpGet]
+        //[Route("/contact")]
         public ActionResult<List<BookDTO>> Get()
         {
             List<Book> dbBooks = Context.db.Books.ToList();
@@ -26,7 +28,7 @@ namespace LibraryBackend.Controllers
         }
 
         // GET: library/books/5
-        [HttpGet("{id}", Name = "Get")]
+        [HttpGet("{id}")]
         public ActionResult<BookDTO> Get(int id)
         {
             return DTOConverter.convertBookToDTO(Context.db.Books.Where(x => x.BookId == id).First());
@@ -36,6 +38,7 @@ namespace LibraryBackend.Controllers
         [HttpPost]
         public ActionResult<BookIdDTO> Post([FromBody] BookDTO newBook)
         {
+            Console.WriteLine($"title: {newBook.title}, price: ${newBook.price}");
             Book b = new Book()
             {
                 Title = newBook.title,
@@ -68,7 +71,7 @@ namespace LibraryBackend.Controllers
             }
             catch (Exception e)
             {
-                //id wurde nicht in der db gefunden.
+                Console.WriteLine($"#### there was no book with id {id}: {e.Message} ####");
                 return new BookIdDTO() { book_id = -1 };
             }
         }
@@ -87,7 +90,7 @@ namespace LibraryBackend.Controllers
             }
             catch (Exception e)
             {
-                //id wurde nicht in der db gefunden.
+                Console.WriteLine($"#### there was no book with id {id}: {e.Message} ####");
                 return new BookIdDTO() { book_id = -1 };
             }
         }

@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Reflection;
-using System.Configuration;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace LibraryDb
 {
@@ -34,7 +33,7 @@ namespace LibraryDb
             Console.WriteLine($"            *** path = {path}");
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer($"data source=(LocalDB)\\mssqllocaldb;attachdbfilename={path}\\LibaryDB.mdf;integrated security=True");
+                optionsBuilder.UseSqlServer($"data source=(LocalDB)\\mssqllocaldb;attachdbfilename={path}\\LibraryDB.mdf;integrated security=True");
             }
         }
 

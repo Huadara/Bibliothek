@@ -19,7 +19,6 @@ namespace LibraryBackend.Controllers
 
         // GET: library/books
         [HttpGet]
-        //[Route("/contact")]
         public ActionResult<List<BookDTO>> Get()
         {
             List<Book> dbBooks = Context.db.Books.ToList();

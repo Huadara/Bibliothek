@@ -15,3 +15,20 @@ C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\net
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.deps.json
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.json
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.runtimeconfig.dev.json
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryBackend.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\bin\Debug\netcoreapp2.1\LibraryDb.pdb
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csprojAssemblyReference.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CoreCompileInputs.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorAssemblyInfo.cs
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfoInputs.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.AssemblyInfo.cs
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.RazorTargetAssemblyInfo.cache
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.csproj.CopyComplete
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.dll
+C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryBackend\obj\Debug\netcoreapp2.1\LibraryBackend.pdb

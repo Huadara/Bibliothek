@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>CUSTOMER</h1>
+    <h1>Add Customer</h1>
     <b-container>
       <b-row>
         <b-col>
@@ -36,32 +36,46 @@
       </b-row>
       <b-row>
         <b-col>
-          <b-button :variant="primary">Add Customer</b-button>
+          <b-button :variant="primary" @click="addCustomer">Add Customer</b-button>
         </b-col>
       </b-row>
     </b-container>
-    <h1>{{addCustomer(firstname,lastname,address,credit_number)}}</h1>
+    <span>{{msg}}</span>
   </div>
 </template>
 
 <script>
-  export default {
-    name: "AddCustomerComponent",
-    data() {
-      return {
-        firstname: "",
-        lastname: "",
-        address: "",
-        credit_number: ""
-      }
-    },
-    methods: {
-      addCustomer(firstname, lastname, address, creditNr) {
-        const json = `{ "firstname": "${firstname}", "lastname": "${lastname}", "address": "${address}", "credit_number": "${creditNr}" }`;
-        return json;
-      }
+import axios from 'axios'
+
+export default {
+  name: 'AddCustomerComponent',
+  data () {
+    return {
+      firstname: '',
+      lastname: '',
+      address: '',
+      credit_number: '',
+      msg: ''
+    }
+  },
+  methods: {
+    addCustomer () {
+      const self = this
+      axios.post('http://localhost:5000/library/customers', {
+        'firstname': this.firstname,
+        'lastname': this.lastname,
+        'address': this.address,
+        'credit_number': this.credit_number
+      }).then(function (response) {
+        if (response != null) console.log('response')
+        self.msg = 'Add successful'
+      }).catch(function (error) {
+        if (error != null) console.log('error')
+        self.msg = 'Please check your entries'
+      })
     }
   }
+}
 </script>
 
 <style scoped>

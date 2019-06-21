@@ -1,13 +1,13 @@
 <template>
   <div>
-    <h1>SUPPLIER</h1>
+    <h1>Add Supplier</h1>
     <b-container>
       <b-row>
         <b-col>
           <h4>Company Name:</h4>
         </b-col>
         <b-col>
-          <input v-model="companyName">
+          <input v-model="company_name">
         </b-col>
       </b-row>
       <b-row>
@@ -24,28 +24,38 @@
         </b-col>
       </b-row>
     </b-container>
-    <h1>{{addSupplier(companyName, address)}}</h1>
+    <span>{{msg}}</span>
   </div>
 </template>
 
 <script>
+import axios from 'axios'
 
-  export default {
-    name: "AddSupplierComponent",
-    data() {
-      return {
-        companyName: "",
-        address: ""
-      }
-    },
-    methods: {
-      addSupplier(company_name, address) {
-
-        const json = `{ "company_name": "${company_name}", "address": "${address}" }`;
-        return json;
-      }
+export default {
+  name: 'AddSupplierComponent',
+  data () {
+    return {
+      company_name: '',
+      address: '',
+      msg: ''
+    }
+  },
+  methods: {
+    addSupplier () {
+      const self = this
+      axios.post('http://localhost:5000/library/suppliers', {
+        'company_name': this.company_name,
+        'address': this.address
+      }).then(function (response) {
+        if (response != null) console.log('response')
+        self.msg = 'Add successful'
+      }).catch(function (error) {
+        if (error != null) console.log('error')
+        self.msg = 'Please check your entries'
+      })
     }
   }
+}
 </script>
 
 <style scoped>

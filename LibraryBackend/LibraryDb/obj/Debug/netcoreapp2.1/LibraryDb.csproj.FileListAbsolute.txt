@@ -1,15 +1,8 @@
-c:\Datenbanken\Library\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
-c:\Datenbanken\Library\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
-c:\Datenbanken\Library\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json
-c:\Datenbanken\Library\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.dll
-c:\Datenbanken\Library\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.pdb
-c:\Datenbanken\Library\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csprojAssemblyReference.cache
-c:\Datenbanken\Library\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CoreCompileInputs.cache
-c:\Datenbanken\Library\LibraryDb\obj\Debug\netcoreapp2.1\EFCorePluralizer.cs
-c:\Datenbanken\Library\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfoInputs.cache
-c:\Datenbanken\Library\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
-c:\Datenbanken\Library\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
-c:\Datenbanken\Library\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.dll
+C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.pdb
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csprojAssemblyReference.cache
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CoreCompileInputs.cache
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\EFCorePluralizer.cs
@@ -17,11 +10,18 @@ C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcorea
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
 C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.dll
-C:\DBI_Projekt_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.pdb
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.dll
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.pdb
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csprojAssemblyReference.cache
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.csproj.CoreCompileInputs.cache
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\EFCorePluralizer.cs
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfoInputs.cache
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.AssemblyInfo.cs
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.dll
+C:\Backups\Bibliothek\LibraryBackend\LibraryDb\obj\Debug\netcoreapp2.1\LibraryDb.pdb
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.deps.json
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.json
 C:\Users\A. Salletmaier\_Data\_sync\DBI\Projekt\Git\GitHub_Bibliothek\Bibliothek\LibraryBackend\LibraryDb\bin\Debug\netcoreapp2.1\LibraryDb.runtimeconfig.dev.json

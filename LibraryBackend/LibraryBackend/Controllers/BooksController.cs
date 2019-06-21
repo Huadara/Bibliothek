@@ -93,5 +93,122 @@ namespace LibraryBackend.Controllers
                 return new BookIdDTO() { book_id = -1 };
             }
         }
+
+        // POST: library/books/StoreBook
+        //public int book_id;
+        //public int store_id;
+        //public int amount;
+        [HttpPost("StoreBook")]
+        public ActionResult<StoredBookDTO> StoreBook(StoredBookDTO book)
+        {
+            Console.WriteLine($"*****   storing a new book: {book.book_id}*{book.amount} --> storeId: {book.store_id}");
+            try
+            {
+                int storedBookCount = Context.db.StoredBooks.Where(x => x.StoreId == book.store_id && x.BookId == book.book_id).Count();
+                if (storedBookCount == 0) //book is new
+                {
+                    Context.db.StoredBooks.Add(new StoredBook()
+                    {
+                        StoreId = book.store_id,
+                        BookId = book.book_id,
+                        Amount = book.amount
+                    });
+                    return new StoredBookDTO() { store_id = book.store_id, amount = book.amount, book_id = book.book_id };
+                }
+                else //there are already books stored
+                {
+                    StoredBook b = Context.db.StoredBooks.Where(x => x.StoreId == book.store_id && x.BookId == book.book_id).First();
+                    b.Amount = b.Amount + book.amount;
+
+                    return new StoredBookDTO() { store_id = b.StoreId, amount = b.Amount, book_id = b.BookId };
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"#### book couldn't be stored {book.book_id}: {e.Message} ####");
+                return new StoredBookDTO() { store_id = book.store_id, amount = -1, book_id = book.book_id };
+            }
+            finally
+            {
+                Context.db.SaveChanges();
+            }
+        }
+
+        // POST: library/books/LendBook
+        //public int customer_id;
+        //public int book_id;
+        //public int store_id;
+        //public int amount;
+        [HttpPost("LendBook")]
+        public ActionResult<StoredBookDTO> LendBook(LendingDTO lending)
+        {
+            Console.WriteLine($"*****   lending a new book: customer '{lending.customer_id}', book '{lending.book_id}'*{lending.amount} --> storeId: {lending.store_id}");
+            try
+            {
+                int actualAmount = GetAmountOfCertainBook(lending.book_id, lending.store_id);
+                if ((actualAmount - lending.amount) < 0) throw new Exception();
+                StoredBook storedBook = Context.db.StoredBooks.Where(x => x.StoreId == lending.store_id && x.BookId == lending.book_id).First();
+                storedBook.Amount -= lending.amount;
+                Lending dbLending = new Lending()
+                {
+                    CustomerId = lending.customer_id,
+                    StoredBook = storedBook,
+                    StartDate = DateTime.Now,
+                    ActualReturnDate = DateTime.Now
+                };
+                Context.db.Lendings.Add(dbLending);
+                Context.db.SaveChanges();
+                return new StoredBookDTO() { store_id = storedBook.StoreId, amount = storedBook.Amount, book_id = storedBook.BookId };
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"#### book couldn't be lended {lending.book_id}: {e.Message} ####");
+                return new StoredBookDTO() { store_id = lending.store_id, amount = -1, book_id = lending.book_id };
+            }
+        }
+
+        // POST: library/books/RestoreBook
+        //public int customer_id;
+        //public int book_id;
+        //public int store_id;
+        //public int amount;
+        [HttpPost("RestoreBook")]
+        public ActionResult<StoredBookDTO> RestoreBook(LendingDTO lending)
+        {
+            Console.WriteLine($"*****   giving a new book back: customer '{lending.customer_id}', book '{lending.book_id}'*{lending.amount} --> storeId: {lending.store_id}");
+            try
+            {
+                StoredBook storedBook = Context.db.StoredBooks.Where(x => x.StoreId == lending.store_id && x.BookId == lending.book_id).First();
+                storedBook.Amount += lending.amount;
+                Lending dbLending = Context.db.Lendings.Where(x => x.StoredBookBookId == lending.book_id && x.StoredBookStoreId == lending.store_id).FirstOrDefault();
+                dbLending.ActualReturnDate = DateTime.Now;
+                //TODO: Wenn das Buch nach erst nach dem Startdatum + 3 zurückgegeben wurde, wird das Buch verkauft.
+                Context.db.SaveChanges();
+                return new StoredBookDTO() { store_id = storedBook.StoreId, amount = storedBook.Amount, book_id = storedBook.BookId };
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"#### book couldn't be restored {lending.book_id}: {e.Message} ####");
+                return new StoredBookDTO() { store_id = lending.store_id, amount = -1, book_id = lending.book_id };
+            }
+        }
+
+        // POST: library/books/BuyBook
+        [HttpPost("BuyBook")]
+        public ActionResult<StoredBookDTO> BuyBook(LendingDTO lending)
+        {
+            Console.WriteLine($"*****   buying a new book: customer '{lending.customer_id}', book '{lending.book_id}'*{lending.amount} --> storeId: {lending.store_id}");
+            //TODO
+            return null;
+        }
+
+        #region Helpers
+        private int GetAmountOfCertainBook(int bookId, int storeId)
+        {
+            int amount = Context.db.StoredBooks.Where(x => x.BookId == bookId && x.StoreId == storeId).Count();
+            if (amount == 0) return -1;
+            else return Context.db.StoredBooks.Where(x => x.BookId == bookId && x.StoreId == storeId).First().Amount;
+        }
+        #endregion
     }
 }

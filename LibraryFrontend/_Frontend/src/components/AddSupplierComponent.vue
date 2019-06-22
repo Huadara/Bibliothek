@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div v-bind:style="{ color: 'white' }">
     <h1>Add Supplier</h1>
     <b-container>
       <b-row>
@@ -20,7 +20,7 @@
       </b-row>
       <b-row>
         <b-col>
-          <b-button :variant="primary" @click="addSupplier">Add Supplier</b-button>
+          <b-button :variant="primary" @click="addSupplier">Submit</b-button>
         </b-col>
       </b-row>
     </b-container>
@@ -48,11 +48,13 @@ export default {
         'address': this.address
       }).then(function (response) {
         if (response != null) console.log('response')
-        self.msg = 'Add successful'
+        self.msg = response.data.message
       }).catch(function (error) {
         if (error != null) console.log('error')
         self.msg = 'Please check your entries'
       })
+      self.company_name = ''
+      self.address = ''
     }
   }
 }

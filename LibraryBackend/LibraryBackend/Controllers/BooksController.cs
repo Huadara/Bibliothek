@@ -94,6 +94,37 @@ namespace LibraryBackend.Controllers
             }
         }
 
+        // GET: library/books/GetStoredBook
+        [HttpGet("GetStoredBook/{bookId?}/{storeId?}")]
+        public ActionResult<StoredBookDTO> GetStoredBook(int bookId, int storeId)
+        {
+            try
+            {
+                var storedBook = Context.db.StoredBooks.Single(x => x.StoreId == storeId && x.BookId == bookId);
+                string lowStockWarning = storedBook.Amount <= 5
+                    ? $"Book on low stock with an amount of {storedBook.Amount}"
+                    : $"Book in stock. Amount: {storedBook.Amount}";
+                return new StoredBookDTO
+                {
+                    store_id = storedBook.StoreId,
+                    amount = storedBook.Amount,
+                    book_id = storedBook.BookId,
+                    message = lowStockWarning
+                };
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"#### book not in stock {bookId}: {e.Message} ####");
+                return new StoredBookDTO
+                {
+                    store_id = storeId,
+                    amount = -1,
+                    book_id = bookId,
+                    message = "Book not in stock"
+                };
+            }
+        }
+
         // POST: library/books/StoreBook
         //public int book_id;
         //public int store_id;
@@ -113,20 +144,37 @@ namespace LibraryBackend.Controllers
                         BookId = book.book_id,
                         Amount = book.amount
                     });
-                    return new StoredBookDTO() { store_id = book.store_id, amount = book.amount, book_id = book.book_id };
+                    return new StoredBookDTO()
+                    {
+                        store_id = book.store_id,
+                        amount = book.amount,
+                        book_id = book.book_id,
+                        message = $"New Book with ID {book.book_id} created."
+                    };
                 }
                 else //there are already books stored
                 {
                     StoredBook b = Context.db.StoredBooks.Where(x => x.StoreId == book.store_id && x.BookId == book.book_id).First();
                     b.Amount = b.Amount + book.amount;
 
-                    return new StoredBookDTO() { store_id = b.StoreId, amount = b.Amount, book_id = b.BookId };
+                    return new StoredBookDTO()
+                    {
+                        store_id = b.StoreId,
+                        amount = b.Amount,
+                        book_id = b.BookId,
+                        message = $"Added amount for book with ID {b.BookId}. Current stock: {b.Amount}"
+                    };
                 }
             }
             catch (Exception e)
             {
                 Console.WriteLine($"#### book couldn't be stored {book.book_id}: {e.Message} ####");
-                return new StoredBookDTO() { store_id = book.store_id, amount = -1, book_id = book.book_id };
+                return new StoredBookDTO()
+                {
+                    store_id = book.store_id,
+                    amount = -1,
+                    book_id = book.book_id
+                };
             }
             finally
             {
@@ -158,12 +206,23 @@ namespace LibraryBackend.Controllers
                 };
                 Context.db.Lendings.Add(dbLending);
                 Context.db.SaveChanges();
-                return new StoredBookDTO() { store_id = storedBook.StoreId, amount = storedBook.Amount, book_id = storedBook.BookId };
+                return new StoredBookDTO()
+                {
+                    store_id = storedBook.StoreId,
+                    amount = storedBook.Amount,
+                    book_id = storedBook.BookId,
+                    message = $"Book with ID {storedBook.BookId} has been lended."
+                };
             }
             catch (Exception e)
             {
                 Console.WriteLine($"#### book couldn't be lended {lending.book_id}: {e.Message} ####");
-                return new StoredBookDTO() { store_id = lending.store_id, amount = -1, book_id = lending.book_id };
+                return new StoredBookDTO()
+                {
+                    store_id = lending.store_id,
+                    amount = -1,
+                    book_id = lending.book_id
+                };
             }
         }
 
@@ -178,28 +237,84 @@ namespace LibraryBackend.Controllers
             Console.WriteLine($"*****   giving a new book back: customer '{lending.customer_id}', book '{lending.book_id}'*{lending.amount} --> storeId: {lending.store_id}");
             try
             {
-                StoredBook storedBook = Context.db.StoredBooks.Where(x => x.StoreId == lending.store_id && x.BookId == lending.book_id).First();
-                storedBook.Amount += lending.amount;
-                Lending dbLending = Context.db.Lendings.Where(x => x.StoredBookBookId == lending.book_id && x.StoredBookStoreId == lending.store_id).FirstOrDefault();
+                Lending dbLending = Context.db.Lendings
+                    .Where(x => x.StoredBookBookId == lending.book_id
+                    && x.StoredBookStoreId == lending.store_id
+                    && x.CustomerId == lending.customer_id).FirstOrDefault();
                 dbLending.ActualReturnDate = DateTime.Now;
-                //TODO: Wenn das Buch nach erst nach dem Startdatum + 3 zurückgegeben wurde, wird das Buch verkauft.
+                StoredBook storedBook = Context.db.StoredBooks.Single(x => x.StoreId == lending.store_id && x.BookId == lending.book_id);
+                //Nach 3 Tagen wird das Buch verkauft.
+                string msgForDto = $"Restored lended book with ID {storedBook.BookId}";
+                if ((dbLending.ActualReturnDate - dbLending.StartDate).TotalDays <= 3)
+                {
+                    storedBook.Amount += lending.amount;
+                    msgForDto = $"Book with ID {storedBook.BookId} has been lended for more than 3 days. It has been sold to customer with ID {lending.customer_id}.";
+                }
                 Context.db.SaveChanges();
-                return new StoredBookDTO() { store_id = storedBook.StoreId, amount = storedBook.Amount, book_id = storedBook.BookId };
+                return new StoredBookDTO()
+                {
+                    store_id = storedBook.StoreId,
+                    amount = storedBook.Amount,
+                    book_id = storedBook.BookId,
+                    message = msgForDto
+                };
             }
             catch (Exception e)
             {
                 Console.WriteLine($"#### book couldn't be restored {lending.book_id}: {e.Message} ####");
-                return new StoredBookDTO() { store_id = lending.store_id, amount = -1, book_id = lending.book_id };
+                return new StoredBookDTO()
+                {
+                    store_id = lending.store_id,
+                    amount = -1,
+                    book_id = lending.book_id
+                };
             }
         }
 
         // POST: library/books/BuyBook
+        //public int customer_id;
+        //public int book_id;
+        //public int store_id;
+        //public int amount;
         [HttpPost("BuyBook")]
-        public ActionResult<StoredBookDTO> BuyBook(LendingDTO lending)
+        public ActionResult<StoredBookDTO> BuyBook(LendingDTO purchase)
         {
-            Console.WriteLine($"*****   buying a new book: customer '{lending.customer_id}', book '{lending.book_id}'*{lending.amount} --> storeId: {lending.store_id}");
-            //TODO
-            return null;
+            Console.WriteLine($"*****   buying a new book: customer '{purchase.customer_id}', book '{purchase.book_id}'*{purchase.amount} --> storeId: {purchase.store_id}");
+            try
+            {
+                int actualAmount = GetAmountOfCertainBook(purchase.book_id, purchase.store_id);
+                if ((actualAmount - purchase.amount) < 0) throw new Exception();
+                StoredBook storedBook = Context.db.StoredBooks
+                    .Single(x => x.StoreId == purchase.store_id && x.BookId == purchase.book_id);
+                storedBook.Amount -= purchase.amount;
+                Context.db.SaveChanges();
+                return new StoredBookDTO()
+                {
+                    store_id = storedBook.StoreId,
+                    amount = storedBook.Amount,
+                    book_id = storedBook.BookId,
+                    message = $"Book with ID {storedBook.BookId} has been bought."
+                };
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"#### book couldn't be bought {purchase.book_id}: {e.Message} ####");
+                return new StoredBookDTO()
+                {
+                    store_id = purchase.store_id,
+                    amount = -1,
+                    book_id = purchase.book_id
+                };
+            }
+        }
+
+        [HttpGet("GetRelevantLendings")]
+        public ActionResult<List<OpenLendingDTO>> GetRelevantLendings()
+        {
+            return Context.db.Lendings
+                .Where(x => x.StartDate.Equals(x.ActualReturnDate))
+                .Select(x => DTOConverter.convertLendingToDTO(x))
+                .ToList();
         }
 
         #region Helpers

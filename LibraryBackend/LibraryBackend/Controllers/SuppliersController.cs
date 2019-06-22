@@ -30,6 +30,8 @@ namespace LibraryBackend.Controllers
         }
 
         // POST: library/suppliers
+        //public string company_name;
+        //public string address;
         [HttpPost]
         public ActionResult<SupplierIdDTO> Post([FromBody] SupplierDTO newSupplier)
         {

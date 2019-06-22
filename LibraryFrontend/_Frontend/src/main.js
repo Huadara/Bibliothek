@@ -9,7 +9,7 @@ import axios from 'axios'
 import router from './router'
 
 Vue.config.productionTip = false
-Vue.prototype.$http = axios
+Vue.prototype.$axios = axios
 
 Vue.use(BootstrapVue)
 /* eslint-disable no-new */

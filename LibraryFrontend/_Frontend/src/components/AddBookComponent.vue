@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div v-bind:style="{ color: 'white' }">
     <h1>Add Book</h1>
     <b-container>
       <b-row>
@@ -44,7 +44,7 @@
       </b-row>
       <b-row>
         <b-col>
-          <b-button :variant="primary" @click="addBook">Add Book</b-button>
+          <b-button @click="addBook">Submit</b-button>
         </b-col>
       </b-row>
     </b-container>
@@ -78,11 +78,16 @@ export default {
         price: this.price
       }).then(function (response) {
         if (response != null) console.log('response')
-        self.msg = 'Add successful'
+        self.msg = response.data.message
       }).catch(function (error) {
         if (error != null) console.log('error')
         self.msg = 'Please check your entries'
       })
+      self.title = ''
+      self.author = ''
+      self.publisher = ''
+      self.isbn = ''
+      self.price = ''
     }
   }
 }

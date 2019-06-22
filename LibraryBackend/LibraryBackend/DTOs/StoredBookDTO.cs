@@ -10,5 +10,7 @@ namespace LibraryBackend.DTOs
         public int book_id;
         public int store_id;
         public int amount;
+
+        public string message;
     }
 }

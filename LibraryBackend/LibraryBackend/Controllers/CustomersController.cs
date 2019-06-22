@@ -30,6 +30,10 @@ namespace LibraryBackend.Controllers
         }
 
         // POST: library/customers
+        //public string firstname;
+        //public string lastname;
+        //public string address;
+        //public string credit_number;
         [HttpPost]
         public ActionResult<CustomerIdDTO> Post([FromBody] CustomerDTO newCustomer)
         {

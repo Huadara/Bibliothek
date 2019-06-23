@@ -246,11 +246,11 @@ namespace LibraryBackend.Controllers
                 Lending dbLending = Context.db.Lendings
                     .Where(x => x.StoredBookBookId == lending.book_id
                     && x.StoredBookStoreId == lending.store_id
-                    && x.CustomerId == lending.customer_id).FirstOrDefault();
+                    && x.CustomerId == lending.customer_id
+                    && DateTime.Compare(x.StartDate, x.ActualReturnDate) == 0).FirstOrDefault();
                 dbLending.ActualReturnDate = DateTime.Now;
                 StoredBook storedBook = Context.db.StoredBooks.Single(x => x.StoreId == lending.store_id && x.BookId == lending.book_id);
                 storedBook.Amount += lending.amount;
-                //Nach 3 Tagen wird das Buch
                 Context.db.SaveChanges();
                 return new StoredBookDTO()
                 {

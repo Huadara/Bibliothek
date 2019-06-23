@@ -1,6 +1,6 @@
 <template>
   <div v-bind:style="{ color: 'white' }">
-    <h1>Book</h1>
+    <h1>Store Book</h1>
     <b-container>
       <b-row>
         <b-col>

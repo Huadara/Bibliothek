@@ -8,5 +8,6 @@ namespace LibraryBackend.DTOs
     public class SupplierIdDTO
     {
         public int supplier_id;
+        public string message;
     }
 }

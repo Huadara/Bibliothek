@@ -48,7 +48,11 @@ namespace LibraryBackend.Controllers
             Context.db.SaveChanges();
             int newId = c.CustomerId;
             Console.WriteLine($"                ++++++++++++++ {newId} ++++++++++++++");
-            return new CustomerIdDTO() { customer_id = newId };
+            return new CustomerIdDTO()
+            {
+                customer_id = newId,
+                message = $"New customer with ID {newId} has been added."
+            };
         }
 
         // PUT: library/customers/5

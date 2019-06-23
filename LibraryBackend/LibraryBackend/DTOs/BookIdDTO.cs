@@ -8,5 +8,6 @@ namespace LibraryBackend.DTOs
     public class BookIdDTO
     {
         public int book_id;
+        public string message;
     }
 }

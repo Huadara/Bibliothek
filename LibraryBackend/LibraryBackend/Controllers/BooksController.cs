@@ -50,7 +50,11 @@ namespace LibraryBackend.Controllers
             Context.db.SaveChanges();
             int newId = b.BookId;
             Console.WriteLine($"                ++++++++++++++ {newId} ++++++++++++++");
-            return new BookIdDTO() { book_id = newId };
+            return new BookIdDTO()
+            {
+                book_id = newId,
+                message = $"New book with ID {newId} has been added."
+            };
         }
 
         // PUT: library/books/5
@@ -149,7 +153,7 @@ namespace LibraryBackend.Controllers
                         store_id = book.store_id,
                         amount = book.amount,
                         book_id = book.book_id,
-                        message = $"New Book with ID {book.book_id} created."
+                        message = $"New Book with ID {book.book_id} stored."
                     };
                 }
                 else //there are already books stored
@@ -197,12 +201,13 @@ namespace LibraryBackend.Controllers
                 if ((actualAmount - lending.amount) < 0) throw new Exception();
                 StoredBook storedBook = Context.db.StoredBooks.Where(x => x.StoreId == lending.store_id && x.BookId == lending.book_id).First();
                 storedBook.Amount -= lending.amount;
+                var currentTime = DateTime.Now;
                 Lending dbLending = new Lending()
                 {
                     CustomerId = lending.customer_id,
                     StoredBook = storedBook,
-                    StartDate = DateTime.Now,
-                    ActualReturnDate = DateTime.Now
+                    StartDate = currentTime,
+                    ActualReturnDate = currentTime
                 };
                 Context.db.Lendings.Add(dbLending);
                 Context.db.SaveChanges();
@@ -211,7 +216,7 @@ namespace LibraryBackend.Controllers
                     store_id = storedBook.StoreId,
                     amount = storedBook.Amount,
                     book_id = storedBook.BookId,
-                    message = $"Book with ID {storedBook.BookId} has been lended."
+                    message = $"Book with ID {storedBook.BookId} has been lended. Remaining amount: {storedBook.Amount}"
                 };
             }
             catch (Exception e)
@@ -221,7 +226,8 @@ namespace LibraryBackend.Controllers
                 {
                     store_id = lending.store_id,
                     amount = -1,
-                    book_id = lending.book_id
+                    book_id = lending.book_id,
+                    message = $"Book with ID {lending.book_id} not in stock. Cannot be lended"
                 };
             }
         }
@@ -243,20 +249,15 @@ namespace LibraryBackend.Controllers
                     && x.CustomerId == lending.customer_id).FirstOrDefault();
                 dbLending.ActualReturnDate = DateTime.Now;
                 StoredBook storedBook = Context.db.StoredBooks.Single(x => x.StoreId == lending.store_id && x.BookId == lending.book_id);
-                //Nach 3 Tagen wird das Buch verkauft.
-                string msgForDto = $"Restored lended book with ID {storedBook.BookId}";
-                if ((dbLending.ActualReturnDate - dbLending.StartDate).TotalDays <= 3)
-                {
-                    storedBook.Amount += lending.amount;
-                    msgForDto = $"Book with ID {storedBook.BookId} has been lended for more than 3 days. It has been sold to customer with ID {lending.customer_id}.";
-                }
+                storedBook.Amount += lending.amount;
+                //Nach 3 Tagen wird das Buch
                 Context.db.SaveChanges();
                 return new StoredBookDTO()
                 {
                     store_id = storedBook.StoreId,
                     amount = storedBook.Amount,
                     book_id = storedBook.BookId,
-                    message = msgForDto
+                    message = $"Restored lended book with ID {storedBook.BookId}. Amount: {storedBook.Amount}"
                 };
             }
             catch (Exception e)
@@ -303,7 +304,8 @@ namespace LibraryBackend.Controllers
                 {
                     store_id = purchase.store_id,
                     amount = -1,
-                    book_id = purchase.book_id
+                    book_id = purchase.book_id,
+                    message = $"No books in stock!"
                 };
             }
         }
@@ -312,7 +314,8 @@ namespace LibraryBackend.Controllers
         public ActionResult<List<OpenLendingDTO>> GetRelevantLendings()
         {
             return Context.db.Lendings
-                .Where(x => x.StartDate.Equals(x.ActualReturnDate))
+                .ToList()
+                .Where(x => DateTime.Compare(x.StartDate, x.ActualReturnDate) == 0)
                 .Select(x => DTOConverter.convertLendingToDTO(x))
                 .ToList();
         }

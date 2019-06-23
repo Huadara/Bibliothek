@@ -1,6 +1,6 @@
 <template>
   <div v-bind:style="{ color: 'white' }">
-    <h1>Book</h1>
+    <h1>Book Actions</h1>
     <b-container>
       <b-row class="p-2">
         <b-col>
@@ -56,14 +56,6 @@
       </b-row>
       <b-row>
         <b-col>
-          <h4>Amount:</h4>
-        </b-col>
-        <b-col>
-          <input v-model="amount">
-        </b-col>
-      </b-row>
-      <b-row>
-        <b-col>
           <b-button :variant="primary" @click="lendBook">Submit</b-button>
         </b-col>
       </b-row>
@@ -84,7 +76,7 @@ export default {
       currentBook: Object,
       currentCustomer: Object,
       currentStore: '',
-      amount: '',
+      amount: 1, // Customer leiht sich immer nur ein Buch aus
       books: [],
       customers: [],
       filteredBooks: [],
@@ -165,7 +157,6 @@ export default {
       self.customer_id = ''
       self.book_id = ''
       self.store_id = ''
-      self.amount = ''
     }
   },
   props: {

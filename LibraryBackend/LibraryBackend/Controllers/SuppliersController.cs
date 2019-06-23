@@ -44,7 +44,11 @@ namespace LibraryBackend.Controllers
             Context.db.SaveChanges();
             int newId = s.SupplierId;
             Console.WriteLine($"                ++++++++++++++ {newId} ++++++++++++++");
-            return new SupplierIdDTO() { supplier_id = newId };
+            return new SupplierIdDTO()
+            {
+                supplier_id = newId,
+                message = $"New supplier with ID {newId} has been added."
+            };
         }
 
         // PUT: library/suppliers/5

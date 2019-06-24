@@ -267,7 +267,8 @@ namespace LibraryBackend.Controllers
                 {
                     store_id = lending.store_id,
                     amount = -1,
-                    book_id = lending.book_id
+                    book_id = lending.book_id,
+                    message = $"Book has not been lended."
                 };
             }
         }
@@ -288,6 +289,17 @@ namespace LibraryBackend.Controllers
                 StoredBook storedBook = Context.db.StoredBooks
                     .Single(x => x.StoreId == purchase.store_id && x.BookId == purchase.book_id);
                 storedBook.Amount -= purchase.amount;
+                var price = Context.db.Books
+                    .Single(x => x.BookId == storedBook.BookId)
+                    .Price;
+                Context.db.Sales
+                    .Add(new Sale
+                    {
+                        CustomerId = purchase.customer_id,
+                        BookId = (int)purchase.book_id,
+                        StoreId = (int)purchase.store_id,
+                        PaidPrice = price
+                    });
                 Context.db.SaveChanges();
                 return new StoredBookDTO()
                 {

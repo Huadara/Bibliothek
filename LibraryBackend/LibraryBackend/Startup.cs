@@ -26,9 +26,24 @@ namespace LibraryBackend
 
         private void InitDatabase()
         {
-            Context.db.Lendings.Where(x => (DateTime.Now - x.StartDate).TotalDays > 3)
+            Context.db.Lendings.Where(x => (DateTime.Now - x.StartDate).TotalDays > 3 && DateTime.Compare(x.StartDate, x.ActualReturnDate) == 0)
                 .ToList()
-                .ForEach(x => x.ActualReturnDate = DateTime.Now);
+                .ForEach(x =>
+                {
+                    var price = Context.db.Books
+                    .Single(y => y.BookId == x.StoredBookBookId)
+                    .Price;
+                    Context.db.Sales.Add(new Sale
+                    {
+                        CustomerId = x.CustomerId,
+                        BookId = (int)x.StoredBookBookId,
+                        StoreId = (int)x.StoredBookStoreId,
+                        PaidPrice = price
+                    });
+                    x.ActualReturnDate = DateTime.Now;
+                });
+
+            Context.db.SaveChanges();
         }
 
         public IConfiguration Configuration { get; }
